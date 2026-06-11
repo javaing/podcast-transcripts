@@ -5,24 +5,38 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Turning Pokemon Cards into fx(hash) Grails - Interview with McLlama · 中文逐字稿</title>
   <style>
-    :root { color-scheme: light dark; --bg:#0f1115; --card:#171a21; --text:#e8eaed; --muted:#9aa0a6; --accent:#7aa2ff; --border:#2a2f3a; }
-    @media (prefers-color-scheme: light) { :root { --bg:#f6f7fb; --card:#fff; --text:#1f2328; --muted:#656d76; --accent:#0969da; --border:#d0d7de; } }
+    :root {
+      color-scheme: light dark;
+      --bg:#0f1115; --card:#171a21; --text:#e8eaed; --muted:#9aa0a6; --accent:#7aa2ff; --border:#2a2f3a;
+      --wtbs-blue:#2a6da0; --wtbs-teal:#4c9181; --wtbs-pink:#f4b6d1;
+    }
+    @media (prefers-color-scheme: light) {
+      :root { --bg:#f6f7fb; --card:#fff; --text:#1f2328; --muted:#656d76; --accent:#0969da; --border:#d0d7de; }
+    }
     body { margin:0; font-family:"Segoe UI",system-ui,sans-serif; background:var(--bg); color:var(--text); line-height:1.8; }
     .wrap { max-width:820px; margin:0 auto; padding:2rem 1.25rem 4rem; }
-    .meta { color:var(--muted); margin-bottom:1.5rem; }
+    .title-row { display:flex; gap:1rem; align-items:flex-start; margin-bottom:1.5rem; }
+    .show-icon { width:52px; height:52px; border-radius:10px; flex-shrink:0; box-shadow:0 2px 10px rgba(42,109,160,.28); }
+    .meta { color:var(--muted); margin:0; }
     .links a { color:var(--accent); margin-right:1rem; }
     article { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:1.5rem; }
-    h1 { font-size:1.6rem; line-height:1.3; }
+    h1 { font-size:1.6rem; line-height:1.3; margin:0 0 .35rem; }
     h2 { margin-top:2rem; font-size:1.2rem; }
     .note { font-size:.9rem; color:var(--muted); border-left:3px solid var(--border); padding-left:.9rem; margin:1rem 0 1.5rem; }
     details { margin-top:2rem; }
+    .page--wtbs .note { border-left-color:var(--wtbs-teal); }
   </style>
 </head>
-<body>
+<body class="page--wtbs">
   <div class="wrap">
     <p><a href="../index.html">← 返回文集首頁</a></p>
-    <h1>Turning Pokemon Cards into fx(hash) Grails - Interview with McLlama</h1>
-    <p class="meta">Waiting To Be Signed · McLlama (@PompousLL) · 2026-06-09 · 約 58 分鐘</p>
+    <div class="title-row">
+      <img class="show-icon" src="../assets/wtbs-icon.png" alt="Waiting To Be Signed" width="52" height="52" loading="lazy" />
+      <div>
+        <h1>Turning Pokemon Cards into fx(hash) Grails - Interview with McLlama</h1>
+        <p class="meta">Waiting To Be Signed · McLlama (@PompousLL) · 2026-06-09 · 約 58 分鐘</p>
+      </div>
+    </div>
     <p class="links">
       <a href="https://open.spotify.com/episode/19APff7PEWHjSz0APBH5Sb" target="_blank" rel="noopener">Spotify 原始連結</a>
       <a href="https://podcasters.spotify.com/pod/show/waitingtobesigned/episodes/Turning-Pokemon-Cards-into-fxhash-Grails---Interview-with-McLlama-e3ki02q" target="_blank" rel="noopener">節目頁</a>

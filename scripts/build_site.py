@@ -14,6 +14,25 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 from glossary import apply_corrections, load_glossary  # noqa: E402
 
+WTBS_SHOW = "Waiting To Be Signed"
+WTBS_ICON = "assets/wtbs-icon.png"
+
+
+def is_wtbs(meta: dict) -> bool:
+    return meta.get("show", "").strip() == WTBS_SHOW
+
+
+def icon_src(depth: int = 0) -> str:
+    prefix = "../" * depth
+    return f"{prefix}{WTBS_ICON}"
+
+
+def show_icon_html(depth: int = 0) -> str:
+    return (
+        f'<img class="show-icon" src="{icon_src(depth)}" '
+        f'alt="{html.escape(WTBS_SHOW)}" width="52" height="52" loading="lazy" />'
+    )
+
 
 def para(text: str) -> str:
     # Double newlines separate dialogue turns / paragraphs.
@@ -33,6 +52,15 @@ def build_episode_page(episode_dir: Path, out_dir: Path) -> Path:
     en = (episode_dir / "transcript_en.txt").read_text(encoding="utf-8")
     slug = episode_dir.name
 
+    wtbs = is_wtbs(meta)
+    title_block = f"""<div class="title-row">
+      {show_icon_html(1) if wtbs else ""}
+      <div>
+        <h1>{html.escape(meta['title_en'])}</h1>
+        <p class="meta">{html.escape(meta['show'])} · {html.escape(meta['guest'])} · {html.escape(meta['published'])} · 約 {int(meta['duration_sec'] // 60)} 分鐘</p>
+      </div>
+    </div>"""
+
     page = f"""<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
@@ -40,24 +68,32 @@ def build_episode_page(episode_dir: Path, out_dir: Path) -> Path:
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{html.escape(meta['title_en'])} · 中文逐字稿</title>
   <style>
-    :root {{ color-scheme: light dark; --bg:#0f1115; --card:#171a21; --text:#e8eaed; --muted:#9aa0a6; --accent:#7aa2ff; --border:#2a2f3a; }}
-    @media (prefers-color-scheme: light) {{ :root {{ --bg:#f6f7fb; --card:#fff; --text:#1f2328; --muted:#656d76; --accent:#0969da; --border:#d0d7de; }} }}
+    :root {{
+      color-scheme: light dark;
+      --bg:#0f1115; --card:#171a21; --text:#e8eaed; --muted:#9aa0a6; --accent:#7aa2ff; --border:#2a2f3a;
+      --wtbs-blue:#2a6da0; --wtbs-teal:#4c9181; --wtbs-pink:#f4b6d1;
+    }}
+    @media (prefers-color-scheme: light) {{
+      :root {{ --bg:#f6f7fb; --card:#fff; --text:#1f2328; --muted:#656d76; --accent:#0969da; --border:#d0d7de; }}
+    }}
     body {{ margin:0; font-family:"Segoe UI",system-ui,sans-serif; background:var(--bg); color:var(--text); line-height:1.8; }}
     .wrap {{ max-width:820px; margin:0 auto; padding:2rem 1.25rem 4rem; }}
-    .meta {{ color:var(--muted); margin-bottom:1.5rem; }}
+    .title-row {{ display:flex; gap:1rem; align-items:flex-start; margin-bottom:1.5rem; }}
+    .show-icon {{ width:52px; height:52px; border-radius:10px; flex-shrink:0; box-shadow:0 2px 10px rgba(42,109,160,.28); }}
+    .meta {{ color:var(--muted); margin:0; }}
     .links a {{ color:var(--accent); margin-right:1rem; }}
     article {{ background:var(--card); border:1px solid var(--border); border-radius:12px; padding:1.5rem; }}
-    h1 {{ font-size:1.6rem; line-height:1.3; }}
+    h1 {{ font-size:1.6rem; line-height:1.3; margin:0 0 .35rem; }}
     h2 {{ margin-top:2rem; font-size:1.2rem; }}
     .note {{ font-size:.9rem; color:var(--muted); border-left:3px solid var(--border); padding-left:.9rem; margin:1rem 0 1.5rem; }}
     details {{ margin-top:2rem; }}
+    .page--wtbs .note {{ border-left-color:var(--wtbs-teal); }}
   </style>
 </head>
-<body>
+<body class="{"page--wtbs" if wtbs else ""}">
   <div class="wrap">
     <p><a href="../index.html">← 返回文集首頁</a></p>
-    <h1>{html.escape(meta['title_en'])}</h1>
-    <p class="meta">{html.escape(meta['show'])} · {html.escape(meta['guest'])} · {html.escape(meta['published'])} · 約 {int(meta['duration_sec'] // 60)} 分鐘</p>
+    {title_block}
     <p class="links">
       <a href="{meta['spotify_url']}" target="_blank" rel="noopener">Spotify 原始連結</a>
       <a href="{meta['source_url']}" target="_blank" rel="noopener">節目頁</a>
@@ -90,6 +126,9 @@ INDEX_STYLE = """
       --muted: #9aa0a6;
       --accent: #7aa2ff;
       --border: #2a2f3a;
+      --wtbs-blue: #2a6da0;
+      --wtbs-teal: #4c9181;
+      --wtbs-pink: #f4b6d1;
     }
     @media (prefers-color-scheme: light) {
       :root {
@@ -110,7 +149,19 @@ INDEX_STYLE = """
       line-height: 1.7;
     }
     .wrap { max-width: 820px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
-    h1 { font-size: 1.8rem; margin-bottom: 0.25rem; }
+    .hero {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      margin-bottom: 0.5rem;
+    }
+    .hero-icon {
+      width: 56px;
+      height: 56px;
+      border-radius: 12px;
+      box-shadow: 0 4px 16px rgba(42, 109, 160, 0.25);
+    }
+    h1 { font-size: 1.8rem; margin: 0; }
     .subtitle { color: var(--muted); margin-bottom: 2rem; }
     .card {
       background: var(--card);
@@ -119,8 +170,26 @@ INDEX_STYLE = """
       padding: 1.25rem 1.5rem;
       margin-bottom: 1rem;
     }
-    .card h2 { margin: 0 0 0.5rem; font-size: 1.15rem; }
-    .meta { color: var(--muted); font-size: 0.92rem; margin-bottom: 0.75rem; }
+    .card--wtbs {
+      border-left: 4px solid var(--wtbs-teal);
+      background: linear-gradient(135deg, color-mix(in srgb, var(--card) 92%, var(--wtbs-blue) 8%), var(--card));
+    }
+    .card-head {
+      display: flex;
+      gap: 0.9rem;
+      align-items: flex-start;
+      margin-bottom: 0.75rem;
+    }
+    .show-icon {
+      width: 48px;
+      height: 48px;
+      border-radius: 10px;
+      flex-shrink: 0;
+      box-shadow: 0 2px 10px rgba(42, 109, 160, 0.22);
+    }
+    .card h2 { margin: 0 0 0.35rem; font-size: 1.15rem; line-height: 1.35; }
+    .meta { color: var(--muted); font-size: 0.92rem; margin: 0 0 0.75rem; }
+    .show-name { color: var(--wtbs-teal); font-weight: 600; }
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
     .links { display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.95rem; }
@@ -147,10 +216,22 @@ def build_index(root: Path) -> Path:
         slug = meta["slug"]
         minutes = int(meta.get("duration_sec", 0) // 60) or "?"
         guest = html.escape(meta.get("guest", ""))
+        wtbs = is_wtbs(meta)
+        show_label = (
+            f'<span class="show-name">{html.escape(meta["show"])}</span>'
+            if wtbs
+            else html.escape(meta["show"])
+        )
+        card_class = "card card--wtbs" if wtbs else "card"
+        head_icon = f"\n        {show_icon_html(0)}" if wtbs else ""
         cards.append(
-            f"""    <article class="card">
-      <h2>{html.escape(meta['title_en'])}</h2>
-      <p class="meta">{html.escape(meta['show'])} · {guest} · {html.escape(meta.get('published', ''))} · 約 {minutes} 分鐘</p>
+            f"""    <article class="{card_class}">
+      <div class="card-head">{head_icon}
+        <div>
+          <h2>{html.escape(meta['title_en'])}</h2>
+          <p class="meta">{show_label} · {guest} · {html.escape(meta.get('published', ''))} · 約 {minutes} 分鐘</p>
+        </div>
+      </div>
       <div class="links">
         <a href="episodes/{slug}.html">閱讀中文逐字稿</a>
         <a href="{meta['spotify_url']}" target="_blank" rel="noopener">Spotify 原始連結</a>
@@ -170,7 +251,10 @@ def build_index(root: Path) -> Path:
 </head>
 <body>
   <div class="wrap">
-    <h1>Podcast 中文逐字稿</h1>
+    <div class="hero">
+      <img class="hero-icon" src="{WTBS_ICON}" alt="{html.escape(WTBS_SHOW)}" width="56" height="56" />
+      <h1>Podcast 中文逐字稿</h1>
+    </div>
     <p class="subtitle">英文 podcast 轉錄與翻譯，保留原始連結。節目名、平台名、人名等專有名詞不翻譯。</p>
 
 {chr(10).join(cards)}
