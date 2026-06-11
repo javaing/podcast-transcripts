@@ -1,0 +1,29 @@
+---
+description: Podcast 中文逐字稿翻譯術語表與處理規則
+globs: podcast-transcripts/**/*
+alwaysApply: false
+---
+
+# Podcast 翻譯術語規則
+
+處理英文 podcast 轉中文逐字稿時，必須遵守 `glossary.json`：
+
+## 不翻譯（保留英文原文）
+
+- 節目名：Waiting To Be Signed
+- 平台／網站：fxhash、Tezos、Art Blocks、Hicetnunc、objkt、verse、Zora、OpenSea、Raster
+- 人名：McLlama、Zancan、Erick Calderon、William Mapan、Will、Trinity 等
+- 常見專有名詞：見 `glossary.json` 的 `protected_terms`
+
+## 翻譯後修正
+
+機器翻譯完成後，執行 `scripts/fix_episode.py` 套用 `glossary.json` 的 `corrections`。
+
+## 標準流程
+
+1. 從 RSS 取得 MP3（Spotify 有 DRM，不可直接下載）
+2. Whisper 轉錄英文
+3. 翻譯前以 placeholder 保護術語
+4. 翻譯為繁體中文
+5. 套用術語修正
+6. `scripts/build_site.py` 產生 GitHub Pages 靜態頁

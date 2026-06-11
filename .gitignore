@@ -1,0 +1,6 @@
+# Audio and processing artifacts
+transcripts/**/episode.mp3
+transcripts/**/process.log
+__pycache__/
+*.pyc
+.DS_Store

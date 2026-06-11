@@ -1,0 +1,4187 @@
+[
+  {
+    "start": 0.0,
+    "end": 20.92,
+    "text": "All right, hello and welcome everyone to another episode of Waiting to Be Signed."
+  },
+  {
+    "start": 20.92,
+    "end": 23.56,
+    "text": "We've got a special interview episode for you all today."
+  },
+  {
+    "start": 23.56,
+    "end": 25.2,
+    "text": "It's a collector interview."
+  },
+  {
+    "start": 25.2,
+    "end": 31.2,
+    "text": "We're joined by Nicolama, who you might know from the FX hash sales feed mostly and"
+  },
+  {
+    "start": 31.2,
+    "end": 34.76,
+    "text": "also his Twitter account, which I actually should have had it open because your name"
+  },
+  {
+    "start": 34.76,
+    "end": 38.0,
+    "text": "isn't at Nicolama on Twitter, but we'll plug that in a moment."
+  },
+  {
+    "start": 38.0,
+    "end": 40.04,
+    "text": "Hey man, thanks for coming on the show."
+  },
+  {
+    "start": 40.04,
+    "end": 41.04,
+    "text": "Yeah, thanks for having me."
+  },
+  {
+    "start": 41.04,
+    "end": 42.04,
+    "text": "It's an honor."
+  },
+  {
+    "start": 42.04,
+    "end": 46.28,
+    "text": "I've been looking through some of the episodes that I missed in the recent months."
+  },
+  {
+    "start": 46.28,
+    "end": 50.28,
+    "text": "And yeah, I mean, you've interviewed my favorite artists and some really cool collectors."
+  },
+  {
+    "start": 50.28,
+    "end": 51.879999999999995,
+    "text": "And so, yeah, happy to be here."
+  },
+  {
+    "start": 51.879999999999995,
+    "end": 52.879999999999995,
+    "text": "Oh, nice."
+  },
+  {
+    "start": 52.879999999999995,
+    "end": 54.480000000000004,
+    "text": "Yeah, what stood out to you on the artist side?"
+  },
+  {
+    "start": 54.48,
+    "end": 59.199999999999996,
+    "text": "Well, Erics one and Zancan for sure, I would claim to be my favorite artist."
+  },
+  {
+    "start": 59.199999999999996,
+    "end": 64.16,
+    "text": "Yeah, so I had actually listened to the Erics one one previously, but I think the Zancan"
+  },
+  {
+    "start": 64.16,
+    "end": 65.72,
+    "text": "interview was somewhat recent."
+  },
+  {
+    "start": 65.72,
+    "end": 68.08,
+    "text": "So it was really on that, yeah."
+  },
+  {
+    "start": 68.08,
+    "end": 71.0,
+    "text": "Recent in terms of the episode numbers, because we've reduced the number of episodes we've"
+  },
+  {
+    "start": 71.0,
+    "end": 72.24,
+    "text": "done a lot."
+  },
+  {
+    "start": 72.24,
+    "end": 74.64,
+    "text": "So it's probably not that far back."
+  },
+  {
+    "start": 74.64,
+    "end": 78.44,
+    "text": "But yeah, let's let's let's click this thing off and I'll ask you, of course, to introduce"
+  },
+  {
+    "start": 78.44,
+    "end": 82.72,
+    "text": "yourself however you like and tell us a bit about your background in collecting and how"
+  },
+  {
+    "start": 82.72,
+    "end": 88.28,
+    "text": "you came to start collecting NFTs and in particular, generative art."
+  },
+  {
+    "start": 88.28,
+    "end": 92.44,
+    "text": "My general personal background is I work in sort of a data engineer type role."
+  },
+  {
+    "start": 92.44,
+    "end": 94.16,
+    "text": "So I'm on the computer all the time."
+  },
+  {
+    "start": 94.16,
+    "end": 97.08,
+    "text": "So that naturally works out pretty well with the collecting."
+  },
+  {
+    "start": 97.08,
+    "end": 100.03999999999999,
+    "text": "I'm able to keep tabs on things really easily."
+  },
+  {
+    "start": 100.03999999999999,
+    "end": 105.24,
+    "text": "But yeah, I mean, as far as getting into the NFT art, I really have no formal experience"
+  },
+  {
+    "start": 105.24,
+    "end": 106.56,
+    "text": "in art whatsoever."
+  },
+  {
+    "start": 106.56,
+    "end": 109.4,
+    "text": "It was all through crypto as I'm sure is a common story."
+  },
+  {
+    "start": 109.72,
+    "end": 111.84,
+    "text": "I kind of got into crypto in around 2017."
+  },
+  {
+    "start": 111.84,
+    "end": 116.08000000000001,
+    "text": "You know, bought the top of that first cycle and I have experienced full market cycles,"
+  },
+  {
+    "start": 116.08000000000001,
+    "end": 117.08000000000001,
+    "text": "you could say."
+  },
+  {
+    "start": 117.08000000000001,
+    "end": 123.76,
+    "text": "And the same with my collecting for my entire life, you know, from Pokemon to NFTs, I've"
+  },
+  {
+    "start": 123.76,
+    "end": 128.84,
+    "text": "been through market cycles and I used to also trade high-end basketball trading cards."
+  },
+  {
+    "start": 128.84,
+    "end": 133.56,
+    "text": "And so I've experienced the pain of selling rails too early many times."
+  },
+  {
+    "start": 133.56,
+    "end": 137.92000000000002,
+    "text": "So I think that's a large part of my sort of conviction with collecting these days."
+  },
+  {
+    "start": 137.92,
+    "end": 140.51999999999998,
+    "text": "And NFTs are just kind of a natural thing."
+  },
+  {
+    "start": 140.51999999999998,
+    "end": 141.55999999999997,
+    "text": "It really feels the same."
+  },
+  {
+    "start": 141.55999999999997,
+    "end": 145.07999999999998,
+    "text": "You know, even when you're collecting physical collectibles, you're on the computer all the"
+  },
+  {
+    "start": 145.07999999999998,
+    "end": 147.83999999999997,
+    "text": "time, browsing eBay, browsing social media."
+  },
+  {
+    "start": 147.83999999999997,
+    "end": 150.35999999999999,
+    "text": "So it really just feels natural to me."
+  },
+  {
+    "start": 150.35999999999999,
+    "end": 152.2,
+    "text": "And yeah, it's been a really fun time."
+  },
+  {
+    "start": 152.2,
+    "end": 156.6,
+    "text": "And this is one of those collectible categories, if you will, that just I don't see ever leaving."
+  },
+  {
+    "start": 156.6,
+    "end": 160.6,
+    "text": "You know, I might sell physical trading cards and kind of get out of that for a while,"
+  },
+  {
+    "start": 160.6,
+    "end": 163.23999999999998,
+    "text": "but I'll never be able to sell my NFTs song."
+  },
+  {
+    "start": 163.23999999999998,
+    "end": 165.2,
+    "text": "I'm here for the long haul for sure."
+  },
+  {
+    "start": 165.35999999999999,
+    "end": 168.64,
+    "text": "If you look at the offers in FX hash, you might think there's some stuff that you're"
+  },
+  {
+    "start": 168.64,
+    "end": 170.64,
+    "text": "definitely never going to be able to sell."
+  },
+  {
+    "start": 170.64,
+    "end": 171.64,
+    "text": "For sure."
+  },
+  {
+    "start": 171.64,
+    "end": 172.64,
+    "text": "For sure."
+  },
+  {
+    "start": 172.64,
+    "end": 177.28,
+    "text": "I did a little bit of selling recently just small stuff, three test, five test here and"
+  },
+  {
+    "start": 177.28,
+    "end": 179.04,
+    "text": "there just to clear out the wall a little bit."
+  },
+  {
+    "start": 179.04,
+    "end": 181.2,
+    "text": "And it's like pretty dire out there."
+  },
+  {
+    "start": 181.2,
+    "end": 185.0,
+    "text": "But as far as you're collecting, so if you came in through crypto, did you start with the"
+  },
+  {
+    "start": 185.0,
+    "end": 188.83999999999997,
+    "text": "NFTs on like the PFP side and then cross into art through art blocks?"
+  },
+  {
+    "start": 188.83999999999997,
+    "end": 190.44,
+    "text": "Like was that your path?"
+  },
+  {
+    "start": 190.44,
+    "end": 192.67999999999998,
+    "text": "Yeah, kind of the typical path, I guess."
+  },
+  {
+    "start": 192.84,
+    "end": 198.12,
+    "text": "Started out kind of minting the hype PFPs I saw on my Twitter feed, most of which are,"
+  },
+  {
+    "start": 198.12,
+    "end": 201.36,
+    "text": "I mean, all of them are pretty much completely dead at this point."
+  },
+  {
+    "start": 201.36,
+    "end": 202.8,
+    "text": "Did dabble with art blocks?"
+  },
+  {
+    "start": 202.8,
+    "end": 208.04000000000002,
+    "text": "I think I was late to art blocks, so I was minting factory stuff and really didn't have"
+  },
+  {
+    "start": 208.04000000000002,
+    "end": 210.76000000000002,
+    "text": "the funds to collect anything serious at the time."
+  },
+  {
+    "start": 210.76000000000002,
+    "end": 214.56,
+    "text": "Despite that being kind of the peak of the bull run where I did have the most crypto of"
+  },
+  {
+    "start": 214.56,
+    "end": 219.32,
+    "text": "my life, you know, like most collectors, you tend to come in at the top and that's what"
+  },
+  {
+    "start": 219.32,
+    "end": 220.32,
+    "text": "happened to me."
+  },
+  {
+    "start": 220.72,
+    "end": 226.35999999999999,
+    "text": "Well, let me ask you a little bit about your philosophy for collecting and well, actually"
+  },
+  {
+    "start": 226.35999999999999,
+    "end": 227.2,
+    "text": "let's start with this."
+  },
+  {
+    "start": 227.2,
+    "end": 233.2,
+    "text": "So I feel like the cohort of people who are still here in collecting art and I like"
+  },
+  {
+    "start": 233.2,
+    "end": 237.64,
+    "text": "yourself, like I did not come into crypto thinking that I was going to get really interested"
+  },
+  {
+    "start": 237.64,
+    "end": 241.24,
+    "text": "in art, you know, and still be engaged in doing this stuff."
+  },
+  {
+    "start": 241.24,
+    "end": 246.95999999999998,
+    "text": "It was very accidental just finding tezos through someone I knew, finding Hickett Nune"
+  },
+  {
+    "start": 246.95999999999998,
+    "end": 248.92,
+    "text": "and just minting a few things because I had this test."
+  },
+  {
+    "start": 248.92,
+    "end": 251.83999999999997,
+    "text": "I didn't know what else to do with it and I thought that was cool."
+  },
+  {
+    "start": 251.83999999999997,
+    "end": 256.03999999999996,
+    "text": "And then obviously FX hash comes along and like I guess swept up in the discord in the"
+  },
+  {
+    "start": 256.03999999999996,
+    "end": 262.32,
+    "text": "community and just waiting up all night for mint and all that fun stuff from back in 2021."
+  },
+  {
+    "start": 262.32,
+    "end": 267.44,
+    "text": "So for yourself, I mean, what was it for you about generative art and I guess art in"
+  },
+  {
+    "start": 267.44,
+    "end": 273.12,
+    "text": "general that struck a chord and got you interested in collecting beyond just speculation?"
+  },
+  {
+    "start": 273.12,
+    "end": 278.28,
+    "text": "So starting off on Hickett Nune, it really felt just kind of raw and I don't know, there"
+  },
+  {
+    "start": 278.28,
+    "end": 279.4,
+    "text": "was a certain aesthetic to it."
+  },
+  {
+    "start": 279.4,
+    "end": 280.4,
+    "text": "It was really basic."
+  },
+  {
+    "start": 280.4,
+    "end": 284.76,
+    "text": "You just had to browse the feed of random art and there was something about it that just"
+  },
+  {
+    "start": 284.76,
+    "end": 289.67999999999995,
+    "text": "was really enjoyable and you know, I did find that I gravitated towards certain collections"
+  },
+  {
+    "start": 289.67999999999995,
+    "end": 294.88,
+    "text": "that I kept running into and eventually became some of the biggest collectors of some"
+  },
+  {
+    "start": 294.88,
+    "end": 296.03999999999996,
+    "text": "artists there."
+  },
+  {
+    "start": 296.03999999999996,
+    "end": 300.76,
+    "text": "And I think, you know, when FX hash came out, that's when the addictive part of my personality"
+  },
+  {
+    "start": 300.76,
+    "end": 301.76,
+    "text": "came out."
+  },
+  {
+    "start": 301.76,
+    "end": 303.67999999999995,
+    "text": "It was like ripping packs of Pokemon cards."
+  },
+  {
+    "start": 303.67999999999995,
+    "end": 307.47999999999996,
+    "text": "You don't know what you're going to get and I think that's really fun and I still do."
+  },
+  {
+    "start": 307.48,
+    "end": 311.8,
+    "text": "And so, yeah, when FX hash came out, I was kind of doing the, you know, oh, I'm going"
+  },
+  {
+    "start": 311.8,
+    "end": 316.92,
+    "text": "to mint too and then sell one and cover my cost basis and that works for a while but then"
+  },
+  {
+    "start": 316.92,
+    "end": 320.08000000000004,
+    "text": "you realize what you missed out on when it comes to the real grails."
+  },
+  {
+    "start": 320.08000000000004,
+    "end": 324.64000000000004,
+    "text": "So I think I learned a lot through that and I would say it was kind of after that initial"
+  },
+  {
+    "start": 324.64000000000004,
+    "end": 330.16,
+    "text": "rush, you know, months after, like months to a year or so after that FX hash rush that"
+  },
+  {
+    "start": 330.16,
+    "end": 334.96000000000004,
+    "text": "I've really started to like connect with the projects like Farptiler, for example, I"
+  },
+  {
+    "start": 334.96,
+    "end": 338.84,
+    "text": "just kept coming back to it and realized like, I want to hoard these."
+  },
+  {
+    "start": 338.84,
+    "end": 340.84,
+    "text": "Like, it's not enough to just have a few."
+  },
+  {
+    "start": 340.84,
+    "end": 345.15999999999997,
+    "text": "So I developed these connections to certain projects and, you know, from there, I think"
+  },
+  {
+    "start": 345.15999999999997,
+    "end": 348.2,
+    "text": "my feed just became purely art really."
+  },
+  {
+    "start": 348.2,
+    "end": 352.56,
+    "text": "Like it went from crypto Twitter, you know, meme posting, whatever you want to call it"
+  },
+  {
+    "start": 352.56,
+    "end": 356.84,
+    "text": "to, oh, wow, like most of my followers are artists and art collectors."
+  },
+  {
+    "start": 356.84,
+    "end": 362.08,
+    "text": "So it was a lot of content to take in and I think just over time, I've realized that"
+  },
+  {
+    "start": 362.08,
+    "end": 367.35999999999996,
+    "text": "I do actually genuinely connect with certain projects and artists and it's more than just"
+  },
+  {
+    "start": 367.35999999999996,
+    "end": 368.84,
+    "text": "making a trade."
+  },
+  {
+    "start": 368.84,
+    "end": 371.88,
+    "text": "So that's kind of how I reached that point."
+  },
+  {
+    "start": 371.88,
+    "end": 376.15999999999997,
+    "text": "Have you gone so far to the point of like getting, you know, prints and plots and like"
+  },
+  {
+    "start": 376.15999999999997,
+    "end": 377.71999999999997,
+    "text": "starting to arrange stuff around the house?"
+  },
+  {
+    "start": 377.71999999999997,
+    "end": 382.68,
+    "text": "Like I remember when we talked to Eric, I was kind of trying to suss out from him, you"
+  },
+  {
+    "start": 382.68,
+    "end": 387.15999999999997,
+    "text": "know, like for Farptiler was it, it's like that was plottable or have you ever experimented"
+  },
+  {
+    "start": 387.15999999999997,
+    "end": 388.15999999999997,
+    "text": "with that stuff?"
+  },
+  {
+    "start": 388.15999999999997,
+    "end": 391.76,
+    "text": "And I think he said he had some experiments that he is, you know, obviously never went"
+  },
+  {
+    "start": 391.76,
+    "end": 396.2,
+    "text": "on to sell, but for someone like you who maybe has so much of his work, do you have anything"
+  },
+  {
+    "start": 396.2,
+    "end": 399.59999999999997,
+    "text": "from Eric up in the wall or any other artists that you want to talk about?"
+  },
+  {
+    "start": 399.59999999999997,
+    "end": 400.59999999999997,
+    "text": "Yeah."
+  },
+  {
+    "start": 400.59999999999997,
+    "end": 406.24,
+    "text": "So as far as prints and plots go, I really value having that being gated by the artist."
+  },
+  {
+    "start": 406.24,
+    "end": 408.2,
+    "text": "Like I really want the signed print."
+  },
+  {
+    "start": 408.2,
+    "end": 410.0,
+    "text": "I just don't, I don't want to print it myself."
+  },
+  {
+    "start": 410.0,
+    "end": 413.28,
+    "text": "It just says someone who's historically collected physical things."
+  },
+  {
+    "start": 413.28,
+    "end": 416.84,
+    "text": "I really value that it's like there's a real physical connection."
+  },
+  {
+    "start": 416.84,
+    "end": 421.64,
+    "text": "It's not to say that I'm against anyone printing stuff that they own, like that's awesome."
+  },
+  {
+    "start": 421.64,
+    "end": 422.64,
+    "text": "That's just for me."
+  },
+  {
+    "start": 422.64,
+    "end": 425.24,
+    "text": "It's like an additional layer to the collection, if you will."
+  },
+  {
+    "start": 425.24,
+    "end": 429.91999999999996,
+    "text": "So yeah, I have a really cool plotted piece by a Joni Lemursia."
+  },
+  {
+    "start": 429.91999999999996,
+    "end": 434.59999999999997,
+    "text": "And by the way, I also want to say apologies if I mispronounce any artist names, collector"
+  },
+  {
+    "start": 434.59999999999997,
+    "end": 435.59999999999997,
+    "text": "names."
+  },
+  {
+    "start": 435.59999999999997,
+    "end": 438.88,
+    "text": "All of this is in my head from this online world and I don't, I don't talk to people"
+  },
+  {
+    "start": 438.88,
+    "end": 440.59999999999997,
+    "text": "about this in real life."
+  },
+  {
+    "start": 440.59999999999997,
+    "end": 444.15999999999997,
+    "text": "Apologies and events for mispronouncing anything, but yeah, I have a really cool plotted"
+  },
+  {
+    "start": 444.15999999999997,
+    "end": 445.15999999999997,
+    "text": "piece from them."
+  },
+  {
+    "start": 445.15999999999997,
+    "end": 449.24,
+    "text": "I got a print of one of my KGMs from Zamcan in Yazeed."
+  },
+  {
+    "start": 449.24,
+    "end": 451.64,
+    "text": "So that's like a giant piece in my living room."
+  },
+  {
+    "start": 451.64,
+    "end": 455.16,
+    "text": "I actually have assigned Gain Brood piece two, which is kind of rare."
+  },
+  {
+    "start": 455.16,
+    "end": 457.12,
+    "text": "He doesn't do a lot of those."
+  },
+  {
+    "start": 457.12,
+    "end": 460.52,
+    "text": "And yeah, a few, a few random plots here and there."
+  },
+  {
+    "start": 460.52,
+    "end": 464.48,
+    "text": "I would say my physical collection is still pretty small and especially with my recent"
+  },
+  {
+    "start": 464.48,
+    "end": 467.68,
+    "text": "pickups, I'm interested in getting more physical stuff."
+  },
+  {
+    "start": 467.68,
+    "end": 473.68,
+    "text": "You can tell my room here is very bare and that's kind of intentional because I take"
+  },
+  {
+    "start": 473.68,
+    "end": 475.8,
+    "text": "work calls in this location."
+  },
+  {
+    "start": 475.8,
+    "end": 480.28000000000003,
+    "text": "And so I just, I don't know, I don't like to open it up to conversation with random"
+  },
+  {
+    "start": 480.28000000000003,
+    "end": 485.0,
+    "text": "colleagues and acquaintances, but yeah, I definitely want to keep growing that collection"
+  },
+  {
+    "start": 485.0,
+    "end": 486.88,
+    "text": "of the physical medium."
+  },
+  {
+    "start": 486.88,
+    "end": 488.12,
+    "text": "Cool, right on."
+  },
+  {
+    "start": 488.12,
+    "end": 489.36,
+    "text": "What is your philosophy now?"
+  },
+  {
+    "start": 489.36,
+    "end": 493.78000000000003,
+    "text": "I mean, I think for all of us who have come into NFTs, we all came into it with some"
+  },
+  {
+    "start": 493.78000000000003,
+    "end": 498.68,
+    "text": "level of like speculation and hype and hope some dreams for where they might go."
+  },
+  {
+    "start": 498.68,
+    "end": 501.40000000000003,
+    "text": "And perhaps you still have a long view that we're going to get there."
+  },
+  {
+    "start": 501.40000000000003,
+    "end": 504.12,
+    "text": "I'm totally on the side of myself at this point."
+  },
+  {
+    "start": 504.12,
+    "end": 508.08,
+    "text": "What the long view is because it's such a challenging time right now."
+  },
+  {
+    "start": 508.08,
+    "end": 513.08,
+    "text": "But for your particular, like let's say collector psychographic, how do you value the projects"
+  },
+  {
+    "start": 513.08,
+    "end": 516.84,
+    "text": "that you collect, the artists that you collect beyond just the aesthetic?"
+  },
+  {
+    "start": 516.84,
+    "end": 519.44,
+    "text": "Like, oh, I love, you know, I love Eric's work."
+  },
+  {
+    "start": 519.44,
+    "end": 521.44,
+    "text": "I love San Ken's work."
+  },
+  {
+    "start": 521.44,
+    "end": 525.08,
+    "text": "You know, I remember there used to be a lot of discussions about being in the first 100"
+  },
+  {
+    "start": 525.08,
+    "end": 528.96,
+    "text": "FX hash projects and the importance of that legacy in history there or same thing with"
+  },
+  {
+    "start": 528.96,
+    "end": 530.12,
+    "text": "the early art blocks projects."
+  },
+  {
+    "start": 530.12,
+    "end": 535.24,
+    "text": "I mean, a lot of the early AB stuff, you know, perhaps like ringers into the big rails"
+  },
+  {
+    "start": 535.24,
+    "end": 540.12,
+    "text": "aside, a lot of the early stuff doesn't look that good to me anymore."
+  },
+  {
+    "start": 540.12,
+    "end": 542.32,
+    "text": "It looks quite bad actually."
+  },
+  {
+    "start": 542.32,
+    "end": 545.8,
+    "text": "But there was a time and perhaps there are still some completionists out there who feel"
+  },
+  {
+    "start": 545.8,
+    "end": 548.52,
+    "text": "like you need to own those first X."
+  },
+  {
+    "start": 548.52,
+    "end": 551.72,
+    "text": "So do you prescribe to any rules like that?"
+  },
+  {
+    "start": 551.72,
+    "end": 554.76,
+    "text": "Because I imagine obviously with things like Pokemon, right?"
+  },
+  {
+    "start": 554.76,
+    "end": 559.12,
+    "text": "Like, yeah, the vintageness of things does matter there beyond just the playability of a"
+  },
+  {
+    "start": 559.12,
+    "end": 561.0,
+    "text": "card necessarily."
+  },
+  {
+    "start": 561.0,
+    "end": 562.0,
+    "text": "How do you think about it?"
+  },
+  {
+    "start": 562.0,
+    "end": 563.0,
+    "text": "How do you approach it?"
+  },
+  {
+    "start": 563.0,
+    "end": 565.28,
+    "text": "Yeah, I wouldn't say I have any rules."
+  },
+  {
+    "start": 565.28,
+    "end": 570.64,
+    "text": "There are times where I'm just browsing historic collections and I'm like, wow, this is"
+  },
+  {
+    "start": 570.64,
+    "end": 573.88,
+    "text": "one of the first 100 projects and this is really cool and I need to buy this."
+  },
+  {
+    "start": 573.88,
+    "end": 577.76,
+    "text": "But I wouldn't say it's a rule or a mindset that I intentionally have."
+  },
+  {
+    "start": 577.76,
+    "end": 582.32,
+    "text": "I think obviously it's really easy to just look at all time volume as far as determining"
+  },
+  {
+    "start": 582.32,
+    "end": 584.32,
+    "text": "what the most important projects are."
+  },
+  {
+    "start": 584.32,
+    "end": 586.5600000000001,
+    "text": "So that's an easy way to look at it."
+  },
+  {
+    "start": 586.56,
+    "end": 590.2399999999999,
+    "text": "And yeah, I think it's like historic volume plus how you connect with the art."
+  },
+  {
+    "start": 590.2399999999999,
+    "end": 593.68,
+    "text": "So like, it's not unique to say that Garden Monoliths are a grail, right?"
+  },
+  {
+    "start": 593.68,
+    "end": 595.4,
+    "text": "Like, anyone could say that."
+  },
+  {
+    "start": 595.4,
+    "end": 599.5999999999999,
+    "text": "But actually really looking at the collection and the depth of the outputs and getting into"
+  },
+  {
+    "start": 599.5999999999999,
+    "end": 604.4799999999999,
+    "text": "it has been something that I've enjoyed doing over the course of the last several years."
+  },
+  {
+    "start": 604.4799999999999,
+    "end": 608.68,
+    "text": "And it's not just the historical pricing and volume, but really just looking at how I"
+  },
+  {
+    "start": 608.68,
+    "end": 609.68,
+    "text": "appreciate the art."
+  },
+  {
+    "start": 609.68,
+    "end": 611.28,
+    "text": "So yeah, it's a combination of things."
+  },
+  {
+    "start": 611.28,
+    "end": 616.1999999999999,
+    "text": "I would say I collect intuitively or I like to think so anyways in terms of market cycles"
+  },
+  {
+    "start": 616.2,
+    "end": 619.6800000000001,
+    "text": "and whatnot, but we really haven't had a market cycle with these pieces."
+  },
+  {
+    "start": 619.6800000000001,
+    "end": 622.4000000000001,
+    "text": "So it's just really what I want to collect."
+  },
+  {
+    "start": 622.4000000000001,
+    "end": 624.0400000000001,
+    "text": "So how do you feel long term?"
+  },
+  {
+    "start": 624.0400000000001,
+    "end": 628.84,
+    "text": "I mean, there were so many narratives like we're going to see the auction house is adopt."
+  },
+  {
+    "start": 628.84,
+    "end": 631.44,
+    "text": "And we did see that to a small degree."
+  },
+  {
+    "start": 631.44,
+    "end": 635.88,
+    "text": "And we're going to see institutions adopt and we've seen some high profile donations and"
+  },
+  {
+    "start": 635.88,
+    "end": 640.76,
+    "text": "maybe even a few here and there purchases from museums like into collections."
+  },
+  {
+    "start": 640.76,
+    "end": 643.88,
+    "text": "But those did not seem like inciting events, right?"
+  },
+  {
+    "start": 643.88,
+    "end": 647.36,
+    "text": "That I think the community might have expected them to be in 2021."
+  },
+  {
+    "start": 647.36,
+    "end": 652.48,
+    "text": "So do you hold out hope at all for like crossing into the mainstream more, be it either"
+  },
+  {
+    "start": 652.48,
+    "end": 657.4,
+    "text": "trad art or the other direction, which is like, do we think it's just forget those institutions"
+  },
+  {
+    "start": 657.4,
+    "end": 658.4,
+    "text": "for cryptos, not about that."
+  },
+  {
+    "start": 658.4,
+    "end": 661.48,
+    "text": "We're going to scale crypto 100x from here."
+  },
+  {
+    "start": 661.48,
+    "end": 665.32,
+    "text": "And these collectibles are going to be interesting in them themselves when there's just that"
+  },
+  {
+    "start": 665.32,
+    "end": 668.28,
+    "text": "many more people who might want to collect this stuff."
+  },
+  {
+    "start": 668.28,
+    "end": 669.28,
+    "text": "I guess I don't know."
+  },
+  {
+    "start": 669.28,
+    "end": 672.24,
+    "text": "I could see it being a combination of those ideally, right?"
+  },
+  {
+    "start": 672.24,
+    "end": 675.92,
+    "text": "I would love to see more institutional adoption and whatnot."
+  },
+  {
+    "start": 675.92,
+    "end": 681.64,
+    "text": "But I think that's like really long-term horizon as far as any of those institutional investors"
+  },
+  {
+    "start": 681.64,
+    "end": 684.0,
+    "text": "are going to have long-term horizons, right?"
+  },
+  {
+    "start": 684.0,
+    "end": 687.4,
+    "text": "And I think a lot of the crypto market right now has shorter term horizons."
+  },
+  {
+    "start": 687.4,
+    "end": 689.64,
+    "text": "That's why everyone is so frustrated."
+  },
+  {
+    "start": 689.64,
+    "end": 692.2,
+    "text": "Get the NFT bull run this cycle and whatnot."
+  },
+  {
+    "start": 692.2,
+    "end": 695.08,
+    "text": "And so I don't know exactly how it's going to play out."
+  },
+  {
+    "start": 695.08,
+    "end": 697.84,
+    "text": "But I think there's a lot of opportunity."
+  },
+  {
+    "start": 697.84,
+    "end": 703.72,
+    "text": "Seeing this price action, which is horrible and complete lack of liquidity and whatnot,"
+  },
+  {
+    "start": 703.72,
+    "end": 708.24,
+    "text": "seeing it as an opportunity to like really as just a normal person acquire these pieces"
+  },
+  {
+    "start": 708.24,
+    "end": 712.4,
+    "text": "that just two or three years ago would have been absolutely impossible to buy as a normal"
+  },
+  {
+    "start": 712.4,
+    "end": 713.4,
+    "text": "person, right?"
+  },
+  {
+    "start": 713.4,
+    "end": 717.5600000000001,
+    "text": "Like the pink GM that I bought a month or so ago, for example, like that would have been"
+  },
+  {
+    "start": 717.5600000000001,
+    "end": 720.1600000000001,
+    "text": "unfathomable just two years ago for me."
+  },
+  {
+    "start": 720.1600000000001,
+    "end": 724.52,
+    "text": "So I see it as an opportunity to kind of make your place in the history of whatever plays"
+  },
+  {
+    "start": 724.52,
+    "end": 725.52,
+    "text": "out."
+  },
+  {
+    "start": 725.52,
+    "end": 726.52,
+    "text": "I can't tell you what's going to happen."
+  },
+  {
+    "start": 727.0,
+    "end": 730.12,
+    "text": "Yeah, I see it as an opportunity and it's been really fun."
+  },
+  {
+    "start": 730.12,
+    "end": 734.28,
+    "text": "It was probably about two or two and a half years ago that LaRanda required their pink"
+  },
+  {
+    "start": 734.28,
+    "end": 735.28,
+    "text": "GM, right?"
+  },
+  {
+    "start": 735.28,
+    "end": 739.3199999999999,
+    "text": "And it was a big deal because I think I can't remember what the USD equivalent was, but"
+  },
+  {
+    "start": 739.3199999999999,
+    "end": 741.36,
+    "text": "it was certainly 10,000 or 10,000."
+  },
+  {
+    "start": 741.36,
+    "end": 743.36,
+    "text": "So it was quite expensive."
+  },
+  {
+    "start": 743.36,
+    "end": 746.96,
+    "text": "You might want to fact check me, but I think it might have been over 100K."
+  },
+  {
+    "start": 746.96,
+    "end": 747.96,
+    "text": "Over 100K?"
+  },
+  {
+    "start": 747.96,
+    "end": 752.28,
+    "text": "I know they timed it very closely with the purchase of the RGB number one also."
+  },
+  {
+    "start": 752.28,
+    "end": 758.24,
+    "text": "So they definitely made their mark like grabbing two keystone pieces from the FX hash history"
+  },
+  {
+    "start": 758.24,
+    "end": 759.24,
+    "text": "there."
+  },
+  {
+    "start": 759.24,
+    "end": 762.56,
+    "text": "Anyone who was kind of building a collection two and a half years ago has got to be looking"
+  },
+  {
+    "start": 762.56,
+    "end": 766.24,
+    "text": "now and going like, wow, like imagine what we could have had."
+  },
+  {
+    "start": 766.24,
+    "end": 768.0,
+    "text": "So I've brought your collection a bit."
+  },
+  {
+    "start": 768.0,
+    "end": 772.88,
+    "text": "Obviously, you're very Eric Swan Heavy and a lot of that increase has come from the recent"
+  },
+  {
+    "start": 772.88,
+    "end": 773.88,
+    "text": "activity."
+  },
+  {
+    "start": 773.88,
+    "end": 778.72,
+    "text": "As we've seen like so many long time collectors for whatever reason starting to die best,"
+  },
+  {
+    "start": 778.72,
+    "end": 781.96,
+    "text": "at least from FX hash if not across all chains."
+  },
+  {
+    "start": 781.96,
+    "end": 785.9200000000001,
+    "text": "So do you just kind of see this trend and decide like now is the time like I'm going to jump"
+  },
+  {
+    "start": 785.9200000000001,
+    "end": 791.48,
+    "text": "in because we're down 90% on this stuff or have you been slowly acquiring along the way?"
+  },
+  {
+    "start": 791.48,
+    "end": 794.2,
+    "text": "What inspired you to jump in now in all this chaos?"
+  },
+  {
+    "start": 794.2,
+    "end": 798.0,
+    "text": "I've been collecting the Farbs pretty heavily for the last few years."
+  },
+  {
+    "start": 798.0,
+    "end": 799.8000000000001,
+    "text": "So that's kind of just a constant I guess."
+  },
+  {
+    "start": 799.8000000000001,
+    "end": 802.76,
+    "text": "I could keep buying them, but at a certain point it gets ridiculous."
+  },
+  {
+    "start": 802.76,
+    "end": 806.24,
+    "text": "But obviously recently I've been really just focused on the rails, right?"
+  },
+  {
+    "start": 806.24,
+    "end": 808.6800000000001,
+    "text": "Like the garden modelists and the dragons and whatnot."
+  },
+  {
+    "start": 808.68,
+    "end": 813.64,
+    "text": "And it's partially what you said about, yeah, the prices are down so much that it's very"
+  },
+  {
+    "start": 813.64,
+    "end": 814.9599999999999,
+    "text": "appealing to buy them right now."
+  },
+  {
+    "start": 814.9599999999999,
+    "end": 819.9599999999999,
+    "text": "But it's also just the timing of my other market cycle that I've been participating in."
+  },
+  {
+    "start": 819.9599999999999,
+    "end": 824.16,
+    "text": "So I actually did buy quite a few vintage Pokemon cards around 2024."
+  },
+  {
+    "start": 824.16,
+    "end": 828.8,
+    "text": "So I was actually buying those more than I was buying NFTs at the time and they did really,"
+  },
+  {
+    "start": 828.8,
+    "end": 830.28,
+    "text": "really well early this year."
+  },
+  {
+    "start": 830.28,
+    "end": 835.5999999999999,
+    "text": "And so I started selling some of them and that's kind of been funding my my grail purchases"
+  },
+  {
+    "start": 835.5999999999999,
+    "end": 836.5999999999999,
+    "text": "on FX hash."
+  },
+  {
+    "start": 836.5999999999999,
+    "end": 838.64,
+    "text": "So it's kind of like life hands you this."
+  },
+  {
+    "start": 838.64,
+    "end": 841.76,
+    "text": "This opportunity and the timing of things just makes sense."
+  },
+  {
+    "start": 841.76,
+    "end": 844.52,
+    "text": "And I like the price of the art right now."
+  },
+  {
+    "start": 844.52,
+    "end": 848.04,
+    "text": "And I got this liquidity that I can tap into now."
+  },
+  {
+    "start": 848.04,
+    "end": 850.0,
+    "text": "And so it's a combination of things."
+  },
+  {
+    "start": 850.0,
+    "end": 855.4,
+    "text": "Yeah, I think it's like just just the fact that people are even listing these rails is fortunate"
+  },
+  {
+    "start": 855.4,
+    "end": 856.4,
+    "text": "too, right?"
+  },
+  {
+    "start": 856.4,
+    "end": 857.4,
+    "text": "Yeah."
+  },
+  {
+    "start": 857.4,
+    "end": 862.92,
+    "text": "Do you give any thought or concern to the viability of like chains and stuff?"
+  },
+  {
+    "start": 862.92,
+    "end": 866.2,
+    "text": "Like, you know, I think for as long as we've been collecting on tezos, there's always been"
+  },
+  {
+    "start": 866.2,
+    "end": 872.24,
+    "text": "a lot of fun around the chain being a ghost chain, be it, you know, a lot of ill will towards"
+  },
+  {
+    "start": 872.24,
+    "end": 873.24,
+    "text": "the founders."
+  },
+  {
+    "start": 873.24,
+    "end": 877.72,
+    "text": "And I think the way they handled the ICO that just never really, I think a lot of people"
+  },
+  {
+    "start": 877.72,
+    "end": 882.5200000000001,
+    "text": "forgot about it, but then kind of just the stink on it never really went away constantly"
+  },
+  {
+    "start": 882.5200000000001,
+    "end": 885.12,
+    "text": "expecting the chain to fail."
+  },
+  {
+    "start": 885.12,
+    "end": 888.32,
+    "text": "Despite the fact that it's been around, I mean, you think about like the whole like Lindy"
+  },
+  {
+    "start": 888.32,
+    "end": 889.32,
+    "text": "idea, right?"
+  },
+  {
+    "start": 889.32,
+    "end": 894.0,
+    "text": "Like tezos has been around for quite a while and it is not earning any of that for whatever"
+  },
+  {
+    "start": 894.0,
+    "end": 895.0,
+    "text": "reason."
+  },
+  {
+    "start": 895.0,
+    "end": 898.32,
+    "text": "At the same same time now we're seeing people come in on the each side."
+  },
+  {
+    "start": 898.32,
+    "end": 902.56,
+    "text": "Like, I'm sure you follow a lot of these people, but like the bankless folks, for example,"
+  },
+  {
+    "start": 902.56,
+    "end": 904.44,
+    "text": "have finally turned on eat, right?"
+  },
+  {
+    "start": 904.44,
+    "end": 909.44,
+    "text": "And like sold all their eith and there's all this fun around the foundation and the way"
+  },
+  {
+    "start": 909.44,
+    "end": 912.84,
+    "text": "they handle the L2s and they're cannibalizing their fees."
+  },
+  {
+    "start": 912.84,
+    "end": 918.96,
+    "text": "So maybe a better way to phrase this is have you put a lot of thought recently into preservation"
+  },
+  {
+    "start": 918.96,
+    "end": 920.6,
+    "text": "and like what happens with all of this stuff?"
+  },
+  {
+    "start": 920.6,
+    "end": 923.84,
+    "text": "Like should a chain go down or should a platform, which we'll probably talk about soon."
+  },
+  {
+    "start": 923.84,
+    "end": 926.0400000000001,
+    "text": "Like FX hash, go down."
+  },
+  {
+    "start": 926.0400000000001,
+    "end": 929.2,
+    "text": "What is your approach to that stuff currently?"
+  },
+  {
+    "start": 929.2,
+    "end": 932.08,
+    "text": "I guess I'll start by addressing the tezos fud thing."
+  },
+  {
+    "start": 932.08,
+    "end": 936.6800000000001,
+    "text": "So I mean, as someone who's been in crypto since 2017, I can tell you that a lot of those"
+  },
+  {
+    "start": 936.6800000000001,
+    "end": 941.44,
+    "text": "crypto OGs who are really hating on tezos right now used to absolutely love it."
+  },
+  {
+    "start": 941.44,
+    "end": 947.8000000000001,
+    "text": "Like in 2019, 2020, tezos was all the hype and people were treating it as a real investment"
+  },
+  {
+    "start": 947.8000000000001,
+    "end": 951.24,
+    "text": "right and a lot of people got burned by the price action."
+  },
+  {
+    "start": 951.24,
+    "end": 953.76,
+    "text": "And then, I mean, it's fundamentally, it is a really great blockchain and in some"
+  },
+  {
+    "start": 953.76,
+    "end": 956.04,
+    "text": "ways superior to Ethereum, I think."
+  },
+  {
+    "start": 956.04,
+    "end": 959.52,
+    "text": "And I have absolutely no problem using it as a basic user."
+  },
+  {
+    "start": 959.52,
+    "end": 960.6800000000001,
+    "text": "I love it."
+  },
+  {
+    "start": 960.6800000000001,
+    "end": 967.0,
+    "text": "But I think that it just left a bad taste in those crypto OGs, you know, opinions and that"
+  },
+  {
+    "start": 967.0,
+    "end": 970.2,
+    "text": "kind of perpetuated through the NFT cycle, I think."
+  },
+  {
+    "start": 970.2,
+    "end": 973.52,
+    "text": "And then of course, everyone made millions of dollars on eith and art blocks and then"
+  },
+  {
+    "start": 973.52,
+    "end": 975.04,
+    "text": "it's like, well, look at tezos."
+  },
+  {
+    "start": 975.04,
+    "end": 976.6800000000001,
+    "text": "The price is just going down constantly."
+  },
+  {
+    "start": 976.6800000000001,
+    "end": 977.6800000000001,
+    "text": "Why would I collect there?"
+  },
+  {
+    "start": 977.68,
+    "end": 982.64,
+    "text": "It's just kind of elitist psychology combined with the fact that they at one time did actually"
+  },
+  {
+    "start": 982.64,
+    "end": 987.0799999999999,
+    "text": "like the chain, but now it's kind of an emotional thing, I think, for a lot of people."
+  },
+  {
+    "start": 987.0799999999999,
+    "end": 990.2399999999999,
+    "text": "Do I fear that the blockchain will ever shut down?"
+  },
+  {
+    "start": 990.2399999999999,
+    "end": 991.64,
+    "text": "Probably not in the foreseeable future."
+  },
+  {
+    "start": 991.64,
+    "end": 993.7199999999999,
+    "text": "No, I don't have any fear of that."
+  },
+  {
+    "start": 993.7199999999999,
+    "end": 1000.4399999999999,
+    "text": "But to transition to the next party question, yes, preservation has become extremely important,"
+  },
+  {
+    "start": 1000.4399999999999,
+    "end": 1004.1999999999999,
+    "text": "especially with the impending, if you will, shutdown of FXX."
+  },
+  {
+    "start": 1004.1999999999999,
+    "end": 1005.1999999999999,
+    "text": "Obviously, we don't know."
+  },
+  {
+    "start": 1005.2,
+    "end": 1009.08,
+    "text": "But, yeah, I mean, I wasn't really expecting that to happen so suddenly, right?"
+  },
+  {
+    "start": 1009.08,
+    "end": 1014.6,
+    "text": "Like there was this several week period where there was some bad news kind of lurking in"
+  },
+  {
+    "start": 1014.6,
+    "end": 1017.0400000000001,
+    "text": "the air, but no one knew what was going on."
+  },
+  {
+    "start": 1017.0400000000001,
+    "end": 1019.44,
+    "text": "And there was no communication from the team."
+  },
+  {
+    "start": 1019.44,
+    "end": 1021.24,
+    "text": "And so, yeah, it can happen suddenly."
+  },
+  {
+    "start": 1021.24,
+    "end": 1023.0,
+    "text": "And you need to be ready for that."
+  },
+  {
+    "start": 1023.0,
+    "end": 1025.8,
+    "text": "Have I done anything myself about it?"
+  },
+  {
+    "start": 1025.8,
+    "end": 1027.2,
+    "text": "No, but I've thought about it."
+  },
+  {
+    "start": 1027.2,
+    "end": 1032.96,
+    "text": "But there are people like Raster came out immediately after that and said, hey, sign up,"
+  },
+  {
+    "start": 1032.96,
+    "end": 1035.16,
+    "text": "create an account, and we'll back up your art for you."
+  },
+  {
+    "start": 1035.16,
+    "end": 1040.1200000000001,
+    "text": "Without, you know, it's not, they're not paying the IPFS for you, but so it's not a complete"
+  },
+  {
+    "start": 1040.1200000000001,
+    "end": 1041.1200000000001,
+    "text": "redundancy."
+  },
+  {
+    "start": 1041.1200000000001,
+    "end": 1045.0400000000002,
+    "text": "But there are people who have been thinking about this seriously for years."
+  },
+  {
+    "start": 1045.0400000000002,
+    "end": 1048.0,
+    "text": "So that gives me hope that nothing is going to completely disappear."
+  },
+  {
+    "start": 1048.0,
+    "end": 1049.52,
+    "text": "Yeah, I noticed that Raster thing."
+  },
+  {
+    "start": 1049.52,
+    "end": 1050.52,
+    "text": "I was like, this is brilliant."
+  },
+  {
+    "start": 1050.52,
+    "end": 1055.5600000000002,
+    "text": "And of course, I connected and I had connected to Raster a while ago."
+  },
+  {
+    "start": 1055.5600000000002,
+    "end": 1059.8400000000001,
+    "text": "So I don't know if they had already done it for me, but it was awesome to see that like"
+  },
+  {
+    "start": 1059.8400000000001,
+    "end": 1065.0,
+    "text": "90 plus percent of my NFTs, there were a few corner case ones probably from like Versaum"
+  },
+  {
+    "start": 1065.0,
+    "end": 1068.96,
+    "text": "or some other default platforms that they weren't able to cover."
+  },
+  {
+    "start": 1068.96,
+    "end": 1069.96,
+    "text": "But that was great to see."
+  },
+  {
+    "start": 1069.96,
+    "end": 1075.2,
+    "text": "Obviously, we haven't like battle tested that to see if I ever lose access to my FX"
+  },
+  {
+    "start": 1075.2,
+    "end": 1076.4,
+    "text": "Hatch account because of the platform."
+  },
+  {
+    "start": 1076.4,
+    "end": 1080.56,
+    "text": "Like I have no idea what the experience will be like viewing that stuff."
+  },
+  {
+    "start": 1080.56,
+    "end": 1084.4,
+    "text": "Someone who we've always talked about having on the show is like Regina, her son, if you"
+  },
+  {
+    "start": 1084.4,
+    "end": 1090.92,
+    "text": "know her, she works at the, I probably messed up her name, but she does like digital preservation."
+  },
+  {
+    "start": 1090.92,
+    "end": 1095.72,
+    "text": "You can find great videos of her on YouTube talking about the challenges of it, not just"
+  },
+  {
+    "start": 1095.72,
+    "end": 1102.64,
+    "text": "through NFTs, but dating back to like digital art from the 80s, 70s."
+  },
+  {
+    "start": 1102.64,
+    "end": 1107.0,
+    "text": "And how challenging it is to make sure that it actually can still exist and live in a way"
+  },
+  {
+    "start": 1107.0,
+    "end": 1109.24,
+    "text": "that was how the artist intended it to."
+  },
+  {
+    "start": 1109.24,
+    "end": 1113.1200000000001,
+    "text": "Not just like in a bare bones like, oh wait, we still have the file, but like, no, it's"
+  },
+  {
+    "start": 1113.1200000000001,
+    "end": 1115.28,
+    "text": "like displayed on the right machines, right?"
+  },
+  {
+    "start": 1115.28,
+    "end": 1118.0800000000002,
+    "text": "And it can actually, the colors will match and things like that."
+  },
+  {
+    "start": 1118.08,
+    "end": 1123.6799999999998,
+    "text": "We would never think about in 2021, like collecting on FX Hatch or Artblocks, right?"
+  },
+  {
+    "start": 1123.6799999999998,
+    "end": 1124.6799999999998,
+    "text": "Right."
+  },
+  {
+    "start": 1124.6799999999998,
+    "end": 1125.6799999999998,
+    "text": "Yeah."
+  },
+  {
+    "start": 1125.6799999999998,
+    "end": 1126.8799999999999,
+    "text": "It's more fragile than I thought."
+  },
+  {
+    "start": 1126.8799999999999,
+    "end": 1130.48,
+    "text": "Like even some of the on-chain stuff on FX Hatch sounds like it's more of a headache"
+  },
+  {
+    "start": 1130.48,
+    "end": 1135.48,
+    "text": "than the IPFS projects from some conversations that I've seen."
+  },
+  {
+    "start": 1135.48,
+    "end": 1138.8799999999999,
+    "text": "So it's definitely concerning."
+  },
+  {
+    "start": 1138.8799999999999,
+    "end": 1139.8799999999999,
+    "text": "Am I panicking?"
+  },
+  {
+    "start": 1139.8799999999999,
+    "end": 1140.8799999999999,
+    "text": "No, for sure."
+  },
+  {
+    "start": 1140.8799999999999,
+    "end": 1141.8799999999999,
+    "text": "Definitely not."
+  },
+  {
+    "start": 1141.8799999999999,
+    "end": 1146.6399999999999,
+    "text": "I have my fingers crossed that no matter what goes down, Cyford will not leave us completely"
+  },
+  {
+    "start": 1146.64,
+    "end": 1147.64,
+    "text": "screwed."
+  },
+  {
+    "start": 1147.64,
+    "end": 1150.2,
+    "text": "Like it seems like he is still plugging away."
+  },
+  {
+    "start": 1150.2,
+    "end": 1154.92,
+    "text": "And if for whatever reason they just are going to be put in position to shut down the platform,"
+  },
+  {
+    "start": 1154.92,
+    "end": 1160.4,
+    "text": "I hope and perhaps expect that that might be an unfair word that he'll come up with something"
+  },
+  {
+    "start": 1160.4,
+    "end": 1161.4,
+    "text": "for us, right?"
+  },
+  {
+    "start": 1161.4,
+    "end": 1164.3200000000002,
+    "text": "To make sure at least things still function in some fashion."
+  },
+  {
+    "start": 1164.3200000000002,
+    "end": 1168.76,
+    "text": "But yeah, let's talk about FX Hatch a little bit because it's been such a crazy few"
+  },
+  {
+    "start": 1168.76,
+    "end": 1174.2,
+    "text": "months, but also in a way, a crazy two years being a show that like primarily covered it"
+  },
+  {
+    "start": 1174.2,
+    "end": 1176.96,
+    "text": "and trying to figure out everything that's going on with them and all their pivots."
+  },
+  {
+    "start": 1176.96,
+    "end": 1179.88,
+    "text": "Like I shared some notes with you in advance and I was like, they moved to eat, they moved"
+  },
+  {
+    "start": 1179.88,
+    "end": 1181.0800000000002,
+    "text": "to base."
+  },
+  {
+    "start": 1181.0800000000002,
+    "end": 1186.56,
+    "text": "They announced a kind of curated program called Vertex that had one release and then they"
+  },
+  {
+    "start": 1186.56,
+    "end": 1187.76,
+    "text": "never did anything with it."
+  },
+  {
+    "start": 1187.76,
+    "end": 1193.76,
+    "text": "And then obviously like past things like Params and FX text and now open form and the"
+  },
+  {
+    "start": 1193.76,
+    "end": 1194.76,
+    "text": "FX Hatch token."
+  },
+  {
+    "start": 1194.76,
+    "end": 1199.48,
+    "text": "So you've been here the whole time collecting, engaging."
+  },
+  {
+    "start": 1199.48,
+    "end": 1203.0,
+    "text": "What's your holistic take on the history of the platform?"
+  },
+  {
+    "start": 1203.32,
+    "end": 1206.64,
+    "text": "Or if you want to start with like the most more recent stuff with the tokens,"
+  },
+  {
+    "start": 1206.64,
+    "end": 1210.04,
+    "text": "like wherever you want to start, like I'm down to talk about all of it."
+  },
+  {
+    "start": 1210.04,
+    "end": 1214.16,
+    "text": "Overengineering has been one of my fears for the platform for the last couple years,"
+  },
+  {
+    "start": 1214.16,
+    "end": 1215.16,
+    "text": "really."
+  },
+  {
+    "start": 1215.16,
+    "end": 1217.68,
+    "text": "It wasn't just the recent art coin thing."
+  },
+  {
+    "start": 1217.68,
+    "end": 1223.72,
+    "text": "I do feel like creating novelty was kind of prioritized over doing more of a curated"
+  },
+  {
+    "start": 1223.72,
+    "end": 1226.92,
+    "text": "approach and getting really big projects to mint on their break because we have the"
+  },
+  {
+    "start": 1226.92,
+    "end": 1232.4,
+    "text": "big rails and then after that, the artists that really succeeded kind of moved on to different"
+  },
+  {
+    "start": 1232.4,
+    "end": 1233.68,
+    "text": "platforms and blockchains."
+  },
+  {
+    "start": 1233.68,
+    "end": 1237.3600000000001,
+    "text": "So I did fear about the overengineering thing definitely."
+  },
+  {
+    "start": 1237.3600000000001,
+    "end": 1243.2800000000002,
+    "text": "I will say more recently, you know, I felt that there was a bit much to drop."
+  },
+  {
+    "start": 1243.2800000000002,
+    "end": 1246.6000000000001,
+    "text": "Art coins and open form at the same time."
+  },
+  {
+    "start": 1246.6000000000001,
+    "end": 1248.48,
+    "text": "It was Cypherid's project, right?"
+  },
+  {
+    "start": 1248.48,
+    "end": 1253.24,
+    "text": "The open form project that kind of unveiled the whole art coin thing, right?"
+  },
+  {
+    "start": 1253.24,
+    "end": 1254.5600000000002,
+    "text": "Yeah, genomes, right?"
+  },
+  {
+    "start": 1254.5600000000002,
+    "end": 1256.5600000000002,
+    "text": "Oh, no, this was after genomes."
+  },
+  {
+    "start": 1256.5600000000002,
+    "end": 1257.5600000000002,
+    "text": "This was a lot."
+  },
+  {
+    "start": 1257.5600000000002,
+    "end": 1259.5600000000002,
+    "text": "What was the more recent one called?"
+  },
+  {
+    "start": 1259.5600000000002,
+    "end": 1260.5600000000002,
+    "text": "Generations."
+  },
+  {
+    "start": 1260.5600000000002,
+    "end": 1261.5600000000002,
+    "text": "Generations, okay."
+  },
+  {
+    "start": 1261.56,
+    "end": 1262.56,
+    "text": "Yeah."
+  },
+  {
+    "start": 1262.56,
+    "end": 1267.76,
+    "text": "So it was fully open for meaning unlimited number of iterations and you could also evolve"
+  },
+  {
+    "start": 1267.76,
+    "end": 1272.6,
+    "text": "your outputs and mutate them and create new outputs after you admitted it."
+  },
+  {
+    "start": 1272.6,
+    "end": 1278.44,
+    "text": "And to me, that technology wise, it's cool, but I think it totally removes the scarcity"
+  },
+  {
+    "start": 1278.44,
+    "end": 1281.8799999999999,
+    "text": "and the value aspect of the art as a collector, right?"
+  },
+  {
+    "start": 1281.8799999999999,
+    "end": 1287.28,
+    "text": "Like, why would I put any significant amount of money into minting something that I can change"
+  },
+  {
+    "start": 1287.28,
+    "end": 1291.12,
+    "text": "after I mint it and then there's an unlimited number of outputs, right?"
+  },
+  {
+    "start": 1291.12,
+    "end": 1295.8,
+    "text": "So I thought it was really cool, but it kind of removes the financial aspect of it completely."
+  },
+  {
+    "start": 1295.8,
+    "end": 1300.08,
+    "text": "And then simultaneously you're dropping art coins, which has nothing to do with art and"
+  },
+  {
+    "start": 1300.08,
+    "end": 1303.84,
+    "text": "it's all financial, all about community and cult followings, right?"
+  },
+  {
+    "start": 1303.84,
+    "end": 1307.28,
+    "text": "And I just think that that combination didn't quite land, right?"
+  },
+  {
+    "start": 1307.28,
+    "end": 1308.4799999999998,
+    "text": "For me, at least."
+  },
+  {
+    "start": 1308.4799999999998,
+    "end": 1310.12,
+    "text": "So that was a little bit kind of weak."
+  },
+  {
+    "start": 1310.12,
+    "end": 1313.4799999999998,
+    "text": "Like, if they had come out with, you know, art coins and then I'm just going to use an"
+  },
+  {
+    "start": 1313.4799999999998,
+    "end": 1318.8,
+    "text": "example, like Xancan dropped a really cool project with the art coin dropping the same"
+  },
+  {
+    "start": 1318.8,
+    "end": 1319.8,
+    "text": "day."
+  },
+  {
+    "start": 1319.8,
+    "end": 1321.6,
+    "text": "And you're generated quite a lot of buzz."
+  },
+  {
+    "start": 1321.6,
+    "end": 1324.06,
+    "text": "So I felt like the release kind of fell flat."
+  },
+  {
+    "start": 1324.06,
+    "end": 1329.36,
+    "text": "There was a period where I still believed in the concept, you know, the FX hash token"
+  },
+  {
+    "start": 1329.36,
+    "end": 1331.7,
+    "text": "in particular was promising."
+  },
+  {
+    "start": 1331.7,
+    "end": 1334.68,
+    "text": "I mean, we saw, actually it took note of this."
+  },
+  {
+    "start": 1334.68,
+    "end": 1338.44,
+    "text": "The Zora token went to $450 million market cap."
+  },
+  {
+    "start": 1338.44,
+    "end": 1339.44,
+    "text": "Yeah."
+  },
+  {
+    "start": 1339.44,
+    "end": 1341.2,
+    "text": "I think FX hash peaked at 15 million."
+  },
+  {
+    "start": 1341.2,
+    "end": 1345.52,
+    "text": "So like, the potential that was there for the FX hash token was so great."
+  },
+  {
+    "start": 1345.52,
+    "end": 1349.68,
+    "text": "And I really thought that like, yeah, I could see FX hash token going to 100 million easily"
+  },
+  {
+    "start": 1349.68,
+    "end": 1350.68,
+    "text": "right?"
+  },
+  {
+    "start": 1350.68,
+    "end": 1351.8400000000001,
+    "text": "And it just didn't happen."
+  },
+  {
+    "start": 1351.8400000000001,
+    "end": 1354.68,
+    "text": "I thought it was going to for a while there for sure."
+  },
+  {
+    "start": 1354.68,
+    "end": 1355.68,
+    "text": "And it just didn't happen."
+  },
+  {
+    "start": 1355.68,
+    "end": 1357.68,
+    "text": "So that was disappointing."
+  },
+  {
+    "start": 1357.68,
+    "end": 1361.3200000000002,
+    "text": "And then from there, it was kind of just, there was no momentum at that point."
+  },
+  {
+    "start": 1361.3200000000002,
+    "end": 1365.0,
+    "text": "Crypto was kind of starting the bear market from the highs we saw."
+  },
+  {
+    "start": 1365.0,
+    "end": 1367.72,
+    "text": "And obviously NFTs were not doing any better."
+  },
+  {
+    "start": 1367.72,
+    "end": 1372.28,
+    "text": "So a lot of it is just, yeah, it didn't catch the hype for whatever reason."
+  },
+  {
+    "start": 1372.28,
+    "end": 1374.52,
+    "text": "And that was kind of the window of opportunity."
+  },
+  {
+    "start": 1374.52,
+    "end": 1380.6,
+    "text": "Was that six month period where base memes were pumping and Zora was pumping and FX hash"
+  },
+  {
+    "start": 1380.6,
+    "end": 1382.6399999999999,
+    "text": "seemed natural and it just didn't happen."
+  },
+  {
+    "start": 1382.6399999999999,
+    "end": 1386.56,
+    "text": "So yeah, that's kind of my take on the situation and how I've perceived it."
+  },
+  {
+    "start": 1386.56,
+    "end": 1391.28,
+    "text": "My only answer is that FX hash made the mistake of launching with too much of a product."
+  },
+  {
+    "start": 1391.28,
+    "end": 1393.96,
+    "text": "And actually being like, no, you're going to go here and you're going to collect real"
+  },
+  {
+    "start": 1393.96,
+    "end": 1395.44,
+    "text": "art and you're going to explore it."
+  },
+  {
+    "start": 1395.44,
+    "end": 1399.08,
+    "text": "And it's not going to just be, you click a link on Twitter to some meme and you go and"
+  },
+  {
+    "start": 1399.08,
+    "end": 1402.36,
+    "text": "you just like, you'll go into it and then sell it two hours later, right?"
+  },
+  {
+    "start": 1402.36,
+    "end": 1407.28,
+    "text": "They were actually trying to create something that was too hard in both senses of the word."
+  },
+  {
+    "start": 1407.28,
+    "end": 1411.9599999999998,
+    "text": "Like it was like a hard use case, but also like hard to use compared to other ways."
+  },
+  {
+    "start": 1411.9599999999998,
+    "end": 1415.8,
+    "text": "Like if you're going to go speculate in coins, why go through all the trouble of like"
+  },
+  {
+    "start": 1415.8,
+    "end": 1419.76,
+    "text": "understanding the art and the artist, you can just go follow big meme accounts or whatever."
+  },
+  {
+    "start": 1419.76,
+    "end": 1421.8,
+    "text": "However, people found whatever they're going to buy and so are right."
+  },
+  {
+    "start": 1421.8,
+    "end": 1422.8,
+    "text": "Yeah."
+  },
+  {
+    "start": 1422.8,
+    "end": 1426.08,
+    "text": "And I think ultimately they found that while the people who were interested in using the"
+  },
+  {
+    "start": 1426.08,
+    "end": 1430.36,
+    "text": "platform weren't at this time speculative investors, they actually did want to make cool"
+  },
+  {
+    "start": 1430.36,
+    "end": 1434.9599999999998,
+    "text": "art and there was just this disconnect the entire time where the user experience was getting"
+  },
+  {
+    "start": 1434.9599999999998,
+    "end": 1440.6799999999998,
+    "text": "worse because you know, the art coins complicated things and whatever cabal overlords there"
+  },
+  {
+    "start": 1440.6799999999998,
+    "end": 1443.28,
+    "text": "are decided to not pump the tokens, right?"
+  },
+  {
+    "start": 1443.28,
+    "end": 1445.32,
+    "text": "Yeah, it just didn't work out."
+  },
+  {
+    "start": 1445.32,
+    "end": 1446.32,
+    "text": "Yeah."
+  },
+  {
+    "start": 1446.32,
+    "end": 1448.12,
+    "text": "I don't know if you listened to the episodes we did kind of around it."
+  },
+  {
+    "start": 1448.12,
+    "end": 1453.56,
+    "text": "We did an episode with Cypher because it was obviously just such a big moment for them."
+  },
+  {
+    "start": 1453.56,
+    "end": 1457.08,
+    "text": "And you know, they were very candid like if this doesn't work, the platform is in a lot"
+  },
+  {
+    "start": 1457.08,
+    "end": 1458.08,
+    "text": "of trouble."
+  },
+  {
+    "start": 1458.4399999999998,
+    "end": 1463.4399999999998,
+    "text": "Yeah, which I was I kind of suspected but was surprised that they would actually admit to"
+  },
+  {
+    "start": 1463.4399999999998,
+    "end": 1464.6399999999999,
+    "text": "that on the episode."
+  },
+  {
+    "start": 1464.6399999999999,
+    "end": 1469.28,
+    "text": "And it kind of made sense to me though, from a career perspective for an artist like in my"
+  },
+  {
+    "start": 1469.28,
+    "end": 1476.32,
+    "text": "mind, like thinking back if someone like Zancan, like in 2021 or early 2020 or late 2020,"
+  },
+  {
+    "start": 1476.32,
+    "end": 1479.04,
+    "text": "even this whole art coin thing was there."
+  },
+  {
+    "start": 1479.04,
+    "end": 1483.4399999999998,
+    "text": "Like the idea of having a career coin where the supply constantly goes down and every time"
+  },
+  {
+    "start": 1483.4399999999998,
+    "end": 1486.56,
+    "text": "you release something, then it doesn't necessarily have to be open for them, but like, right?"
+  },
+  {
+    "start": 1487.36,
+    "end": 1492.24,
+    "text": "It kind of makes sense if you could go back in time and launch it then."
+  },
+  {
+    "start": 1492.24,
+    "end": 1497.04,
+    "text": "But as a Hail Mary move for a platform and also expecting them to pair it with open form,"
+  },
+  {
+    "start": 1497.04,
+    "end": 1501.76,
+    "text": "which is this new kind of discipline, very few of the artists who did release that way,"
+  },
+  {
+    "start": 1501.76,
+    "end": 1503.76,
+    "text": "I think really pulled it off well."
+  },
+  {
+    "start": 1504.6399999999999,
+    "end": 1505.36,
+    "text": "It just felt tough."
+  },
+  {
+    "start": 1505.36,
+    "end": 1509.76,
+    "text": "And then when you don't have a follow up quickly, you just see the price action and the volume"
+  },
+  {
+    "start": 1509.76,
+    "end": 1515.36,
+    "text": "stagnate on those tokens because once all the natural minting is done, then all that's left"
+  },
+  {
+    "start": 1515.36,
+    "end": 1517.4399999999998,
+    "text": "is to buy and sell the token and do nothing else with it."
+  },
+  {
+    "start": 1517.4399999999998,
+    "end": 1521.52,
+    "text": "And you're waiting and waiting and waiting and like, I think we only saw one or two artists ever"
+  },
+  {
+    "start": 1521.52,
+    "end": 1527.6,
+    "text": "even create a follow up project that like used their cent coin and just it's a thing that needed"
+  },
+  {
+    "start": 1527.6,
+    "end": 1529.9199999999998,
+    "text": "years of time to prove itself out."
+  },
+  {
+    "start": 1529.9199999999998,
+    "end": 1533.84,
+    "text": "And crypto doesn't have the time for that and the platform you have that time either."
+  },
+  {
+    "start": 1533.84,
+    "end": 1536.7199999999998,
+    "text": "Yeah, I mean, that's the risk you take getting into that territory."
+  },
+  {
+    "start": 1536.7199999999998,
+    "end": 1542.0,
+    "text": "It's as far as crypto cycles, you know, many cycles within a boron happen really fast."
+  },
+  {
+    "start": 1542.0,
+    "end": 1545.44,
+    "text": "And once you lose that momentum, it's kind of over."
+  },
+  {
+    "start": 1545.44,
+    "end": 1550.16,
+    "text": "What do you think about there are more recent ideas around opening up the platform,"
+  },
+  {
+    "start": 1550.16,
+    "end": 1554.16,
+    "text": "doing a Dow? Are you fully out of FX hash like FXH, I should say?"
+  },
+  {
+    "start": 1554.16,
+    "end": 1556.64,
+    "text": "Like, I'm sure you got like a decent chunk in air drive."
+  },
+  {
+    "start": 1556.64,
+    "end": 1560.4,
+    "text": "Yeah, I sold a little bit of my allocation at first."
+  },
+  {
+    "start": 1560.4,
+    "end": 1561.76,
+    "text": "I think I held most of it."
+  },
+  {
+    "start": 1561.76,
+    "end": 1565.6,
+    "text": "I think what I have now is worth like one or two hundred bucks, but I don't know."
+  },
+  {
+    "start": 1565.6,
+    "end": 1568.64,
+    "text": "I've never really seen the Dow thing play out."
+  },
+  {
+    "start": 1568.64,
+    "end": 1570.48,
+    "text": "I think that's a great concept."
+  },
+  {
+    "start": 1570.56,
+    "end": 1572.08,
+    "text": "I guess I don't really have an opinion on it."
+  },
+  {
+    "start": 1572.72,
+    "end": 1577.3600000000001,
+    "text": "I really would like to see personally assuming that there's going to be no"
+  },
+  {
+    "start": 1577.3600000000001,
+    "end": 1579.44,
+    "text": "miracle funding coming in, which there might be."
+  },
+  {
+    "start": 1579.44,
+    "end": 1582.72,
+    "text": "I mean, they've been talking about something, but I'd like to see them pivot more towards"
+  },
+  {
+    "start": 1582.72,
+    "end": 1586.8,
+    "text": "preserving the art and enabling the marketplace to persist."
+  },
+  {
+    "start": 1586.8,
+    "end": 1588.8,
+    "text": "I think it kind of maintains that legacy, right?"
+  },
+  {
+    "start": 1588.8,
+    "end": 1593.92,
+    "text": "Because it's, I mean, FXH is such a significant chapter of GenerativeArt and maintaining that"
+  },
+  {
+    "start": 1593.92,
+    "end": 1598.32,
+    "text": "platform in some degree, no matter what is what I want to see."
+  },
+  {
+    "start": 1598.32,
+    "end": 1603.6,
+    "text": "Whatever that means, I don't know about the technical details and what that would require."
+  },
+  {
+    "start": 1603.6,
+    "end": 1608.6399999999999,
+    "text": "It seems like they need to trim down their infrastructure costs quite a bit for anything to be possible."
+  },
+  {
+    "start": 1608.6399999999999,
+    "end": 1612.48,
+    "text": "I mean, obviously it would be awesome if they could have the platform persist in some way."
+  },
+  {
+    "start": 1612.48,
+    "end": 1616.48,
+    "text": "I think they were kind of floating like, obviously, keep secondary going because that's probably"
+  },
+  {
+    "start": 1616.48,
+    "end": 1620.08,
+    "text": "the only place they're really making much revenue these days if they're making any."
+  },
+  {
+    "start": 1620.08,
+    "end": 1623.2,
+    "text": "You know, I guess kind of the idea was perhaps like you could do some curated stuff and it would"
+  },
+  {
+    "start": 1623.2,
+    "end": 1627.12,
+    "text": "just be like one or two or three releases a year and then every that way they keep their costs"
+  },
+  {
+    "start": 1627.12,
+    "end": 1630.1599999999999,
+    "text": "down because they're not constantly having people putting up like."
+  },
+  {
+    "start": 1630.1599999999999,
+    "end": 1631.76,
+    "text": "That's what art blocks is doing right now, right?"
+  },
+  {
+    "start": 1631.76,
+    "end": 1632.56,
+    "text": "Yeah."
+  },
+  {
+    "start": 1632.56,
+    "end": 1639.36,
+    "text": "If I understand correctly doing just a few releases, but they've kind of encapsulated that 500 projects"
+  },
+  {
+    "start": 1639.36,
+    "end": 1643.04,
+    "text": "and really wanted to focus on preserving those as best as possible."
+  },
+  {
+    "start": 1643.04,
+    "end": 1647.28,
+    "text": "Yeah, it feels like art blocks is in such a weird place because yeah, they're not really doing"
+  },
+  {
+    "start": 1647.28,
+    "end": 1652.2399999999998,
+    "text": "formal curated stuff, but then they have whatever their new version of playground is."
+  },
+  {
+    "start": 1652.32,
+    "end": 1657.92,
+    "text": "So like in theory, anyone who has worked on those contracts before can without permission come"
+  },
+  {
+    "start": 1657.92,
+    "end": 1664.24,
+    "text": "and publish work there, but I think that they had this issue that without the prestige of being"
+  },
+  {
+    "start": 1664.24,
+    "end": 1670.08,
+    "text": "curated or even being what was the one just below curated that they did like, but it was still selected."
+  },
+  {
+    "start": 1670.08,
+    "end": 1672.0,
+    "text": "Oh, it was like art blocks presents."
+  },
+  {
+    "start": 1672.0,
+    "end": 1676.64,
+    "text": "Yeah, whatever their second tier of curation was when it was reduced down to like this is an"
+  },
+  {
+    "start": 1676.64,
+    "end": 1681.44,
+    "text": "open platform, but just for artists who have been picked before, they weren't selling out."
+  },
+  {
+    "start": 1681.44,
+    "end": 1684.64,
+    "text": "Something sold out, but some things really did not perform well."
+  },
+  {
+    "start": 1684.64,
+    "end": 1689.2,
+    "text": "So it's the exact same problem that FX hash had, which is like, it just feels like the whole"
+  },
+  {
+    "start": 1689.2,
+    "end": 1695.44,
+    "text": "community artists and collectors both turn towards being curated, getting some kind of not"
+  },
+  {
+    "start": 1695.44,
+    "end": 1697.1200000000001,
+    "text": "even necessarily the marketing behind them."
+  },
+  {
+    "start": 1697.1200000000001,
+    "end": 1700.64,
+    "text": "Because like I don't know that I would say like someone might buy a release from verse, for example,"
+  },
+  {
+    "start": 1700.64,
+    "end": 1704.88,
+    "text": "because the marketing was so good. I think they're buying it because they like the artists and they"
+  },
+  {
+    "start": 1704.88,
+    "end": 1709.6000000000001,
+    "text": "like the platform is like staking like a bit of reputation on them and saying like this is good,"
+  },
+  {
+    "start": 1710.08,
+    "end": 1714.3999999999999,
+    "text": "right? Come by this. And that's why it's the price point it is. And that's why we're giving it all"
+  },
+  {
+    "start": 1714.3999999999999,
+    "end": 1718.8,
+    "text": "this space. So I know you've collected on verse. So like how do you kind of feel about them being"
+  },
+  {
+    "start": 1718.8,
+    "end": 1722.8799999999999,
+    "text": "the last at least as far as I guess there's also there's one other platform, but like one of the"
+  },
+  {
+    "start": 1722.8799999999999,
+    "end": 1728.08,
+    "text": "last like really curated experiences out there. All I can say is like I've really enjoyed"
+  },
+  {
+    "start": 1728.08,
+    "end": 1733.04,
+    "text": "the projects that verse half put out, you know, obviously I'm an Eric Swan fan and several really"
+  },
+  {
+    "start": 1733.04,
+    "end": 1738.48,
+    "text": "good releases there. And I love how they're bridging that gap between the digital and the physical."
+  },
+  {
+    "start": 1738.48,
+    "end": 1744.88,
+    "text": "I think you had maybe alluded to is this turning more towards traditional art galleries and"
+  },
+  {
+    "start": 1744.88,
+    "end": 1749.04,
+    "text": "less decentralized. And I don't think it's that I think that platforms like verse that do both"
+  },
+  {
+    "start": 1749.04,
+    "end": 1753.92,
+    "text": "is great to onboard new collectors and kind of give more legitimacy to what we're doing. Like"
+  },
+  {
+    "start": 1753.92,
+    "end": 1758.0,
+    "text": "if you have real people showing up and viewing this digital artwork, it's awesome, right? Like"
+  },
+  {
+    "start": 1758.0,
+    "end": 1763.2,
+    "text": "so I don't see it as like a long-term shift towards traditional art necessarily or anything like"
+  },
+  {
+    "start": 1763.28,
+    "end": 1769.68,
+    "text": "that. I just see it as a cool way to release cool art and they've done a great job with that."
+  },
+  {
+    "start": 1769.68,
+    "end": 1775.1200000000001,
+    "text": "I kind of think about it two ways like I feel like there should be an open platform somewhere"
+  },
+  {
+    "start": 1775.8400000000001,
+    "end": 1779.8400000000001,
+    "text": "and I would love for it to work for like anyone who's maybe someone like me who maybe decided I"
+  },
+  {
+    "start": 1779.8400000000001,
+    "end": 1784.8,
+    "text": "want to get into coding and like I make a project that's like not not amazing, but I want to put it"
+  },
+  {
+    "start": 1784.8,
+    "end": 1789.3600000000001,
+    "text": "up there and I want to be able to like say like I published something and I know like verses never"
+  },
+  {
+    "start": 1789.36,
+    "end": 1793.4399999999998,
+    "text": "going to do that and like I've never been on art blocks. I'm never going to be able to put it"
+  },
+  {
+    "start": 1793.4399999999998,
+    "end": 1799.1999999999998,
+    "text": "there and I don't have the technical chops to like run my own website and spin up my own contract."
+  },
+  {
+    "start": 1799.1999999999998,
+    "end": 1805.36,
+    "text": "So I feel like there is a use case and like a need for almost like a hick and nunk thing like a"
+  },
+  {
+    "start": 1805.36,
+    "end": 1811.36,
+    "text": "very like punk DIY platform to exist where anyone can publish stuff, but there just doesn't feel"
+  },
+  {
+    "start": 1811.36,
+    "end": 1815.76,
+    "text": "like now there's just doesn't feel like it's economically viable unless you just are willing to"
+  },
+  {
+    "start": 1815.76,
+    "end": 1819.44,
+    "text": "accept that it's like a one person thing. You're going to be the one person who does it and maybe"
+  },
+  {
+    "start": 1819.44,
+    "end": 1823.76,
+    "text": "some months you'll make a hundred bucks and some months you'll make ten thousand bucks and you"
+  },
+  {
+    "start": 1823.76,
+    "end": 1828.96,
+    "text": "can't be all in on it and beyond that right. Beyond almost like a hobby that with upside."
+  },
+  {
+    "start": 1829.52,
+    "end": 1836.0,
+    "text": "Yeah so a few thoughts. Well one verse had an announcement recently about something about going"
+  },
+  {
+    "start": 1836.0,
+    "end": 1841.84,
+    "text": "fully open right? They did. Yeah I have no idea what's going on there but yeah they're moving"
+  },
+  {
+    "start": 1841.84,
+    "end": 1846.3999999999999,
+    "text": "more towards that it seems like and then yeah I mean there's other little platforms popping up"
+  },
+  {
+    "start": 1846.3999999999999,
+    "end": 1852.08,
+    "text": "like bootloader right? It's kind of like early FX hash in terms of value. So I don't think that"
+  },
+  {
+    "start": 1852.08,
+    "end": 1856.32,
+    "text": "opportunity is gone you know as someone who just wants to dabble and meant something and see"
+  },
+  {
+    "start": 1856.32,
+    "end": 1861.4399999999998,
+    "text": "see what happens. Yeah I don't understand the verse like I know that they've been expanding their"
+  },
+  {
+    "start": 1861.4399999999998,
+    "end": 1866.32,
+    "text": "contracts out to like more gallery isn't they've kind of gone through like branding and rebranding"
+  },
+  {
+    "start": 1866.32,
+    "end": 1871.04,
+    "text": "of like we're the gallery and now actually like solos is the gallery and then there's like other"
+  },
+  {
+    "start": 1871.04,
+    "end": 1875.36,
+    "text": "curators and actually now those curators aren't a part of us but they can still you know lonely's"
+  },
+  {
+    "start": 1875.36,
+    "end": 1879.76,
+    "text": "no longer there but now he's spun up his new thing the garden and his first projects of course"
+  },
+  {
+    "start": 1879.76,
+    "end": 1885.52,
+    "text": "on verse with their contracts so it's like their whole kind of identity and role in that way has"
+  },
+  {
+    "start": 1885.52,
+    "end": 1889.44,
+    "text": "been all over the place. We've interviewed Jamie probably three times over the course of the"
+  },
+  {
+    "start": 1889.44,
+    "end": 1896.32,
+    "text": "program. I feel like he's always been skeptical of the open platform idea because you want your"
+  },
+  {
+    "start": 1896.32,
+    "end": 1900.72,
+    "text": "brand like you're you know their verse brand you want to have some kind of premiums on prestige to"
+  },
+  {
+    "start": 1900.72,
+    "end": 1906.16,
+    "text": "it and the second you let anyone now jump on the platform and muck it up with random sketches"
+  },
+  {
+    "start": 1906.16,
+    "end": 1909.52,
+    "text": "then you're going to get into this problem that I think FX has struggled with which was like"
+  },
+  {
+    "start": 1910.32,
+    "end": 1917.28,
+    "text": "how do we allow anyone to publish here but also elevate and highlight and curate the projects we"
+  },
+  {
+    "start": 1917.28,
+    "end": 1920.8,
+    "text": "think are actually going to make us money and I know objects gone through that issue too of like"
+  },
+  {
+    "start": 1920.8,
+    "end": 1924.24,
+    "text": "people who have been salty and been like I've never been on the front page of an object and I've"
+  },
+  {
+    "start": 1924.24,
+    "end": 1928.8,
+    "text": "been publishing there for three years and like the whole politics of who gets front page like no"
+  },
+  {
+    "start": 1928.8,
+    "end": 1934.08,
+    "text": "variety of objects so I have no idea what their plan is for that I'm super curious to see how it all"
+  },
+  {
+    "start": 1934.08,
+    "end": 1939.44,
+    "text": "puts you just want to like also shout out object because in the midst of a potential FX has shut down"
+  },
+  {
+    "start": 1939.44,
+    "end": 1945.36,
+    "text": "having that extra layer of security in terms of the preservation is right so you're sharing and"
+  },
+  {
+    "start": 1945.36,
+    "end": 1949.52,
+    "text": "they've done an excellent job I mean the functionality of the platform I like using it more than"
+  },
+  {
+    "start": 1949.52,
+    "end": 1953.9199999999998,
+    "text": "open sea you know and they they do a combination of things you know they've done some drops with"
+  },
+  {
+    "start": 1954.0,
+    "end": 1959.68,
+    "text": "Casey Ries you know where it's like kind of long form generator art dropped on object right and"
+  },
+  {
+    "start": 1959.68,
+    "end": 1964.24,
+    "text": "I think the more options we have and the more stable platforms we have the better so just wanted"
+  },
+  {
+    "start": 1964.24,
+    "end": 1969.68,
+    "text": "to throw that out there that object has been really reassuring throughout this turmoil for sure"
+  },
+  {
+    "start": 1969.68,
+    "end": 1974.0800000000002,
+    "text": "and bootloaders like a side project from them too and they finally added p5 and like"
+  },
+  {
+    "start": 1974.0800000000002,
+    "end": 1978.88,
+    "text": "JavaScript support there as well because it was originally just like SVG and like native HTML stuff"
+  },
+  {
+    "start": 1979.5200000000002,
+    "end": 1984.0,
+    "text": "so it's it's cool that that they're there but it you know there's still tezos only one of the"
+  },
+  {
+    "start": 1984.0,
+    "end": 1989.7600000000002,
+    "text": "reasons that fs has left they felt like the artists that left them left in part because they"
+  },
+  {
+    "start": 1989.7600000000002,
+    "end": 1994.64,
+    "text": "felt collector demand to put their art on eath or they had maybe been blessed with an art"
+  },
+  {
+    "start": 1994.64,
+    "end": 1999.8400000000001,
+    "text": "blocks curation and now they had this whole like eath collector base we've kind of seen like you"
+  },
+  {
+    "start": 1999.8400000000001,
+    "end": 2005.8400000000001,
+    "text": "can't drag them back to tezos not in great numbers at least so like I think fx hash thought okay"
+  },
+  {
+    "start": 2005.9199999999998,
+    "end": 2012.32,
+    "text": "like well we need to have this other chain supported and I don't imagine that bootloader or object"
+  },
+  {
+    "start": 2012.32,
+    "end": 2019.36,
+    "text": "is ever gonna crossover yeah that'd be wild I don't fault fx hash for wanting to move towards"
+  },
+  {
+    "start": 2019.36,
+    "end": 2024.32,
+    "text": "ease and base I mean that's how they got that coin based venture funding right so you know it's"
+  },
+  {
+    "start": 2024.32,
+    "end": 2030.24,
+    "text": "unfortunate that there wasn't that kind of breakthrough moment where a big project generated a lot"
+  },
+  {
+    "start": 2030.24,
+    "end": 2035.1999999999998,
+    "text": "of hype and whatnot but it is also kind of funny as someone who loves tezos and loves tezos art"
+  },
+  {
+    "start": 2035.2,
+    "end": 2041.92,
+    "text": "to see that pretty much all the volume is tezos legacy grails right yeah so partially thanks to"
+  },
+  {
+    "start": 2041.92,
+    "end": 2047.52,
+    "text": "people I mean I so tempted to just talked about pokemon because of my history with it but I I guess"
+  },
+  {
+    "start": 2047.52,
+    "end": 2052.32,
+    "text": "I would also like to ask since you've been in the crypto space for so long and like how weak this last"
+  },
+  {
+    "start": 2053.12,
+    "end": 2059.28,
+    "text": "cycle felt not just the issue that it never shifted to NFTs really which sucked for all of my art"
+  },
+  {
+    "start": 2059.36,
+    "end": 2065.36,
+    "text": "but you know like I held Bitcoin and ETH and stuff since 2020 and missed that opportunity that window"
+  },
+  {
+    "start": 2065.36,
+    "end": 2070.32,
+    "text": "in 2021 to sell and then I just held right and I you know I finally got out close enough ish to the"
+  },
+  {
+    "start": 2070.32,
+    "end": 2076.7200000000003,
+    "text": "top in this cycle but again it was like still nowhere near the top that anyone who likes to do the charts"
+  },
+  {
+    "start": 2076.7200000000003,
+    "end": 2082.2400000000002,
+    "text": "and the cycle theory stuff would have said we were gonna get to you've been here I think one"
+  },
+  {
+    "start": 2082.2400000000002,
+    "end": 2086.48,
+    "text": "cycle longer than me or maybe even like one and a half so like what do you feel about the space in"
+  },
+  {
+    "start": 2086.48,
+    "end": 2092.8,
+    "text": "general how PVP it's become how we just seem to be getting these shallower and shallower cycles"
+  },
+  {
+    "start": 2092.8,
+    "end": 2097.92,
+    "text": "like do you hold out hope that the tech or hold out hope for it as a speculative asset at all like"
+  },
+  {
+    "start": 2097.92,
+    "end": 2103.36,
+    "text": "long term yeah I mean I'm always a long term Bitcoin bull basically all I hold right now is Bitcoin"
+  },
+  {
+    "start": 2103.36,
+    "end": 2108.64,
+    "text": "and NFTs I've completely liquidated all my name tokens whatever you want to call these tokens"
+  },
+  {
+    "start": 2109.44,
+    "end": 2115.04,
+    "text": "I don't hold any ETH I don't hold any tezos long term I think that Bitcoin is the digital gold"
+  },
+  {
+    "start": 2115.2799999999997,
+    "end": 2121.6,
+    "text": "and that thesis is still great I think you know it actually makes sense to see shorter less explosive"
+  },
+  {
+    "start": 2121.6,
+    "end": 2126.08,
+    "text": "market cycles you know as that market matures and it's just completely different now I mean we have"
+  },
+  {
+    "start": 2126.08,
+    "end": 2132.16,
+    "text": "ETFs and so many ways to invest in Bitcoin and naturally it's just gonna get less volatile as it"
+  },
+  {
+    "start": 2132.16,
+    "end": 2140.16,
+    "text": "matures and you know we did see some crazy sub cycles like the Salana mean token trading was pretty"
+  },
+  {
+    "start": 2140.16,
+    "end": 2144.96,
+    "text": "insane I mean that rivals anything I've ever been a part of in crypto the stuff that was going on"
+  },
+  {
+    "start": 2144.96,
+    "end": 2151.12,
+    "text": "there it was pretty short lasted of course for another NFT cycle to happen it requires a"
+  },
+  {
+    "start": 2151.12,
+    "end": 2156.4,
+    "text": "convergence of just a lot of different factors that are timed correctly within the crypto market"
+  },
+  {
+    "start": 2156.4,
+    "end": 2163.04,
+    "text": "cycle and the global politics and all this stuff I can't say what's gonna happen and it is"
+  },
+  {
+    "start": 2163.04,
+    "end": 2168.56,
+    "text": "disappointing to not see you know like a real NFT bull run but I still feel if you're buying"
+  },
+  {
+    "start": 2168.64,
+    "end": 2175.52,
+    "text": "quality art that has historical value you'll do fine in the long on how much more buying"
+  },
+  {
+    "start": 2176.16,
+    "end": 2182.08,
+    "text": "do you think you personally will do erics want aside right but like are there other things that"
+  },
+  {
+    "start": 2182.08,
+    "end": 2187.44,
+    "text": "you're still targeting that you're like just kind of waiting and watching or putting in offers"
+  },
+  {
+    "start": 2187.44,
+    "end": 2192.7999999999997,
+    "text": "I think we moved down probably 90% twice on a lot of these projects so there's always the potential"
+  },
+  {
+    "start": 2192.7999999999997,
+    "end": 2198.4,
+    "text": "to go down again and what's $30 today could be $15 in a year like are you you're far"
+  },
+  {
+    "start": 2198.4,
+    "end": 2203.76,
+    "text": "Tyler's pretty complete because you've got all your monos you've got so many awesome ones I was"
+  },
+  {
+    "start": 2203.76,
+    "end": 2207.36,
+    "text": "actually looking at your stuff because I was like I minted them I minted a mono the one far"
+  },
+  {
+    "start": 2207.36,
+    "end": 2212.08,
+    "text": "Tyler I minted was a mono and I was disappointed and I flipped it because I was like I don't want like"
+  },
+  {
+    "start": 2212.08,
+    "end": 2216.2400000000002,
+    "text": "this is such a cool project I love the colors I got this weird mono piece and I was like I wonder"
+  },
+  {
+    "start": 2216.2400000000002,
+    "end": 2221.12,
+    "text": "if you incidentally had mine but it wasn't I think I had a green one there's probably some more"
+  },
+  {
+    "start": 2221.12,
+    "end": 2224.64,
+    "text": "stuff on verse you could be looking to get from him or other artists like I said a point where"
+  },
+  {
+    "start": 2224.64,
+    "end": 2230.4,
+    "text": "you're just gonna go like I feel like I've got enough of the old stuff or if it goes down 90%"
+  },
+  {
+    "start": 2230.4,
+    "end": 2236.0,
+    "text": "again you're gonna be back in the Farb Tyler's you know like what's well it goes down 90% again I'll"
+  },
+  {
+    "start": 2236.0,
+    "end": 2241.2799999999997,
+    "text": "be buying more garden monoliths that's right right but yeah so I still have a few goals with the"
+  },
+  {
+    "start": 2241.2799999999997,
+    "end": 2246.7999999999997,
+    "text": "Farbs obviously I'm extremely happy but I do have a couple more specific goals so I have the"
+  },
+  {
+    "start": 2246.7999999999997,
+    "end": 2254.3199999999997,
+    "text": "primary and secondary color wheel for mono outputs just a few away from getting all 12 colors including"
+  },
+  {
+    "start": 2254.32,
+    "end": 2258.2400000000002,
+    "text": "tertiary okay I didn't know you're saying that's one goal it's gonna require some outreach to you"
+  },
+  {
+    "start": 2258.2400000000002,
+    "end": 2262.96,
+    "text": "know these wallets are hard to track down and there's really only a couple mono outputs for each color"
+  },
+  {
+    "start": 2262.96,
+    "end": 2267.6000000000004,
+    "text": "so it's gonna require some help from some people but it might happen so I think that would be"
+  },
+  {
+    "start": 2267.6000000000004,
+    "end": 2274.1600000000003,
+    "text": "really incredible because it's I mean just the fact that the algorithm produced a few mono outputs"
+  },
+  {
+    "start": 2274.1600000000003,
+    "end": 2280.1600000000003,
+    "text": "from all 12 colors is pretty incredible right like it worked out so perfectly and to even be able"
+  },
+  {
+    "start": 2280.16,
+    "end": 2285.3599999999997,
+    "text": "to collect all of those is pretty insane so that's one goal I think I'm still interested in more"
+  },
+  {
+    "start": 2285.3599999999997,
+    "end": 2289.8399999999997,
+    "text": "dragons and garden monoliths to be honest I just think that you know they're the top dogs and"
+  },
+  {
+    "start": 2289.8399999999997,
+    "end": 2294.48,
+    "text": "I've only grown closer to the collections as I have been doing this grill hunting and it's kind of"
+  },
+  {
+    "start": 2294.48,
+    "end": 2299.68,
+    "text": "becoming what I'm really laser focused on and then to kind of reiterate that I've been selling"
+  },
+  {
+    "start": 2299.68,
+    "end": 2305.92,
+    "text": "Pokemon cards I have kind of been trimming down my collection to what okay obviously I love these"
+  },
+  {
+    "start": 2305.92,
+    "end": 2311.52,
+    "text": "cards but do I love them more than a garden monolith and usually the answer is no right so I will"
+  },
+  {
+    "start": 2311.52,
+    "end": 2316.48,
+    "text": "be selling some more Pokemon cards regardless of whether that market is top or not I enjoy setting off"
+  },
+  {
+    "start": 2316.48,
+    "end": 2322.48,
+    "text": "the sales bot and the discord and I think it'll happen a few more times I can't say um well I almost"
+  },
+  {
+    "start": 2322.48,
+    "end": 2327.12,
+    "text": "don't want to say too much because there are some specific pieces that I have my eye on yeah no"
+  },
+  {
+    "start": 2327.12,
+    "end": 2332.88,
+    "text": "don't don't get like and uh what do you think of that one that anonymous wallet that's been"
+  },
+  {
+    "start": 2332.88,
+    "end": 2339.44,
+    "text": "scooping up dragons and gardens for like high prices yeah I've noticed it obviously because I"
+  },
+  {
+    "start": 2339.44,
+    "end": 2344.56,
+    "text": "think it was just like a 15k tez sale of a dragon that wasn't even I mean it was a nice dragon but it"
+  },
+  {
+    "start": 2344.56,
+    "end": 2350.6400000000003,
+    "text": "was really nice to be fair yeah but it wasn't a like paper one or a gold one or or any of the other"
+  },
+  {
+    "start": 2350.6400000000003,
+    "end": 2356.0,
+    "text": "really really rare scarce ones because I think you got your gold one for like 4k or 5k tez right"
+  },
+  {
+    "start": 2356.0,
+    "end": 2362.6400000000003,
+    "text": "so I think gold got for 6k tez as I call it the ancient dragon I got for I think 5.5"
+  },
+  {
+    "start": 2363.52,
+    "end": 2367.92,
+    "text": "it's interesting so I actually looked into their wallet they've just been holding like 40,000"
+  },
+  {
+    "start": 2367.92,
+    "end": 2374.32,
+    "text": "tez for a year or two did nothing with it and then suddenly started buying so did they have any"
+  },
+  {
+    "start": 2374.32,
+    "end": 2379.92,
+    "text": "stuff though like it was just a dormant tez only wallet or they had art they sent tezos from"
+  },
+  {
+    "start": 2379.92,
+    "end": 2386.08,
+    "text": "buybit and they were getting staking rewards and did absolutely nothing else until recently"
+  },
+  {
+    "start": 2386.08,
+    "end": 2390.7200000000003,
+    "text": "maybe it was someone who like lost their keys or something for an extended period of time I don't"
+  },
+  {
+    "start": 2390.72,
+    "end": 2394.9599999999996,
+    "text": "know I mean I like the pieces they've selected it all seems like they're making a statement like"
+  },
+  {
+    "start": 2394.9599999999996,
+    "end": 2399.68,
+    "text": "these prices are all a joke yeah I'm looking at what else they have here so they've got oh so"
+  },
+  {
+    "start": 2399.68,
+    "end": 2404.8799999999997,
+    "text": "they're they're FX hash wallet is only two dragons and two garden monoliths they did buy a rare"
+  },
+  {
+    "start": 2404.8799999999997,
+    "end": 2411.7599999999998,
+    "text": "tezard okay interesting this is definitely a wall to keep track of and see if they keep buying I do"
+  },
+  {
+    "start": 2411.7599999999998,
+    "end": 2416.3999999999996,
+    "text": "want to ask you about some Pokemon stuff so aside from collecting Pokemon when I was young and"
+  },
+  {
+    "start": 2416.4,
+    "end": 2421.84,
+    "text": "being a fan of the franchise I'm much closer to like magic the gathering on the tcg side"
+  },
+  {
+    "start": 2422.56,
+    "end": 2429.84,
+    "text": "and magic is a game that's been around for a long time since 1991 1992 has a huge history I think even"
+  },
+  {
+    "start": 2429.84,
+    "end": 2432.96,
+    "text": "you probably I don't know if you play magic but I'm sure you know what a black Lotus is just being a"
+  },
+  {
+    "start": 2432.96,
+    "end": 2438.88,
+    "text": "ccg collector right I've heard you just know it so it has these iconic cards that have escaped their"
+  },
+  {
+    "start": 2438.88,
+    "end": 2445.6800000000003,
+    "text": "core collector base and the thing that drives the value and magic almost and exclusively besides"
+  },
+  {
+    "start": 2445.7599999999998,
+    "end": 2452.16,
+    "text": "yeah being rare and old because just back then they didn't make as many cards is playability and like"
+  },
+  {
+    "start": 2452.16,
+    "end": 2458.56,
+    "text": "is the card actually good and is it using index that are you know that can win and not so much like"
+  },
+  {
+    "start": 2458.56,
+    "end": 2463.9199999999996,
+    "text": "well I should say almost there's some exceptions now but like historically not just oh this is a"
+  },
+  {
+    "start": 2463.9199999999996,
+    "end": 2469.68,
+    "text": "foil version of that right like so my impression of looking at all this Pokemon content which I"
+  },
+  {
+    "start": 2469.68,
+    "end": 2476.08,
+    "text": "get so much of on tiktok now is that a lot of its Pokemon is driven by aesthetic more than anything"
+  },
+  {
+    "start": 2476.08,
+    "end": 2483.52,
+    "text": "and the various tiers of rarity and foiling and alternate art stuff that they do so first of all"
+  },
+  {
+    "start": 2483.52,
+    "end": 2488.0,
+    "text": "like what's your background in Pokemon I assume you played way back in the day I guess we might"
+  },
+  {
+    "start": 2488.0,
+    "end": 2492.3999999999996,
+    "text": "be similarly aged and then like how does it how do you pick like how do you kind of go into a"
+  },
+  {
+    "start": 2492.3999999999996,
+    "end": 2496.64,
+    "text": "collection do you trust your eye to be like that's a cool card and I know that people are gonna want"
+  },
+  {
+    "start": 2496.64,
+    "end": 2501.6,
+    "text": "it like what's what's the driving thing behind it yes yes okay I think it's entirely aesthetics for"
+  },
+  {
+    "start": 2501.6,
+    "end": 2508.16,
+    "text": "me like the Pokemon cards that I bought in 2024 were almost exclusively vintage Japanese cards"
+  },
+  {
+    "start": 2508.16,
+    "end": 2513.44,
+    "text": "one because there's so much cheaper than the American first editions like 100 times cheaper"
+  },
+  {
+    "start": 2513.44,
+    "end": 2518.24,
+    "text": "and the holographic quality is actually better they're not as scarce and they're easier to grade"
+  },
+  {
+    "start": 2518.24,
+    "end": 2522.96,
+    "text": "so naturally they're not as valuable but that was kind of my thesis was like I love these I think"
+  },
+  {
+    "start": 2522.96,
+    "end": 2528.0,
+    "text": "they look better than the American versions and I'm just gonna hoard these and it actually played"
+  },
+  {
+    "start": 2528.0,
+    "end": 2533.6,
+    "text": "out quite well I think the vintage Japanese cards went up about five to ten acts over a course of"
+  },
+  {
+    "start": 2533.6,
+    "end": 2538.4,
+    "text": "weeks earlier in the year so yeah for me it's all about aesthetics and rarity you know I'm aware"
+  },
+  {
+    "start": 2538.4,
+    "end": 2544.2400000000002,
+    "text": "of rarity right like I keep track of you know what the pop report is so I also collect PSA 10 graded"
+  },
+  {
+    "start": 2544.2400000000002,
+    "end": 2548.8,
+    "text": "cards so you have that population report which is really helpful information when you're collecting"
+  },
+  {
+    "start": 2549.44,
+    "end": 2554.0800000000004,
+    "text": "so yeah for me it's all aesthetics has nothing to do with the playability you know I dabbled"
+  },
+  {
+    "start": 2554.0800000000004,
+    "end": 2560.96,
+    "text": "with that as a kid going to poison us and battling kids and trading and whatnot does playability"
+  },
+  {
+    "start": 2560.96,
+    "end": 2565.84,
+    "text": "even matters so much in like the high-inclectable hopped collector hobby because I so many of these cards"
+  },
+  {
+    "start": 2565.84,
+    "end": 2571.44,
+    "text": "it seems like people are sitting on sealed product or they're cracking packs and grading them it"
+  },
+  {
+    "start": 2571.44,
+    "end": 2575.28,
+    "text": "almost feels like a nightmare scenario if there's like a very desirable card that actually is"
+  },
+  {
+    "start": 2575.28,
+    "end": 2580.32,
+    "text": "competitively good because more of them will end up in slabs that index right like does the"
+  },
+  {
+    "start": 2580.32,
+    "end": 2584.5600000000004,
+    "text": "Pokemon like do the designers do they have some awareness of this and they like make sure the"
+  },
+  {
+    "start": 2584.5600000000004,
+    "end": 2589.6800000000003,
+    "text": "playable cards aren't chase like it so that way people can actually play it's a good question for"
+  },
+  {
+    "start": 2589.6800000000003,
+    "end": 2595.0400000000004,
+    "text": "the modern stuff I don't know the modern cards also have crazy designs and very busy artwork"
+  },
+  {
+    "start": 2595.84,
+    "end": 2600.88,
+    "text": "really busy artwork and textures they're cool but as far as the value goes I don't think that"
+  },
+  {
+    "start": 2600.88,
+    "end": 2607.12,
+    "text": "playability is so much associated with value from what I can tell you gotcha you mentioned the"
+  },
+  {
+    "start": 2607.12,
+    "end": 2613.84,
+    "text": "pop report thing like that to me is such a fascinating collector metric to latch on to and I've"
+  },
+  {
+    "start": 2613.84,
+    "end": 2617.2000000000003,
+    "text": "seen that you mentioned you mentioned this to you but I've seen in the videos people say like oh yeah"
+  },
+  {
+    "start": 2617.2000000000003,
+    "end": 2621.12,
+    "text": "the Japanese tens there's just too many of them the population is too high because the cards are"
+  },
+  {
+    "start": 2621.12,
+    "end": 2627.92,
+    "text": "better made and the the condition is better and so like ironically they're worth less like compared"
+  },
+  {
+    "start": 2627.92,
+    "end": 2632.64,
+    "text": "to like the trash you know US cards it's so much harder to get a 10 because they're they're misaligned"
+  },
+  {
+    "start": 2632.64,
+    "end": 2635.84,
+    "text": "or they you know they've got some already they've got some wear on the edges when you open them"
+  },
+  {
+    "start": 2636.4,
+    "end": 2641.28,
+    "text": "it's so interesting that there are these like core platforms that"
+  },
+  {
+    "start": 2642.08,
+    "end": 2645.6800000000003,
+    "text": "own and like control this information and often there are also ones doing the grading right and I"
+  },
+  {
+    "start": 2645.6800000000003,
+    "end": 2652.2400000000002,
+    "text": "see so much like great grading paranoia and conspiracy too did you buy those Japanese cards raw and"
+  },
+  {
+    "start": 2652.24,
+    "end": 2657.8399999999997,
+    "text": "grade them or do you buy them already graded when you I always buy them graded on eBay yeah eBay"
+  },
+  {
+    "start": 2657.8399999999997,
+    "end": 2664.9599999999996,
+    "text": "is really the only resource I use for buying and selling yeah do you buy into any of the skepticism"
+  },
+  {
+    "start": 2664.9599999999996,
+    "end": 2670.4799999999996,
+    "text": "or conspiracy around the various grading companies and like I'm sure you've seen those videos where"
+  },
+  {
+    "start": 2670.4799999999996,
+    "end": 2674.3999999999996,
+    "text": "someone's like they crack it and they'd resubmit it and it gets like two grades higher what is"
+  },
+  {
+    "start": 2674.3999999999996,
+    "end": 2679.4399999999996,
+    "text": "your impression of that stuff there's been some pretty crazy situations there I don't look too much"
+  },
+  {
+    "start": 2679.44,
+    "end": 2685.68,
+    "text": "into it there's a bias towards new certifications which is those that were more recently graded they"
+  },
+  {
+    "start": 2685.68,
+    "end": 2690.7200000000003,
+    "text": "tend to be more stringent than those that were graded years ago so there's a strong bias there"
+  },
+  {
+    "start": 2690.7200000000003,
+    "end": 2695.76,
+    "text": "but I don't look too much into it honestly if it's a 10 it's a 10 and it's actually fairly liquid"
+  },
+  {
+    "start": 2695.76,
+    "end": 2701.68,
+    "text": "like the Pokemon market you can move these things in a matter of days if you want to so I think that"
+  },
+  {
+    "start": 2701.68,
+    "end": 2707.6,
+    "text": "the PSA 10 is respected despite obviously a lot of inconsistencies that people point out that's"
+  },
+  {
+    "start": 2707.6,
+    "end": 2712.16,
+    "text": "just gonna happen right I mean it's impossible to do it I mean there are some egregious examples"
+  },
+  {
+    "start": 2712.16,
+    "end": 2718.24,
+    "text": "for sure I don't look too much into that you've just like you got in last year you've already 10x"
+  },
+  {
+    "start": 2718.24,
+    "end": 2721.92,
+    "text": "and you're like I don't even need to follow the controversy like I'm just selling and buying art"
+  },
+  {
+    "start": 2721.92,
+    "end": 2726.24,
+    "text": "like yeah so do you see yourself continuing with the hobby much or you're gonna keep the ones you"
+  },
+  {
+    "start": 2726.24,
+    "end": 2731.7599999999998,
+    "text": "like and then that's it so I have a binder full of graded PSA 10 cards and I've been kind of trimming"
+  },
+  {
+    "start": 2731.7599999999998,
+    "end": 2737.04,
+    "text": "it down as the price goes up and trying to decide what it like what is the core collection that I"
+  },
+  {
+    "start": 2737.04,
+    "end": 2741.44,
+    "text": "actually care about so I'm getting closer and closer to that so at a certain point I will have to"
+  },
+  {
+    "start": 2741.44,
+    "end": 2747.7599999999998,
+    "text": "decide like do I keep selling these or do I stop and I think we're reaching that point but I mean"
+  },
+  {
+    "start": 2747.7599999999998,
+    "end": 2752.72,
+    "text": "we'll see if we get another you know the 30th anniversary set is coming out soon and that might"
+  },
+  {
+    "start": 2752.72,
+    "end": 2757.84,
+    "text": "generate more buzz and we might get another vintage pump too so who knows if things go really crazy"
+  },
+  {
+    "start": 2757.84,
+    "end": 2763.7599999999998,
+    "text": "I will sell almost everything for sure did you play as a kid was this so there was some nostalgia"
+  },
+  {
+    "start": 2763.84,
+    "end": 2769.28,
+    "text": "for you or did you get in for like I mostly collected I wasn't much of a player as far as yeah"
+  },
+  {
+    "start": 2769.28,
+    "end": 2773.36,
+    "text": "you know the decks and whatnot mostly just collected for fun yeah but when you decided to"
+  },
+  {
+    "start": 2773.36,
+    "end": 2778.2400000000002,
+    "text": "jump in in 2024 was it just like purely this arbitrage thing that you noticed between Japanese"
+  },
+  {
+    "start": 2778.2400000000002,
+    "end": 2781.76,
+    "text": "and American you're like this this is just too wide of a gap and like it just feels like there's"
+  },
+  {
+    "start": 2781.76,
+    "end": 2787.28,
+    "text": "too much potential that was it yeah I mean there was there was a lot of buzz around Pokemon in general"
+  },
+  {
+    "start": 2787.28,
+    "end": 2792.32,
+    "text": "right it all came full circle right and I did start you know buying the modern cards and whatnot"
+  },
+  {
+    "start": 2792.32,
+    "end": 2796.7200000000003,
+    "text": "and it just felt kind of corny and I was like looking at the prices of these cards that I"
+  },
+  {
+    "start": 2796.7200000000003,
+    "end": 2802.56,
+    "text": "that were just legendary as a kid right and they were so cheap and so it wasn't so much like"
+  },
+  {
+    "start": 2802.56,
+    "end": 2807.52,
+    "text": "oh I'm calculating that this will be a 10x you know whatever it was just wow these are cheap"
+  },
+  {
+    "start": 2807.52,
+    "end": 2812.1600000000003,
+    "text": "and I want to buy them it was kind of just like that and yeah it played out really well"
+  },
+  {
+    "start": 2812.1600000000003,
+    "end": 2816.48,
+    "text": "what you said right there is like one of the things that informed a lot of my more recent"
+  },
+  {
+    "start": 2816.48,
+    "end": 2821.44,
+    "text": "collecting and vinyl records so I got back into collecting vinyl and actually like collecting a"
+  },
+  {
+    "start": 2821.44,
+    "end": 2827.92,
+    "text": "real way about two to an half years ago and I would go on discogues which is like the main site for"
+  },
+  {
+    "start": 2827.92,
+    "end": 2832.7200000000003,
+    "text": "trading vinyl records and also it's like the database of everything I would say oh here's a record"
+  },
+  {
+    "start": 2832.7200000000003,
+    "end": 2837.68,
+    "text": "I want again you'd see the original pressing and all the subsequent represses and on some of these"
+  },
+  {
+    "start": 2837.68,
+    "end": 2842.88,
+    "text": "records like the difference in price between an original pressing from the 70s and I'm 2025"
+  },
+  {
+    "start": 2842.88,
+    "end": 2850.7200000000003,
+    "text": "repressing is only like $20 yeah and that to me intuitively again being like a lifelong collector"
+  },
+  {
+    "start": 2850.72,
+    "end": 2856.3999999999996,
+    "text": "of various things like that doesn't make sense you know and in some cases it okay like yes there"
+  },
+  {
+    "start": 2856.3999999999996,
+    "end": 2859.52,
+    "text": "were there points in the history where they were printing so many records because it was like the"
+  },
+  {
+    "start": 2859.52,
+    "end": 2865.12,
+    "text": "most you know there was the only media format that people could get music on really but that's"
+  },
+  {
+    "start": 2865.12,
+    "end": 2871.12,
+    "text": "when I was like okay I'm gonna start collecting only first first presses because I expect that"
+  },
+  {
+    "start": 2871.12,
+    "end": 2876.24,
+    "text": "moving like if I want my collection hold any value moving forward I can't just be buying represses"
+  },
+  {
+    "start": 2876.24,
+    "end": 2882.0,
+    "text": "at Walmart and target and like you know even if the music sounds mostly the same or or comparable"
+  },
+  {
+    "start": 2882.0,
+    "end": 2886.3199999999997,
+    "text": "and so like that's exactly it I was like this this doesn't make sense that the thing seems to be a"
+  },
+  {
+    "start": 2886.3199999999997,
+    "end": 2890.72,
+    "text": "disconnect in the hobby and of course then it became a way for me to like spend a lot more money"
+  },
+  {
+    "start": 2890.72,
+    "end": 2895.8399999999997,
+    "text": "in some cases yeah that's always hard but you know when you find that lane where you find something"
+  },
+  {
+    "start": 2895.8399999999997,
+    "end": 2900.24,
+    "text": "that's undervalued and it's something that you appreciate and enjoy looking at or you know in your"
+  },
+  {
+    "start": 2900.24,
+    "end": 2904.72,
+    "text": "case I don't know if you play those records but collecting them and whatever the aesthetic value is"
+  },
+  {
+    "start": 2904.72,
+    "end": 2910.9599999999996,
+    "text": "to you like that's really to me what a good collecting opportunity is right it's apparent when"
+  },
+  {
+    "start": 2910.9599999999996,
+    "end": 2916.08,
+    "text": "you're in that situation that you want to do that yeah I do play them there's some that I probably"
+  },
+  {
+    "start": 2916.08,
+    "end": 2921.3599999999997,
+    "text": "shouldn't the whole slapping thing hasn't come over to records in the big way yet I think because it"
+  },
+  {
+    "start": 2921.3599999999997,
+    "end": 2927.12,
+    "text": "is such a still a lot I don't do this yet but like a big part of the hobby for people is also their"
+  },
+  {
+    "start": 2927.12,
+    "end": 2932.3199999999997,
+    "text": "system and like fidelity and sound quality and I just don't have the space for the money to do that"
+  },
+  {
+    "start": 2932.32,
+    "end": 2939.04,
+    "text": "so for a lot of those folks owning an original this or that and then putting it under plastic it's"
+  },
+  {
+    "start": 2939.04,
+    "end": 2944.48,
+    "text": "like well then you can't play the record and then you actually can't demonstrate it's a nice copy"
+  },
+  {
+    "start": 2944.48,
+    "end": 2949.2000000000003,
+    "text": "right how else you're going to demonstrate that this is like a great it's a mint condition like"
+  },
+  {
+    "start": 2949.2000000000003,
+    "end": 2955.28,
+    "text": "but I have seen like Steve Aoki for example like he's slapping his music media that he collects"
+  },
+  {
+    "start": 2955.28,
+    "end": 2959.6000000000004,
+    "text": "and stuff so there are people out there who are like on the edge of it and starting to do that"
+  },
+  {
+    "start": 2960.56,
+    "end": 2964.72,
+    "text": "I'd be very curious to see like what the hobby looks like in five or 10 years like there's one"
+  },
+  {
+    "start": 2964.72,
+    "end": 2972.24,
+    "text": "label or one distributor now who is in addition to putting out you know their records into retail if"
+  },
+  {
+    "start": 2972.24,
+    "end": 2979.12,
+    "text": "you go to their website they'll have pre-graded copies for you to buy that's like these are tens and"
+  },
+  {
+    "start": 2979.12,
+    "end": 2984.64,
+    "text": "they'll have like 50 tens of like the Nutella Swift album up slapped yeah because getting a"
+  },
+  {
+    "start": 2984.64,
+    "end": 2988.24,
+    "text": "10 in the wild is actually probably difficult I've never I don't know but anyway it's just like it's"
+  },
+  {
+    "start": 2988.3199999999997,
+    "end": 2991.6,
+    "text": "funny to see because I feel like it's like it's the poke modification of other hobbies right like"
+  },
+  {
+    "start": 2991.6,
+    "end": 2996.9599999999996,
+    "text": "they're seeing this out there and they know there's a premium and it's it could come over it'll be"
+  },
+  {
+    "start": 2997.52,
+    "end": 3002.72,
+    "text": "an interesting day I guess when that happens yeah I want to jump back to verse real quick so I noticed"
+  },
+  {
+    "start": 3003.04,
+    "end": 3006.56,
+    "text": "you know we talked a little bit about their curated stuff and perhaps they're they're changing"
+  },
+  {
+    "start": 3006.56,
+    "end": 3013.4399999999996,
+    "text": "the platform and you've collected some of their most recent release the brain rot stuff yeah and"
+  },
+  {
+    "start": 3013.44,
+    "end": 3018.7200000000003,
+    "text": "it's kind of been interesting seeing them between between that and the table or PFP now"
+  },
+  {
+    "start": 3019.52,
+    "end": 3026.64,
+    "text": "succeeding in this PFP space by kind of hybridizing it with art I think the table or one I mean"
+  },
+  {
+    "start": 3026.64,
+    "end": 3031.04,
+    "text": "I'm into them because they were free to me you know like the fire so that I got because of the way"
+  },
+  {
+    "start": 3031.04,
+    "end": 3036.48,
+    "text": "they dripped those out I did not meant any of the brain rot ones but it's weird right like it's"
+  },
+  {
+    "start": 3036.48,
+    "end": 3040.8,
+    "text": "clearly attracted a lot of new people to their platform who are more than happy to come in and"
+  },
+  {
+    "start": 3040.8,
+    "end": 3046.7200000000003,
+    "text": "complain in the discord oh the discord was a mess yeah lots of just yeah just a lot of green leaf"
+  },
+  {
+    "start": 3047.28,
+    "end": 3055.2000000000003,
+    "text": "users complaining yeah but is this the game now in a way like do is this gonna be the you have to"
+  },
+  {
+    "start": 3055.2000000000003,
+    "end": 3060.32,
+    "text": "have the candy to support the platform and then you're gonna have no I was just so so like for both"
+  },
+  {
+    "start": 3060.32,
+    "end": 3067.92,
+    "text": "of those projects I was just so excited to see like a 10k PFP project meant out you know like"
+  },
+  {
+    "start": 3068.0,
+    "end": 3071.6800000000003,
+    "text": "that's such a foreign concept like that's so many additions right I haven't witnessed that"
+  },
+  {
+    "start": 3071.6800000000003,
+    "end": 3076.88,
+    "text": "in so long I also love long for may I that's a whole separate topic I could talk about for 30"
+  },
+  {
+    "start": 3076.88,
+    "end": 3081.92,
+    "text": "minutes but um it was just kind of a fun thing to mint it's cool to see it kind of succeed and"
+  },
+  {
+    "start": 3081.92,
+    "end": 3088.0,
+    "text": "you know get the floor price going up and whatnot human resources project in particular has"
+  },
+  {
+    "start": 3088.0,
+    "end": 3094.4,
+    "text": "some very devoted collectors who are really doing the the role playing thing and uh it's just kind"
+  },
+  {
+    "start": 3094.4,
+    "end": 3098.64,
+    "text": "of a fun thing like when I see those opportunities I'm still a crypto de-gen at the end of the day"
+  },
+  {
+    "start": 3098.64,
+    "end": 3104.32,
+    "text": "I'm gonna spam the mint button right like regardless of uh what I think of the art specifically but yeah"
+  },
+  {
+    "start": 3104.32,
+    "end": 3110.8,
+    "text": "uh it's just really cool to see did you ever collect on improps yes and actually so I said I could"
+  },
+  {
+    "start": 3110.8,
+    "end": 3114.7200000000003,
+    "text": "talk about this for 30 minutes I actually dropped a few projects of my own on improv oh did you"
+  },
+  {
+    "start": 3114.7200000000003,
+    "end": 3120.64,
+    "text": "that's how into it I got cool it's not something I expect people to notice but I understand as"
+  },
+  {
+    "start": 3120.64,
+    "end": 3125.12,
+    "text": "someone who's done that with AI where you're just prompting and in putting images and then you see"
+  },
+  {
+    "start": 3125.12,
+    "end": 3130.24,
+    "text": "the result after people mint it and you're like oh that wasn't quite random though it should have"
+  },
+  {
+    "start": 3130.24,
+    "end": 3135.04,
+    "text": "been more random right like there's one quite the outputs I want so it gives me more respect for"
+  },
+  {
+    "start": 3135.04,
+    "end": 3140.08,
+    "text": "generative artists and other type of artists too because like it is hard to get the set of outputs"
+  },
+  {
+    "start": 3140.08,
+    "end": 3145.2799999999997,
+    "text": "that's as diverse as you want and within your parameters so yeah and props I don't know if they're"
+  },
+  {
+    "start": 3145.28,
+    "end": 3150.96,
+    "text": "still up and running but it's cool yeah it was a very interesting platform I collected a little"
+  },
+  {
+    "start": 3150.96,
+    "end": 3156.88,
+    "text": "bit off of there and I tried also to like figure out how to mint and use their tools to create something"
+  },
+  {
+    "start": 3156.88,
+    "end": 3161.6800000000003,
+    "text": "because like every time I get I see this new stuff I always try to figure it out and see if I can"
+  },
+  {
+    "start": 3161.6800000000003,
+    "end": 3168.2400000000002,
+    "text": "release something I was never able to get their whole syntax and like the whole thing working in a"
+  },
+  {
+    "start": 3168.2400000000002,
+    "end": 3174.7200000000003,
+    "text": "way that made sense to me and then I had a you know I have a baby so yeah I gave up but I thought it"
+  },
+  {
+    "start": 3174.72,
+    "end": 3178.3999999999996,
+    "text": "was really cool and we of course talked to those guys like when it came out and I think that"
+  },
+  {
+    "start": 3178.3999999999996,
+    "end": 3183.3599999999997,
+    "text": "platform was revolutionary I mean it's it may have just been a little early in in the bear market but"
+  },
+  {
+    "start": 3184.08,
+    "end": 3190.3999999999996,
+    "text": "long for my eyes such a cool topic those brain rats really were not interesting to me aesthetically"
+  },
+  {
+    "start": 3190.3999999999996,
+    "end": 3195.12,
+    "text": "or thematically but then I know some artists who are who have also like dabbled in and they're like"
+  },
+  {
+    "start": 3195.12,
+    "end": 3199.8399999999997,
+    "text": "it's just so well done was their feedback like yeah you to do 10,000 of those and they all look"
+  },
+  {
+    "start": 3199.84,
+    "end": 3205.36,
+    "text": "in thousands a lot yeah yeah so clearly you know there must be there's there's a lot of craft"
+  },
+  {
+    "start": 3205.36,
+    "end": 3212.6400000000003,
+    "text": "to that even if it's um you know I think they're just kind of goofy yeah I can't say they resonate"
+  },
+  {
+    "start": 3212.6400000000003,
+    "end": 3218.0,
+    "text": "with me super well but still really fun yeah I think the human resources one is pretty interesting"
+  },
+  {
+    "start": 3218.88,
+    "end": 3223.84,
+    "text": "I was skeptical of it until I listened to the table or first talks and him kind of like talking"
+  },
+  {
+    "start": 3223.84,
+    "end": 3228.6400000000003,
+    "text": "about it more I've just been holding the ones that I've got and we'll see because I know he's also"
+  },
+  {
+    "start": 3228.64,
+    "end": 3233.3599999999997,
+    "text": "like he's an artist that they're betting big on I think like long-term yeah yeah so hey it's"
+  },
+  {
+    "start": 3233.3599999999997,
+    "end": 3239.7599999999998,
+    "text": "my pfp on twitter so right yeah I found the one that I like and I'm supporting it yeah is there"
+  },
+  {
+    "start": 3239.7599999999998,
+    "end": 3243.3599999999997,
+    "text": "anything else you want to touch on before we start wrapping up here is there anything you feel"
+  },
+  {
+    "start": 3243.3599999999997,
+    "end": 3247.12,
+    "text": "like we missed that you want to I mean we kind of touched on everything we touched on the long"
+  },
+  {
+    "start": 3247.12,
+    "end": 3253.92,
+    "text": "for may I the Pokemon you know I was like this with Zancan and Erick Swan and those collections yeah"
+  },
+  {
+    "start": 3253.92,
+    "end": 3257.92,
+    "text": "cool I mean yeah I feel like we got through a lot it's been great just like chopping up with another"
+  },
+  {
+    "start": 3257.92,
+    "end": 3263.44,
+    "text": "collector and talking about the space you know I hope that we get some good news ish from FX hash"
+  },
+  {
+    "start": 3263.44,
+    "end": 3271.12,
+    "text": "yeah at some point here that would be ideal just to add on to that so I don't know if let's say"
+  },
+  {
+    "start": 3271.12,
+    "end": 3277.36,
+    "text": "FX hash were to shut down if object would perpetuate those existing listings or not but if they"
+  },
+  {
+    "start": 3277.36,
+    "end": 3282.16,
+    "text": "don't I think that would actually be really interesting to just clear the order books and have like"
+  },
+  {
+    "start": 3282.16,
+    "end": 3287.6800000000003,
+    "text": "a fresh supply and demand it's not necessarily a bad thing in the long run you'd have to think that"
+  },
+  {
+    "start": 3287.68,
+    "end": 3292.56,
+    "text": "a lot of the listing of an FX hash might not have been touched for years right some of the ones"
+  },
+  {
+    "start": 3292.56,
+    "end": 3297.2799999999997,
+    "text": "that got bought recently actually were listed years ago yeah at when when Teso's might have been a"
+  },
+  {
+    "start": 3297.2799999999997,
+    "end": 3303.2,
+    "text": "much different different price and stuff so it's interesting yeah well we're still here we're"
+  },
+  {
+    "start": 3303.2,
+    "end": 3307.04,
+    "text": "still kind of watching and lurking and making these episodes from time to time and you know"
+  },
+  {
+    "start": 3307.04,
+    "end": 3311.44,
+    "text": "thankful to folks like you who are still happy to come on and talk with us thanks for having me"
+  },
+  {
+    "start": 3311.44,
+    "end": 3315.9199999999996,
+    "text": "hope my rambling was someone entertaining oh it's great and you know best of luck with your"
+  },
+  {
+    "start": 3315.92,
+    "end": 3320.64,
+    "text": "continued collecting and in the Pokemon stuff and if you ever get into records you know hit me up"
+  },
+  {
+    "start": 3321.36,
+    "end": 3328.08,
+    "text": "I'll give you some ideas over to start cool well that was uh make llama everyone and let me"
+  },
+  {
+    "start": 3328.08,
+    "end": 3333.92,
+    "text": "I thought I had your Twitter up here I'm gonna plug it for you really quick my tag is pompous"
+  },
+  {
+    "start": 3334.7200000000003,
+    "end": 3338.88,
+    "text": "pompous out well maybe we should close on this where where the make llama name come from yeah"
+  },
+  {
+    "start": 3338.88,
+    "end": 3344.48,
+    "text": "that's actually a great question so back in 2017 everyone on crypto twitter was basically some sort of"
+  },
+  {
+    "start": 3344.48,
+    "end": 3350.64,
+    "text": "animal you had wasses which are some unidentified animal creature thing but um I started out as the"
+  },
+  {
+    "start": 3350.64,
+    "end": 3355.04,
+    "text": "pompous llama that's how I created the account and it was kind of a real life nickname that someone"
+  },
+  {
+    "start": 3355.04,
+    "end": 3360.16,
+    "text": "had passively given me and I thought it was kind of funny so that's how it started and then uh it"
+  },
+  {
+    "start": 3360.16,
+    "end": 3366.96,
+    "text": "was too long to type in as a twitter tag and so it was just pompous ll instead of pompous llama"
+  },
+  {
+    "start": 3366.96,
+    "end": 3371.36,
+    "text": "then the bear market happened and people started putting uh McDonald's hats on people's uh"
+  },
+  {
+    "start": 3371.36,
+    "end": 3376.88,
+    "text": "pfp's and so then I turned into mcglamon like I had the you know the joe being that we're all going to"
+  },
+  {
+    "start": 3376.88,
+    "end": 3383.2000000000003,
+    "text": "remember that yeah um so that's kind of how mcglamon started and that's just the name that up"
+  },
+  {
+    "start": 3383.2000000000003,
+    "end": 3389.6800000000003,
+    "text": "and it stuck and how people know me so yeah here you go well throw throw them a follow at pompous ll"
+  },
+  {
+    "start": 3389.6800000000003,
+    "end": 3393.6800000000003,
+    "text": "and we'll put all that down below and we'll link to your raster collection to so people can"
+  },
+  {
+    "start": 3393.6800000000003,
+    "end": 3398.4,
+    "text": "browse that and see all the farm tyler's and the other great stuff that you've collected there"
+  },
+  {
+    "start": 3398.48,
+    "end": 3402.32,
+    "text": "I scroll through you've you've got stuff from all areas that effects hash and you've got a bunch of"
+  },
+  {
+    "start": 3402.32,
+    "end": 3406.64,
+    "text": "um AI and other digital art stuff too like I see a lot of this artist culture hacker"
+  },
+  {
+    "start": 3407.76,
+    "end": 3413.92,
+    "text": "here too and like i'm yeah i like glitch art as well yeah yeah and uh some john j-j-j-j-j-j-john stuff so"
+  },
+  {
+    "start": 3413.92,
+    "end": 3418.32,
+    "text": "you've definitely you've definitely been around for a minute collecting all this stuff that's it for"
+  },
+  {
+    "start": 3418.32,
+    "end": 3423.36,
+    "text": "this one i think everyone i hope you all enjoyed big thanks mcglamon for coming on talking to us"
+  },
+  {
+    "start": 3424.0,
+    "end": 3429.28,
+    "text": "and thanks to everyone who's still active in fx hash i see all of you in the discord reacting to"
+  },
+  {
+    "start": 3429.28,
+    "end": 3436.4,
+    "text": "purchases everyone who's active is a legend right now that's nice legendary status achieved"
+  },
+  {
+    "start": 3437.1200000000003,
+    "end": 3442.1600000000003,
+    "text": "cool man well thanks again for coming on hope you all enjoyed and uh yeah we'll be back again"
+  },
+  {
+    "start": 3442.1600000000003,
+    "end": 3448.88,
+    "text": "soon ish with another episode i'm sure all right yeah later everyone can try having me yeah bye"
+  },
+  {
+    "start": 3513.36,
+    "end": 3518.2400000000002,
+    "text": "yeah"
+  }
+]
