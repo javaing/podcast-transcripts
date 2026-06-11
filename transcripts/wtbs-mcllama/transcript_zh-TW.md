@@ -7,7 +7,7 @@ published: "2026-06-09"
 spotify: "https://open.spotify.com/episode/19APff7PEWHjSz0APBH5Sb"
 source: "https://podcasters.spotify.com/pod/show/waitingtobesigned/episodes/Turning-Pokemon-Cards-into-fxhash-Grails---Interview-with-McLlama-e3ki02q"
 language: zh-TW
-generated_at: "2026-06-11 06:56 UTC"
+generated_at: "2026-06-11 07:00 UTC"
 ---
 
 # Turning Pokemon Cards into fx(hash) Grails - Interview with McLlama
@@ -74,7 +74,7 @@ McLlama 加入了我們，您可能主要透過fxhash銷售提要以及他的 Tw
 
 發生在我身上。
 
-好吧，讓我問你一些關於你的收藏哲學的問題，好吧，實際上讓我們從這個開始。所以我感覺就像一群仍然在這裡收集藝術品的人，我喜歡你自己，就像我沒有進入加密貨幣領域一樣，認為我會對藝術真正感興趣，你知道，並且仍然從事這些事情。透過我認識的人找到tezos，找到Hicetnunc，並因為我做了這個測試而鑄造了一些東西，這是非常偶然的。我不知道還能用它做什麼，但我覺得很酷。然後顯然 fxhash出現了，我想它捲入了社區的不和諧之中，整晚都在等待薄荷和 2021 年所有有趣的東西。所以對你自己來說，我的意思是，生成藝術和我想一般的藝術對你來說是什麼引起了共鳴，讓你對收藏產生了興趣，而不僅僅是猜測？
+好吧，讓我問你一些關於你的收藏哲學的問題，好吧，實際上讓我們從這個開始。所以我感覺就像一群仍然在這裡收集藝術品的人，我喜歡你自己，就像我沒有進入加密貨幣領域一樣，認為我會對藝術真正感興趣，你知道，並且仍然從事這些事情。透過我認識的人找到tezos，找到Hicetnunc，並因為我做了這個測試而鑄造了一些東西，這是非常偶然的。我不知道還能用它做什麼，但我覺得很酷。然後顯然 fxhash出現了，我想它捲入了社區的 Discord之中，整晚都在等待 mint和 2021 年所有有趣的東西。所以對你自己來說，我的意思是，生成藝術和我想一般的藝術對你來說是什麼引起了共鳴，讓你對收藏產生了興趣，而不僅僅是猜測？
 
 所以從 Hicetnunc 開始，感覺真的有點原始，我不知道，那裡
 
@@ -108,7 +108,7 @@ McLlama 加入了我們，您可能主要透過fxhash銷售提要以及他的 Tw
 
 所有這些都在我的腦海中，來自這個網路世界，但我不，我不與人交談
 
-關於現實生活中的這一點。為發音錯誤而道歉和事件，但是，是的，我有一個非常酷的情節。我在 Yazeed 中從 Zancan 獲得了一張 KGM 的打印件。所以這就像我客廳裡的一塊巨大的東西。事實上，我已經分配了增益巢穴第二部分，這有點罕見。
+關於現實生活中的這一點。為發音錯誤而道歉和事件，但是，是的，我有一個非常酷的情節。我從 Yazid 的 Zancan 獲得了一張 KGM 的打印件。所以這就像我客廳裡的一塊巨大的東西。事實上，我已經分配了增益巢穴第二部分，這有點罕見。
 
 他不做很多這樣的事情。是的，還有一些隨機的情節。我想說我的實體收藏仍然很小，尤其是我最近收藏的東西，我有興趣獲得更多的實體東西。你可以看出我的房間很空曠，這是故意的，因為我把
 
@@ -358,7 +358,7 @@ That's what art blocks is doing right now, right?
 
 我的意思是，我很想談論口袋妖怪，因為我與它的歷史，但我想我也想問，因為你已經在加密貨幣領域呆了這麼久了，上一個週期感覺有多弱，不僅僅是它從未轉向 NFT 的問題，這確實吸引了我所有的藝術，但你知道我自 2020 年以來一直持有⦦比特幣⧟120120205120205120003 720323了5120327200000003 72032203)了。年出售窗口的機會然後我就堅持住了，我知道我終於在這個週期中足夠接近頂部了，但同樣，它仍然離頂部還很遠，任何喜歡做圖表和周期理論的人都會說我們會到達你已經在這裡我認為一個週期比我長，甚至可能比我長一個半所以就像你對這個空間的總體感覺如何PVP變成了我們似乎如何得到它變成了我們希望如何對它作為一種投機資產抱有希望
 
-長期是的，我的意思是我永遠是一個長期比特幣牛市基本上我現在持有的只是比特幣和NFT我已經完全清算了我所有的名字代幣無論你想怎麼稱呼這些代幣我不持有任何ETH我不持有任何tezos長期我認為比特幣是數字黃金，這篇論文仍然很棒我你認為你知道，隨著市場的成熟，看到更短的、爆發性較小的市場週期實際上是有意義的，現在完全不同了，我的意思是，我們有ETF，有很多投資比特幣的方式，隨著它的成熟，它的波動性自然會降低，你知道我們確實看到了一些瘋狂的子週期，比如薩拉納意味著代幣交易非常瘋狂，我的意思是，它可以與我曾經參與過的加密貨幣領域的任何東西相媲美，那裡發生的事情持續時間非常短當然，要發生另一個 NFT週期，需要將許多不同的因素結合起來，這些因素在加密貨幣市場週期和全球政治以及所有這些因素中正確計時，我不能說會發生什麼，而且很失望看到你不知道真正的 NFT 牛市，但我仍然認為，如果你購買具有歷史價值的優質藝術品，從長遠來看你會做得很好，你認為你個人會做多少我想我們在很多項目上都降價了兩次，所以總是有可能再次降價，今天的 30 美元可能會在一年內變成 15美元，就像你一樣，泰勒已經很完整了，因為你擁有所有的單聲道，你有很多很棒的單聲道，我實際上正在看你的東西，因為我就像是我鑄造了它們，我鑄造了一個單聲道，我鑄造的遠泰勒是一個單聲道，我很失望，我翻轉了它，因為我覺得我不喜歡這樣很酷的項目，我喜歡這樣一個很酷的項目我得到了這個奇怪的單聲道作品，我想我想知道你是否順便擁有了我的，但不是，我想我有一個綠色的，可能在verse上有更多的東西，你可能會從他或其他藝術家那裡得到一些東西，就像我說的，你會去的，就像我覺得我已經有足夠的舊東西或者如果你會回到90%，你會回到你Farbteiler，你知道怎麼樣，它會再次下降 90%，我會購買更多的Garden Monoliths，這是對的，但是是的，所以我對 Farbs 仍然有一些目標，顯然我非常高興，但我確實有幾個更具體的目標，所以我有用於單聲道輸出的主要和次要色輪，距離獲得所有 12種顏色（包括第三種顏色）只有幾步之遙，好吧，我不知道你在說這是一個目標，需要一些外展活動，你知道這些錢包很難追踪，而且每種顏色實際上只有幾個單色輸出，所以它需要一些人的幫助，但它可能會發生，所以我認為這真的令人難以置信，因為我的意思是算法從所有 12種顏色產生一些單色輸出這一事實非常令人難以置信，就像它運行得如此完美一樣，甚至能夠收集所有這些都是相當瘋狂的，所以這是我認為的一個目標說實話，我仍然對更多的龍和Garden Monoliths感興趣，我只是認為你知道它們是頂級狗，而且當我一直在進行燒烤時，我才將更加接近這些收藏品，這成為我真正關注的的收藏削減到可以的水平，顯然我喜歡這些卡，但我是否比Garden Monoliths更喜歡它們，通常是答案是不對的，所以我會賣更多的Pokemon卡，無論這個市場是否是頂級的，我喜歡引發銷售機器人和不和諧，我認為這種情況會再發生幾次，我不能說，嗯，我幾乎不想說太多，因為有一些特定的部分，我關注的是，不，不喜歡，呃，你覺得那個一直在挖龍的匿名錢包怎麼樣？花園的價格很高，是的，我顯然注意到了這一點，因為我認為這就像一條龍的 15k tez 銷售，甚至不是我的意思是它是一條漂亮的龍，但公平地說真的很好是的，但它不是像紙龍或金龍或任何其他非常罕見的稀有龍 because I think you got your gold one for like 4k or 5k tez right
+長期是的，我的意思是我永遠是一個長期比特幣牛市基本上我現在持有的只是比特幣和NFT我已經完全清算了我所有的名字代幣無論你想怎麼稱呼這些代幣我不持有任何ETH我不持有任何tezos長期我認為比特幣是數字黃金，這篇論文仍然很棒我你認為你知道，隨著市場的成熟，看到更短的、爆發性較小的市場週期實際上是有意義的，現在完全不同了，我的意思是，我們有ETF，有很多投資比特幣的方式，隨著它的成熟，它的波動性自然會降低，你知道我們確實看到了一些瘋狂的子週期，比如薩拉納意味著代幣交易非常瘋狂，我的意思是，它可以與我曾經參與過的加密貨幣領域的任何東西相媲美，那裡發生的事情持續時間非常短當然，要發生另一個 NFT週期，需要將許多不同的因素結合起來，這些因素在加密貨幣市場週期和全球政治以及所有這些因素中正確計時，我不能說會發生什麼，而且很失望看到你不知道真正的 NFT 牛市，但我仍然認為，如果你購買具有歷史價值的優質藝術品，從長遠來看你會做得很好，你認為你個人會做多少我想我們在很多項目上都降價了兩次，所以總是有可能再次降價，今天的 30 美元可能會在一年內變成 15美元，就像你一樣，泰勒已經很完整了，因為你擁有所有的單聲道，你有很多很棒的單聲道，我實際上正在看你的東西，因為我就像是我鑄造了它們，我鑄造了一個單聲道，我鑄造的遠泰勒是一個單聲道，我很失望，我翻轉了它，因為我覺得我不喜歡這樣很酷的項目，我喜歡這樣一個很酷的項目我得到了這個奇怪的單聲道作品，我想我想知道你是否順便擁有了我的，但不是，我想我有一個綠色的，可能在verse上有更多的東西，你可能會從他或其他藝術家那裡得到一些東西，就像我說的，你會去的，就像我覺得我已經有足夠的舊東西或者如果你會回到90%，你會回到你Farbteiler，你知道怎麼樣，它會再次下降 90%，我會購買更多的Garden Monoliths，這是對的，但是是的，所以我對 Farbs 仍然有一些目標，顯然我非常高興，但我確實有幾個更具體的目標，所以我有用於單聲道輸出的主要和次要色輪，距離獲得所有 12種顏色（包括第三種顏色）只有幾步之遙，好吧，我不知道你在說這是一個目標，需要一些外展活動，你知道這些錢包很難追踪，而且每種顏色實際上只有幾個單色輸出，所以它需要一些人的幫助，但它可能會發生，所以我認為這真的令人難以置信，因為我的意思是算法從所有 12種顏色產生一些單色輸出這一事實非常令人難以置信，就像它運行得如此完美一樣，甚至能夠收集所有這些都是相當瘋狂的，所以這是我認為的一個目標說實話，我仍然對更多的龍和Garden Monoliths感興趣，我只是認為你知道它們是頂級狗，而且當我一直在進行燒烤時，我才將更加接近這些收藏品，這成為我真正關注的的收藏削減到可以的水平，顯然我喜歡這些卡，但我是否比Garden Monoliths更喜歡它們，通常是答案是不對的，所以我會賣更多的Pokemon卡，無論這個市場是否是頂級的，我喜歡引發銷售機器人和Discord，我認為這種情況會再發生幾次，我不能說，嗯，我幾乎不想說太多，因為有一些特定的部分，我關注的是，不，不喜歡，呃，你覺得那個一直在挖龍的匿名錢包怎麼樣？花園的價格很高，是的，我顯然注意到了這一點，因為我認為這就像一條龍的 15k tez 銷售，甚至不是我的意思是它是一條漂亮的龍，但公平地說真的很好是的，但它不是像紙龍或金龍或任何其他非常罕見的稀有龍 because I think you got your gold one for like 4k or 5k tez right
 
 所以我認為黃金是 6k tez 的，因為我稱之為古龍，我認為 5.5 這很有趣，所以我實際上調查了他們的錢包，他們剛剛持有 40,000 tez 一兩年，什麼也沒做，然後突然開始購買，所以他們有任何東西，雖然這只是一個休眠的 tez 錢包，或者他們有從 buybit 寄的的藝術品，他們獲得了質押獎勵，並且絕對做到了直到最近，也許是有人喜歡丟失鑰匙或長時間的東西，我不知道我的意思是我喜歡他們選擇的東西，這一切似乎都是他們在發表聲明，這些價格都是一個笑話是的，我正在看看他們這裡還有什麼，所以他們有買了哦，所以他們是外匯來看看只有兩條笑
 
@@ -366,11 +366,11 @@ That's what art blocks is doing right now, right?
 
 我喜歡我在 2024 年購買的 Pokemon 卡幾乎都是老式日本卡，因為它比美國第一版便宜得多，例如便宜 100倍，而且全息品質實際上更好，它們並不稀缺，而且更容易分級，所以自然它們沒有那麼有價值，但這就是我的論文，就像我喜歡這些，我認為它們看起來比美國版本更好，我只是要囤積這些，實際上效果很好好吧，我認為老式日本卡牌在今年早些時候的幾週內增加了大約五到十幕，所以對我來說，這都是關於美學和稀有性的，你知道我知道稀有性，就像我跟踪你知道流行報告是什麼一樣，所以我還收集PSA 10張分級卡牌，這樣你就有了人口報告，當你收集時，這是非常有用的信息，所以是的，對我來說，這都是美學與可玩性無關，你知道我當我還是個孩子的時候就涉足過這些，會毒害我們，與孩子們戰鬥，交易等等，可玩性甚至在像高不可抗拒的酒花收藏家愛好中那麼重要，因為我有很多這樣的卡牌，看起來人們坐在密封的產品上，或者他們正在破解包裝並對其進行評分，如果有一張非常理想的卡牌實際上具有競爭力，因為更多的卡牌最終會像索引正確的板一樣，這幾乎感覺像是一場噩夢。 口袋妖怪就像設計師一樣，他們對此有一定的認識嗎？他們喜歡確保可玩的卡牌不會像這樣追逐，這樣人們就可以真正玩，這對於現代的東西來說是一個很好的問題，我不知道現代卡牌也有瘋狂的設計和非常繁忙的藝術品，非常繁忙的藝術品和紋理，它們很酷，但就價值而言，我不認為可玩性與價值有那麼大的聯繫，我可以告訴你，你很酷向我提到了流行報告之類的事情這是一個令人著迷的收藏指標，我看到你提到過你向你提到過這一點，但我在視頻中看到人們說，哦，是的，日本十張，數量太多了，人口太多了，因為卡片製作得更好，條件也更好，所以諷刺的是，與垃圾相比，你知道美國卡片的價值要低，要獲得卡片的價值10 的難度要大得多，因為它們是錯位的，或者你知道他們已經有一些了當你打開它們時，它們的邊緣有一些磨損，這很有趣，有一些像核心平台這樣的平台擁有並喜歡控制這些信息，而且通常也有一些人在進行正確的分級，我也看到了很多像偉大的分級偏執狂和日本，你買了那些原始的日本嗎？
 
-我總是在 eBay 上購買它們，是的，eBay 確實是我用於買賣的唯一資源，是的，你是否相信圍繞各個評級公司的任何懷疑或陰謀，我確信你看過那些視頻，其中有人破解了它，他們會重新提交它，然後它的等級就高了兩個等級，你對那些東西的等級是什麼？那裡有一些非常瘋狂的情況，我沒有過多地關注它，對新的認證有偏見，這些認證是最近評級的，它們往往比幾年前評級的認證更嚴格，所以那裡有很強的偏見，但老實說，我並沒有過多地關注它，如果它是10，它就是10，而且它實際上像Pokemon⟦ 10 受到尊重，儘管顯然存在很多不一致之處，人們指出這只會發生，我的意思是這是不可能的，我的意思是有一些令人震驚的例子，我肯定不會過多地關注你就像去年你已經 10倍一樣，你就像我甚至不需要關注爭議，就像我只是在買賣藝術品一樣，是的，所以你認為自己會繼續愛好太多，或者你會保留你喜歡的，然後就這樣了，所以我有一個裝滿分級的PSA10張卡片的活頁夾，隨著價格的上漲，我一直在削減它，並試圖決定它是什麼樣的，我真正關心的核心收藏是什麼，所以我越來越接近那個目標，所以在某個時刻我必須決定是繼續銷售這些還是停止，我認為我們已經達到了這一點，但我的意思是我們會看看我們是否會得到另一個，你知道30 週年紀念套裝即將推出，這可能會引起更多轟動，我們也可能會得到另一個老式泵，所以誰知道事情是否真的變得瘋狂
+我總是在 eBay 上購買它們，是的，eBay 確實是我用於買賣的唯一資源，是的，你是否相信圍繞各個評級公司的任何懷疑或陰謀，我確信你看過那些視頻，其中有人破解了它，他們會重新提交它，然後它的等級就高了兩個等級，你對那些東西的等級是什麼？那裡有一些非常瘋狂的情況，我沒有過多地關注它，對新的認證有偏見，這些認證是最近評級的，它們往往比幾年前評級的認證更嚴格，所以那裡有很強的偏見，但老實說，我並沒有過多地關注它，如果它是10，它就是10，而且它實際上像Pokemon 10 受到尊重，儘管顯然存在很多不一致之處，人們指出這只會發生，我的意思是這是不可能的，我的意思是有一些令人震驚的例子，我肯定不會過多地關注你就像去年你已經 10倍一樣，你就像我甚至不需要關注爭議，就像我只是在買賣藝術品一樣，是的，所以你認為自己會繼續愛好太多，或者你會保留你喜歡的，然後就這樣了，所以我有一個裝滿分級的PSA10張卡片的活頁夾，隨著價格的上漲，我一直在削減它，並試圖決定它是什麼樣的，我真正關心的核心收藏是什麼，所以我越來越接近那個目標，所以在某個時刻我必須決定是繼續銷售這些還是停止，我認為我們已經達到了這一點，但我的意思是我們會看看我們是否會得到另一個，你知道30 週年紀念套裝即將推出，這可能會引起更多轟動，我們也可能會得到另一個老式泵，所以誰知道事情是否真的變得瘋狂
 
 我肯定會賣掉幾乎所有東西，你小時候玩過這個嗎，所以對你有一些懷舊之情，還是像我主要收集的那樣，我不是一個玩家，是的，你知道套牌什麼的，主要只是為了好玩而收集，是的，但是當你決定在 2024年加入時，你注意到日本和美國之間純粹是套利的事情，你就像這樣，這差距太大了，感覺就像有太多的潛力，是的，我的意思是，周圍有很多關於口袋妖怪的嗡嗡聲，對吧，這一切都回到了原點，我確實開始購買現代卡牌之類的東西，感覺有點老套，我小時候看看這些卡牌的價格，所以10倍，你知道，無論是什麼，哇，這些都很便宜，我想買它們就像那樣，是的，它發揮得非常好，就像你所說的那樣，就像是告訴我最近收集和黑膠唱片的很多事情之一，所以我重新開始收集黑膠唱片，實際上喜歡收集大約兩到半年前的真正方式，我會繼續進行討論，這就像黑膠唱片交易的主要網站，也就像我想說的一切的數據庫哦，這是我想要再次的一張唱片，你會看到原始的壓制和所有後續的壓制等等。其中一些唱片，例如 70 年代的原版唱片和我 2025 年壓制的唱片之間的價格差異只有 20美元，是的，對我來說，直覺上再次成為各種類似東西的終身收藏家，這沒有意義，你知道，在某些情況下，這沒關係，是的，歷史上有一些地方他們印刷了這麼多唱片，因為這就像你知道的那樣，這是人們真正可以獲得音樂的唯一媒體格式，但那時我就覺得好吧，我那時會開始只收集第一次的第一次印刷，因為我希望如果我想讓我的收藏保持任何價值，我就不能只是在沃爾瑪和塔吉特購買壓制，就像你知道的，即使音樂聽起來大部分相同或可比較，所以就像這正是我喜歡的那樣，這沒有意義，這件事似乎與愛好脫節，當然，它成為我喜歡花更多錢的一種方式
 
-在某些情況下，是的，這總是很難，但你知道，當你發現那條路時，你會發現一些被低估的東西，這是你欣賞和喜歡看的東西，或者你知道在你的情況下，我不知道你是否播放這些唱片，但收集它們，無論美學價值對你來說是什麼，這對我來說真的是一個很好的收藏機會，很明顯，當你處於那種情況時，你想這樣做，是的，我確實播放它們，有一些我可能不應該全部打耳光的事情還沒有大規模地出現在唱片上，我想因為它仍然很多，我還沒有這樣做，但就像人們的愛好的一個重要部分也是他們的系統一樣，例如保真度和音質，我還沒有這樣做，但就像人們的愛好的一個重要部分也是他們的系統一樣，比如保真度和音質，我只是沒有足夠的錢來做這件事，所以對於很多人來說，擁有一個原創的這個或那個，然後把它放在下，就像你不能播放唱片，然後你實際上無法證明它是一個好的，否則你見過它是一個偉大狀態的事情，Steve我是一個如何證明你實際上無法證明你是一個偉大狀態的事情，Steve我是一個如何證明我是一個偉大狀態的Aoki⟧這樣的人，例如他正在拍打他收集的音樂媒體和其他東西，所以有人就像在它的邊緣並開始這樣做，我很好奇看看這個愛好在五年或十年後會是什麼樣子，現在有一個唱片公司或一個發行商除了把你推出去之外了解他們的零售唱片，如果你去野外他們的網站，他們會有一個預先分級的副本供你購買，大約是這些專輯供你10張實際上可能很困難，我從來沒有，我不知道，但無論如何，這看起來很有趣，因為我覺得這就像其他愛好的戳修改，就像他們看到的那樣他們知道有溢價，這將是一個有趣的一天，我想當這種情況發生時，是的，我想快速跳回verse，所以我注意到你知道我們談論了一些他們策劃的東西，也許他們正在改變平台，你已經收集了他們最近發布的一些大腦腐爛的東西是的，看到他們之間的關係和TabledorPFP現在在這個PFP領域取得成功是很有趣的有點將它與藝術混合在一起，我認為Tabledor一個我的意思是我喜歡它們，因為它們對我來說是免費的，你知道，就像火一樣，所以我得到了，因為他們把它們滴出來的方式，我並不是指任何腦腐的東西，但這很奇怪，因為它顯然吸引了很多新人到他們的平台，他們非常樂意進來抱怨不和諧哦，不和諧是一團糟，是的，很多只是是的，只是很多綠葉用戶抱怨是的，但這就是現在的遊戲嗎？在某種程度上，你必須有糖果來支持這個平台，然後你就沒有了，我對這兩個項目都很喜歡，我很高興看到像一個 10k PFP 項目意味著你知道這是一個外國概念，就像這樣有很多補充，對吧，我已經很久沒有親眼目睹了，我也很喜歡，也許我這是一個完全獨立的話題，我可以談論 30分鐘，但嗯，這只是一種造幣是一件很有趣的事情，看到它成功是很酷的，你知道底價上漲，尤其是Tabledor項目，有一些非常忠誠的收藏家，他們真正在做角色扮演的事情，呃，這只是一件有趣的事情，就像當我看到這些機會時，我在一天結束時仍然是一個加密貨幣de-gen，我會向造幣按鈕發送垃圾郵件，就像不管呃我對藝術的具體看法一樣，但是是的呃，看到你真的很酷收集臨時Improps是的，實際上，所以我說我可以談論這個30分鐘，我實際上在即興表演上放棄了我自己的一些項目哦，你是怎麼喜歡它的，我很酷，這不是我希望人們注意到的東西，但我理解作為一個用人工智能來做這件事的人，你只是提示並放置圖像，然後你在人們鑄造它後看到結果，你就像哦，這不是完全隨機的，儘管它應該更隨機，就像有一個相當我想要的輸出，所以它也讓我更加尊重生成藝術家和其他類型的藝術家，因為很難獲得如下輸出集 diverse如你所願，在你的參數範圍內，所以是的，還有Improps，我不知道它們是否仍在運行，但這很酷，是的，這是一個非常有趣的平台，我在那裡收集了一些東西，我也試圖弄清楚如何鑄造和使用他們的工具來創建一些東西，因為就像每次我看到這些新東西時，我總是試圖整個東西運作的方式對我來說，我有一個孩子，所以是的，我放棄了，但我認為它真的很酷，我們當然和那些人交談過，就像它問世時一樣，我認為這個平台是革命性的，我的意思是，它可能只是在熊市中出現得有點早，但我渴望這樣一個很酷的話題，那些腦鼠在美學或主題上對我來說真的不感興趣，但後來我知道一些藝術家也喜歡涉足，他們覺得它做得很好他們的反饋就像是的，你做了10,000 次，他們看起來都在數千次，是的，很明顯，你知道一定有很多工藝，即使是嗯，你知道，我認為他們只是有點傻，是的，我不能說他們與我產生了很好的共鳴，但仍然非常有趣，是的，我認為Tabledor非常有趣
+在某些情況下，是的，這總是很難，但你知道，當你發現那條路時，你會發現一些被低估的東西，這是你欣賞和喜歡看的東西，或者你知道在你的情況下，我不知道你是否播放這些唱片，但收集它們，無論美學價值對你來說是什麼，這對我來說真的是一個很好的收藏機會，很明顯，當你處於那種情況時，你想這樣做，是的，我確實播放它們，有一些我可能不應該全部打耳光的事情還沒有大規模地出現在唱片上，我想因為它仍然很多，我還沒有這樣做，但就像人們的愛好的一個重要部分也是他們的系統一樣，例如保真度和音質，我還沒有這樣做，但就像人們的愛好的一個重要部分也是他們的系統一樣，比如保真度和音質，我只是沒有足夠的錢來做這件事，所以對於很多人來說，擁有一個原創的這個或那個，然後把它放在下，就像你不能播放唱片，然後你實際上無法證明它是一個好的，否則你見過它是一個偉大狀態的事情，Steve我是一個如何證明你實際上無法證明你是一個偉大狀態的事情，Steve我是一個如何證明我是一個偉大狀態的Aoki這樣的人，例如他正在拍打他收集的音樂媒體和其他東西，所以有人就像在它的邊緣並開始這樣做，我很好奇看看這個愛好在五年或十年後會是什麼樣子，現在有一個唱片公司或一個發行商除了把你推出去之外了解他們的零售唱片，如果你去野外他們的網站，他們會有一個預先分級的副本供你購買，大約是這些專輯供你10張實際上可能很困難，我從來沒有，我不知道，但無論如何，這看起來很有趣，因為我覺得這就像其他愛好的戳修改，就像他們看到的那樣他們知道有溢價，這將是一個有趣的一天，我想當這種情況發生時，是的，我想快速跳回verse，所以我注意到你知道我們談論了一些他們策劃的東西，也許他們正在改變平台，你已經收集了他們最近發布的一些大腦腐爛的東西是的，看到他們之間的關係和TabledorPFP現在在這個PFP領域取得成功是很有趣的有點將它與藝術混合在一起，我認為Tabledor一個我的意思是我喜歡它們，因為它們對我來說是免費的，你知道，就像火一樣，所以我得到了，因為他們把它們滴出來的方式，我並不是指任何腦腐的東西，但這很奇怪，因為它顯然吸引了很多新人到他們的平台，他們非常樂意進來抱怨 Discord哦，Discord 是一團糟，是的，很多只是是的，只是很多綠葉用戶抱怨是的，但這就是現在的遊戲嗎？在某種程度上，你必須有糖果來支持這個平台，然後你就沒有了，我對這兩個項目都很喜歡，我很高興看到像一個 10k PFP 項目意味著你知道這是一個外國概念，就像這樣有很多補充，對吧，我已經很久沒有親眼目睹了，我也很喜歡，也許我這是一個完全獨立的話題，我可以談論 30分鐘，但嗯，這只是一種造幣是一件很有趣的事情，看到它成功是很酷的，你知道底價上漲，尤其是Tabledor項目，有一些非常忠誠的收藏家，他們真正在做角色扮演的事情，呃，這只是一件有趣的事情，就像當我看到這些機會時，我在一天結束時仍然是一個加密貨幣de-gen，我會向造幣按鈕發送垃圾郵件，就像不管呃我對藝術的具體看法一樣，但是是的呃，看到你真的很酷收集臨時Improps是的，實際上，所以我說我可以談論這個30分鐘，我實際上在即興表演上放棄了我自己的一些項目哦，你是怎麼喜歡它的，我很酷，這不是我希望人們注意到的東西，但我理解作為一個用人工智能來做這件事的人，你只是提示並放置圖像，然後你在人們鑄造它後看到結果，你就像哦，這不是完全隨機的，儘管它應該更隨機，就像有一個相當我想要的輸出，所以它也讓我更加尊重生成藝術家和其他類型的藝術家，因為很難獲得如下輸出集 diverse如你所願，在你的參數範圍內，所以是的，還有Improps，我不知道它們是否仍在運行，但這很酷，是的，這是一個非常有趣的平台，我在那裡收集了一些東西，我也試圖弄清楚如何鑄造和使用他們的工具來創建一些東西，因為就像每次我看到這些新東西時，我總是試圖整個東西運作的方式對我來說，我有一個孩子，所以是的，我放棄了，但我認為它真的很酷，我們當然和那些人交談過，就像它問世時一樣，我認為這個平台是革命性的，我的意思是，它可能只是在熊市中出現得有點早，但我渴望這樣一個很酷的話題，那些腦鼠在美學或主題上對我來說真的不感興趣，但後來我知道一些藝術家也喜歡涉足，他們覺得它做得很好他們的反饋就像是的，你做了10,000 次，他們看起來都在數千次，是的，很明顯，你知道一定有很多工藝，即使是嗯，你知道，我認為他們只是有點傻，是的，我不能說他們與我產生了很好的共鳴，但仍然非常有趣，是的，我認為Tabledor非常有趣
 
 我對此持懷疑態度，直到我聽了Tabledor第一次演講，他有點喜歡談論它，我只是一直持有我擁有的那些，我們會看到，因為我知道他也像他是一位藝術家，他們在我身上下了很大的賭注，我認為是長期的，是的，所以嘿，這是我在推特上的pfp，所以是的，是的，我找到了我喜歡的
 
@@ -382,7 +382,7 @@ That's what art blocks is doing right now, right?
 
 浮誇得很好也許我們應該結束這個 駱駝名字的來源 是的
 
-這實際上是一個很好的問題，所以早在 2017 年，加密推特上的每個人基本上都是某種動物，你有一些不明的動物生物，但嗯，我一開始是一個浮誇的美洲駝，這就是我創建帳戶的方式，這是一個現實生活中的暱稱，有人被動地給了我，我覺得這很誇張，所以它只是這樣開始的，然後它就太有趣了，然後它只是推特而不是浮誇的美洲駝，然後熊市發生了，人們開始把呃麥當勞的帽子戴在人們的呃 pfp 上，然後我變成了 McLlama，就像我有你知道的喬一樣，我們都會記住這個，是的，所以這就是 McLlama 的開始方式，這就是這個名字，它被固定下來，人們如何誇張投擲他們的關注，我們將把所有這些放在下面，我們將鏈接到您的Raster收藏，以便人們可以瀏覽它並查看您在那裡收集的所有農場泰勒和其他偉大的東西我滾動瀏覽您，您已經得到了來自影響散列的所有領域的東西，而且您也有一堆嗯人工智慧和其他數位藝術的東西，就像我在這裡也看到了很多這個藝術家文化黑客一樣，就像我是的，我也喜歡故障藝術是的，是的，呃，一些約翰j-j-j-j-j-j-john的東西所以你肯定已經花了一分鐘收集所有這些東西了，這就是我想每個人我希望你們都喜歡非常感謝 McLlama 與我們交談並感謝每個仍然活躍在 fxhash 中的人我看到你們所有人都在不和諧中對購買做出反應每個活躍的人現在都是傳奇人物，取得了很好的傳奇地位
+這實際上是一個很好的問題，所以早在 2017 年，加密推特上的每個人基本上都是某種動物，你有一些不明的動物生物，但嗯，我一開始是一個浮誇的美洲駝，這就是我創建帳戶的方式，這是一個現實生活中的暱稱，有人被動地給了我，我覺得這很誇張，所以它只是這樣開始的，然後它就太有趣了，然後它只是推特而不是浮誇的美洲駝，然後熊市發生了，人們開始把呃麥當勞的帽子戴在人們的呃 pfp 上，然後我變成了 McLlama，就像我有你知道的喬一樣，我們都會記住這個，是的，所以這就是 McLlama 的開始方式，這就是這個名字，它被固定下來，人們如何誇張投擲他們的關注，我們將把所有這些放在下面，我們將鏈接到您的Raster收藏，以便人們可以瀏覽它並查看您在那裡收集的所有農場泰勒和其他偉大的東西我滾動瀏覽您，您已經得到了來自影響散列的所有領域的東西，而且您也有一堆嗯人工智慧和其他數位藝術的東西，就像我在這裡也看到了很多這個藝術家文化黑客一樣，就像我是的，我也喜歡故障藝術是的，是的，呃，一些約翰j-j-j-j-j-j-john的東西所以你肯定已經花了一分鐘收集所有這些東西了，這就是我想每個人我希望你們都喜歡非常感謝 McLlama 與我們交談並感謝每個仍然活躍在 fxhash 中的人我看到你們所有人都在 Discord 中對購買做出反應每個活躍的人現在都是傳奇人物，取得了很好的傳奇地位
 
 很酷的人，再次感謝您的光臨，希望你們都喜歡，嗯，是的，我們會再回來
 
@@ -392,19 +392,29 @@ That's what art blocks is doing right now, right?
 
 ---
 
-## 英文逐字稿（含時間戳，說話者換行）
+## 英文逐字稿（含時間戳）
 
 **[00:00]** All right, hello and welcome everyone to another episode of Waiting to Be Signed.
 
-**[00:20]** We've got a special interview episode for you all today. It's a collector interview.
+**[00:20]** We've got a special interview episode for you all today.
 
-**[00:25]** We're joined by Nicolama, who you might know from the FX hash sales feed mostly and also his Twitter account, which I actually should have had it open because your name isn't at Nicolama on Twitter, but we'll plug that in a moment. Hey man, thanks for coming on the show.
+**[00:23]** It's a collector interview.
+
+**[00:25]** We're joined by Nicolama, who you might know from the FX hash sales feed mostly and
+
+**[00:31]** also his Twitter account, which I actually should have had it open because your name
+
+**[00:34]** isn't at Nicolama on Twitter, but we'll plug that in a moment.
+
+**[00:38]** Hey man, thanks for coming on the show.
 
 **[00:40]** Yeah, thanks for having me.
 
 **[00:41]** It's an honor.
 
-**[00:42]** I've been looking through some of the episodes that I missed in the recent months. And yeah, I mean, you've interviewed my favorite artists and some really cool collectors.
+**[00:42]** I've been looking through some of the episodes that I missed in the recent months.
+
+**[00:46]** And yeah, I mean, you've interviewed my favorite artists and some really cool collectors.
 
 **[00:50]** And so, yeah, happy to be here.
 
@@ -412,49 +422,147 @@ That's what art blocks is doing right now, right?
 
 **[00:52]** Yeah, what stood out to you on the artist side?
 
-**[00:54]** Well, Erics one and Zancan for sure, I would claim to be my favorite artist. Yeah, so I had actually listened to the Erics one one previously, but I think the Zancan interview was somewhat recent. So it was really on that, yeah.
+**[00:54]** Well, Erics one and Zancan for sure, I would claim to be my favorite artist.
+
+**[00:59]** Yeah, so I had actually listened to the Erics one one previously, but I think the Zancan
+
+**[01:04]** interview was somewhat recent.
+
+**[01:05]** So it was really on that, yeah.
 
 **[01:08]** Recent in terms of the episode numbers, because we've reduced the number of episodes we've
 
-**[01:11]** done a lot. So it's probably not that far back. But yeah, let's let's let's click this thing off and I'll ask you, of course, to introduce yourself however you like and tell us a bit about your background in collecting and how you came to start collecting NFTs and in particular, generative art. My general personal background is I work in sort of a data engineer type role. So I'm on the computer all the time. So that naturally works out pretty well with the collecting. I'm able to keep tabs on things really easily. But yeah, I mean, as far as getting into the NFT art, I really have no formal experience
+**[01:11]** done a lot.
 
-**[01:45]** in art whatsoever. It was all through crypto as I'm sure is a common story. I kind of got into crypto in around 2017. You know, bought the top of that first cycle and I have experienced full market cycles,
+**[01:12]** So it's probably not that far back.
+
+**[01:14]** But yeah, let's let's let's click this thing off and I'll ask you, of course, to introduce
+
+**[01:18]** yourself however you like and tell us a bit about your background in collecting and how
+
+**[01:22]** you came to start collecting NFTs and in particular, generative art.
+
+**[01:28]** My general personal background is I work in sort of a data engineer type role.
+
+**[01:32]** So I'm on the computer all the time.
+
+**[01:34]** So that naturally works out pretty well with the collecting.
+
+**[01:37]** I'm able to keep tabs on things really easily.
+
+**[01:40]** But yeah, I mean, as far as getting into the NFT art, I really have no formal experience
+
+**[01:45]** in art whatsoever.
+
+**[01:46]** It was all through crypto as I'm sure is a common story.
+
+**[01:49]** I kind of got into crypto in around 2017.
+
+**[01:51]** You know, bought the top of that first cycle and I have experienced full market cycles,
 
 **[01:56]** you could say.
 
-**[01:57]** And the same with my collecting for my entire life, you know, from Pokemon to NFTs, I've been through market cycles and I used to also trade high-end basketball trading cards. And so I've experienced the pain of selling rails too early many times. So I think that's a large part of my sort of conviction with collecting these days. And NFTs are just kind of a natural thing. It really feels the same.
+**[01:57]** And the same with my collecting for my entire life, you know, from Pokemon to NFTs, I've
 
-**[02:21]** You know, even when you're collecting physical collectibles, you're on the computer all the time, browsing eBay, browsing social media. So it really just feels natural to me.
+**[02:03]** been through market cycles and I used to also trade high-end basketball trading cards.
+
+**[02:08]** And so I've experienced the pain of selling rails too early many times.
+
+**[02:13]** So I think that's a large part of my sort of conviction with collecting these days.
+
+**[02:17]** And NFTs are just kind of a natural thing.
+
+**[02:20]** It really feels the same.
+
+**[02:21]** You know, even when you're collecting physical collectibles, you're on the computer all the
+
+**[02:25]** time, browsing eBay, browsing social media.
+
+**[02:27]** So it really just feels natural to me.
 
 **[02:30]** And yeah, it's been a really fun time.
 
-**[02:32]** And this is one of those collectible categories, if you will, that just I don't see ever leaving. You know, I might sell physical trading cards and kind of get out of that for a while, but I'll never be able to sell my NFTs song.
+**[02:32]** And this is one of those collectible categories, if you will, that just I don't see ever leaving.
+
+**[02:36]** You know, I might sell physical trading cards and kind of get out of that for a while,
+
+**[02:40]** but I'll never be able to sell my NFTs song.
 
 **[02:43]** I'm here for the long haul for sure.
 
-**[02:45]** If you look at the offers in FX hash, you might think there's some stuff that you're definitely never going to be able to sell.
+**[02:45]** If you look at the offers in FX hash, you might think there's some stuff that you're
+
+**[02:48]** definitely never going to be able to sell.
 
 **[02:50]** For sure.
 
 **[02:51]** For sure.
 
-**[02:52]** I did a little bit of selling recently just small stuff, three test, five test here and there just to clear out the wall a little bit. And it's like pretty dire out there. But as far as you're collecting, so if you came in through crypto, did you start with the NFTs on like the PFP side and then cross into art through art blocks? Like was that your path?
+**[02:52]** I did a little bit of selling recently just small stuff, three test, five test here and
 
-**[03:10]** Yeah, kind of the typical path, I guess. Started out kind of minting the hype PFPs I saw on my Twitter feed, most of which are, I mean, all of them are pretty much completely dead at this point.
+**[02:57]** there just to clear out the wall a little bit.
+
+**[02:59]** And it's like pretty dire out there.
+
+**[03:01]** But as far as you're collecting, so if you came in through crypto, did you start with the
+
+**[03:05]** NFTs on like the PFP side and then cross into art through art blocks?
+
+**[03:08]** Like was that your path?
+
+**[03:10]** Yeah, kind of the typical path, I guess.
+
+**[03:12]** Started out kind of minting the hype PFPs I saw on my Twitter feed, most of which are,
+
+**[03:18]** I mean, all of them are pretty much completely dead at this point.
 
 **[03:21]** Did dabble with art blocks?
 
-**[03:22]** I think I was late to art blocks, so I was minting factory stuff and really didn't have the funds to collect anything serious at the time. Despite that being kind of the peak of the bull run where I did have the most crypto of my life, you know, like most collectors, you tend to come in at the top and that's what
+**[03:22]** I think I was late to art blocks, so I was minting factory stuff and really didn't have
+
+**[03:28]** the funds to collect anything serious at the time.
+
+**[03:30]** Despite that being kind of the peak of the bull run where I did have the most crypto of
+
+**[03:34]** my life, you know, like most collectors, you tend to come in at the top and that's what
 
 **[03:39]** happened to me.
 
-**[03:40]** Well, let me ask you a little bit about your philosophy for collecting and well, actually let's start with this. So I feel like the cohort of people who are still here in collecting art and I like yourself, like I did not come into crypto thinking that I was going to get really interested in art, you know, and still be engaged in doing this stuff. It was very accidental just finding tezos through someone I knew, finding Hickett Nune and just minting a few things because I had this test. I didn't know what else to do with it and I thought that was cool. And then obviously FX hash comes along and like I guess swept up in the discord in the community and just waiting up all night for mint and all that fun stuff from back in 2021. So for yourself, I mean, what was it for you about generative art and I guess art in general that struck a chord and got you interested in collecting beyond just speculation?
+**[03:40]** Well, let me ask you a little bit about your philosophy for collecting and well, actually
+
+**[03:46]** let's start with this.
+
+**[03:47]** So I feel like the cohort of people who are still here in collecting art and I like
+
+**[03:53]** yourself, like I did not come into crypto thinking that I was going to get really interested
+
+**[03:57]** in art, you know, and still be engaged in doing this stuff.
+
+**[04:01]** It was very accidental just finding tezos through someone I knew, finding Hickett Nune
+
+**[04:06]** and just minting a few things because I had this test.
+
+**[04:08]** I didn't know what else to do with it and I thought that was cool.
+
+**[04:11]** And then obviously FX hash comes along and like I guess swept up in the discord in the
+
+**[04:16]** community and just waiting up all night for mint and all that fun stuff from back in 2021.
+
+**[04:22]** So for yourself, I mean, what was it for you about generative art and I guess art in
+
+**[04:27]** general that struck a chord and got you interested in collecting beyond just speculation?
 
 **[04:33]** So starting off on Hickett Nune, it really felt just kind of raw and I don't know, there
 
-**[04:38]** was a certain aesthetic to it. It was really basic.
+**[04:38]** was a certain aesthetic to it.
 
-**[04:40]** You just had to browse the feed of random art and there was something about it that just was really enjoyable and you know, I did find that I gravitated towards certain collections that I kept running into and eventually became some of the biggest collectors of some
+**[04:39]** It was really basic.
+
+**[04:40]** You just had to browse the feed of random art and there was something about it that just
+
+**[04:44]** was really enjoyable and you know, I did find that I gravitated towards certain collections
+
+**[04:49]** that I kept running into and eventually became some of the biggest collectors of some
 
 **[04:54]** artists there.
 
@@ -462,31 +570,111 @@ That's what art blocks is doing right now, right?
 
 **[05:00]** came out.
 
-**[05:01]** It was like ripping packs of Pokemon cards. You don't know what you're going to get and I think that's really fun and I still do. And so, yeah, when FX hash came out, I was kind of doing the, you know, oh, I'm going to mint too and then sell one and cover my cost basis and that works for a while but then you realize what you missed out on when it comes to the real grails. So I think I learned a lot through that and I would say it was kind of after that initial rush, you know, months after, like months to a year or so after that FX hash rush that I've really started to like connect with the projects like Farptiler, for example, I just kept coming back to it and realized like, I want to hoard these. Like, it's not enough to just have a few.
+**[05:01]** It was like ripping packs of Pokemon cards.
 
-**[05:40]** So I developed these connections to certain projects and, you know, from there, I think my feed just became purely art really. Like it went from crypto Twitter, you know, meme posting, whatever you want to call it to, oh, wow, like most of my followers are artists and art collectors. So it was a lot of content to take in and I think just over time, I've realized that I do actually genuinely connect with certain projects and artists and it's more than just making a trade. So that's kind of how I reached that point.
+**[05:03]** You don't know what you're going to get and I think that's really fun and I still do.
 
-**[06:11]** Have you gone so far to the point of like getting, you know, prints and plots and like starting to arrange stuff around the house?
+**[05:07]** And so, yeah, when FX hash came out, I was kind of doing the, you know, oh, I'm going
 
-**[06:17]** Like I remember when we talked to Eric, I was kind of trying to suss out from him, you know, like for Farptiler was it, it's like that was plottable or have you ever experimented with that stuff? And I think he said he had some experiments that he is, you know, obviously never went on to sell, but for someone like you who maybe has so much of his work, do you have anything from Eric up in the wall or any other artists that you want to talk about?
+**[05:11]** to mint too and then sell one and cover my cost basis and that works for a while but then
+
+**[05:16]** you realize what you missed out on when it comes to the real grails.
+
+**[05:20]** So I think I learned a lot through that and I would say it was kind of after that initial
+
+**[05:24]** rush, you know, months after, like months to a year or so after that FX hash rush that
+
+**[05:30]** I've really started to like connect with the projects like Farptiler, for example, I
+
+**[05:34]** just kept coming back to it and realized like, I want to hoard these.
+
+**[05:38]** Like, it's not enough to just have a few.
+
+**[05:40]** So I developed these connections to certain projects and, you know, from there, I think
+
+**[05:45]** my feed just became purely art really.
+
+**[05:48]** Like it went from crypto Twitter, you know, meme posting, whatever you want to call it
+
+**[05:52]** to, oh, wow, like most of my followers are artists and art collectors.
+
+**[05:56]** So it was a lot of content to take in and I think just over time, I've realized that
+
+**[06:02]** I do actually genuinely connect with certain projects and artists and it's more than just
+
+**[06:07]** making a trade.
+
+**[06:08]** So that's kind of how I reached that point.
+
+**[06:11]** Have you gone so far to the point of like getting, you know, prints and plots and like
+
+**[06:16]** starting to arrange stuff around the house?
+
+**[06:17]** Like I remember when we talked to Eric, I was kind of trying to suss out from him, you
+
+**[06:22]** know, like for Farptiler was it, it's like that was plottable or have you ever experimented
+
+**[06:27]** with that stuff?
+
+**[06:28]** And I think he said he had some experiments that he is, you know, obviously never went
+
+**[06:31]** on to sell, but for someone like you who maybe has so much of his work, do you have anything
+
+**[06:36]** from Eric up in the wall or any other artists that you want to talk about?
 
 **[06:39]** Yeah.
 
-**[06:40]** So as far as prints and plots go, I really value having that being gated by the artist. Like I really want the signed print. I just don't, I don't want to print it myself. It just says someone who's historically collected physical things. I really value that it's like there's a real physical connection. It's not to say that I'm against anyone printing stuff that they own, like that's awesome.
+**[06:40]** So as far as prints and plots go, I really value having that being gated by the artist.
+
+**[06:46]** Like I really want the signed print.
+
+**[06:48]** I just don't, I don't want to print it myself.
+
+**[06:50]** It just says someone who's historically collected physical things.
+
+**[06:53]** I really value that it's like there's a real physical connection.
+
+**[06:56]** It's not to say that I'm against anyone printing stuff that they own, like that's awesome.
 
 **[07:01]** That's just for me.
 
-**[07:02]** It's like an additional layer to the collection, if you will. So yeah, I have a really cool plotted piece by a Joni Lemursia. And by the way, I also want to say apologies if I mispronounce any artist names, collector
+**[07:02]** It's like an additional layer to the collection, if you will.
+
+**[07:05]** So yeah, I have a really cool plotted piece by a Joni Lemursia.
+
+**[07:09]** And by the way, I also want to say apologies if I mispronounce any artist names, collector
 
 **[07:14]** names.
 
 **[07:15]** All of this is in my head from this online world and I don't, I don't talk to people
 
-**[07:18]** about this in real life. Apologies and events for mispronouncing anything, but yeah, I have a really cool plotted piece from them. I got a print of one of my KGMs from Zamcan in Yazeed. So that's like a giant piece in my living room. I actually have assigned Gain Brood piece two, which is kind of rare.
+**[07:18]** about this in real life.
 
-**[07:35]** He doesn't do a lot of those. And yeah, a few, a few random plots here and there. I would say my physical collection is still pretty small and especially with my recent pickups, I'm interested in getting more physical stuff. You can tell my room here is very bare and that's kind of intentional because I take
+**[07:20]** Apologies and events for mispronouncing anything, but yeah, I have a really cool plotted
 
-**[07:53]** work calls in this location. And so I just, I don't know, I don't like to open it up to conversation with random colleagues and acquaintances, but yeah, I definitely want to keep growing that collection
+**[07:24]** piece from them.
+
+**[07:25]** I got a print of one of my KGMs from Zamcan in Yazeed.
+
+**[07:29]** So that's like a giant piece in my living room.
+
+**[07:31]** I actually have assigned Gain Brood piece two, which is kind of rare.
+
+**[07:35]** He doesn't do a lot of those.
+
+**[07:37]** And yeah, a few, a few random plots here and there.
+
+**[07:40]** I would say my physical collection is still pretty small and especially with my recent
+
+**[07:44]** pickups, I'm interested in getting more physical stuff.
+
+**[07:47]** You can tell my room here is very bare and that's kind of intentional because I take
+
+**[07:53]** work calls in this location.
+
+**[07:55]** And so I just, I don't know, I don't like to open it up to conversation with random
+
+**[08:00]** colleagues and acquaintances, but yeah, I definitely want to keep growing that collection
 
 **[08:05]** of the physical medium.
 
@@ -494,11 +682,45 @@ That's what art blocks is doing right now, right?
 
 **[08:08]** What is your philosophy now?
 
-**[08:09]** I mean, I think for all of us who have come into NFTs, we all came into it with some level of like speculation and hype and hope some dreams for where they might go. And perhaps you still have a long view that we're going to get there. I'm totally on the side of myself at this point. What the long view is because it's such a challenging time right now. But for your particular, like let's say collector psychographic, how do you value the projects that you collect, the artists that you collect beyond just the aesthetic? Like, oh, I love, you know, I love Eric's work. I love San Ken's work. You know, I remember there used to be a lot of discussions about being in the first 100 FX hash projects and the importance of that legacy in history there or same thing with the early art blocks projects.
+**[08:09]** I mean, I think for all of us who have come into NFTs, we all came into it with some
 
-**[08:50]** I mean, a lot of the early AB stuff, you know, perhaps like ringers into the big rails aside, a lot of the early stuff doesn't look that good to me anymore.
+**[08:13]** level of like speculation and hype and hope some dreams for where they might go.
 
-**[09:00]** It looks quite bad actually. But there was a time and perhaps there are still some completionists out there who feel like you need to own those first X. So do you prescribe to any rules like that? Because I imagine obviously with things like Pokemon, right? Like, yeah, the vintageness of things does matter there beyond just the playability of a
+**[08:18]** And perhaps you still have a long view that we're going to get there.
+
+**[08:21]** I'm totally on the side of myself at this point.
+
+**[08:24]** What the long view is because it's such a challenging time right now.
+
+**[08:28]** But for your particular, like let's say collector psychographic, how do you value the projects
+
+**[08:33]** that you collect, the artists that you collect beyond just the aesthetic?
+
+**[08:36]** Like, oh, I love, you know, I love Eric's work.
+
+**[08:39]** I love San Ken's work.
+
+**[08:41]** You know, I remember there used to be a lot of discussions about being in the first 100
+
+**[08:45]** FX hash projects and the importance of that legacy in history there or same thing with
+
+**[08:48]** the early art blocks projects.
+
+**[08:50]** I mean, a lot of the early AB stuff, you know, perhaps like ringers into the big rails
+
+**[08:55]** aside, a lot of the early stuff doesn't look that good to me anymore.
+
+**[09:00]** It looks quite bad actually.
+
+**[09:02]** But there was a time and perhaps there are still some completionists out there who feel
+
+**[09:05]** like you need to own those first X.
+
+**[09:08]** So do you prescribe to any rules like that?
+
+**[09:11]** Because I imagine obviously with things like Pokemon, right?
+
+**[09:14]** Like, yeah, the vintageness of things does matter there beyond just the playability of a
 
 **[09:19]** card necessarily.
 
@@ -508,47 +730,165 @@ That's what art blocks is doing right now, right?
 
 **[09:23]** Yeah, I wouldn't say I have any rules.
 
-**[09:25]** There are times where I'm just browsing historic collections and I'm like, wow, this is one of the first 100 projects and this is really cool and I need to buy this. But I wouldn't say it's a rule or a mindset that I intentionally have. I think obviously it's really easy to just look at all time volume as far as determining what the most important projects are. So that's an easy way to look at it. And yeah, I think it's like historic volume plus how you connect with the art. So like, it's not unique to say that Garden Monoliths are a grail, right? Like, anyone could say that.
+**[09:25]** There are times where I'm just browsing historic collections and I'm like, wow, this is
 
-**[09:55]** But actually really looking at the collection and the depth of the outputs and getting into it has been something that I've enjoyed doing over the course of the last several years. And it's not just the historical pricing and volume, but really just looking at how I
+**[09:30]** one of the first 100 projects and this is really cool and I need to buy this.
+
+**[09:33]** But I wouldn't say it's a rule or a mindset that I intentionally have.
+
+**[09:37]** I think obviously it's really easy to just look at all time volume as far as determining
+
+**[09:42]** what the most important projects are.
+
+**[09:44]** So that's an easy way to look at it.
+
+**[09:46]** And yeah, I think it's like historic volume plus how you connect with the art.
+
+**[09:50]** So like, it's not unique to say that Garden Monoliths are a grail, right?
+
+**[09:53]** Like, anyone could say that.
+
+**[09:55]** But actually really looking at the collection and the depth of the outputs and getting into
+
+**[09:59]** it has been something that I've enjoyed doing over the course of the last several years.
+
+**[10:04]** And it's not just the historical pricing and volume, but really just looking at how I
 
 **[10:08]** appreciate the art.
 
 **[10:09]** So yeah, it's a combination of things.
 
-**[10:11]** I would say I collect intuitively or I like to think so anyways in terms of market cycles and whatnot, but we really haven't had a market cycle with these pieces. So it's just really what I want to collect.
+**[10:11]** I would say I collect intuitively or I like to think so anyways in terms of market cycles
+
+**[10:16]** and whatnot, but we really haven't had a market cycle with these pieces.
+
+**[10:19]** So it's just really what I want to collect.
 
 **[10:22]** So how do you feel long term?
 
-**[10:24]** I mean, there were so many narratives like we're going to see the auction house is adopt. And we did see that to a small degree. And we're going to see institutions adopt and we've seen some high profile donations and maybe even a few here and there purchases from museums like into collections. But those did not seem like inciting events, right? That I think the community might have expected them to be in 2021. So do you hold out hope at all for like crossing into the mainstream more, be it either trad art or the other direction, which is like, do we think it's just forget those institutions for cryptos, not about that. We're going to scale crypto 100x from here. And these collectibles are going to be interesting in them themselves when there's just that many more people who might want to collect this stuff.
+**[10:24]** I mean, there were so many narratives like we're going to see the auction house is adopt.
 
-**[11:08]** I guess I don't know. I could see it being a combination of those ideally, right? I would love to see more institutional adoption and whatnot. But I think that's like really long-term horizon as far as any of those institutional investors are going to have long-term horizons, right? And I think a lot of the crypto market right now has shorter term horizons.
+**[10:28]** And we did see that to a small degree.
+
+**[10:31]** And we're going to see institutions adopt and we've seen some high profile donations and
+
+**[10:35]** maybe even a few here and there purchases from museums like into collections.
+
+**[10:40]** But those did not seem like inciting events, right?
+
+**[10:43]** That I think the community might have expected them to be in 2021.
+
+**[10:47]** So do you hold out hope at all for like crossing into the mainstream more, be it either
+
+**[10:52]** trad art or the other direction, which is like, do we think it's just forget those institutions
+
+**[10:57]** for cryptos, not about that.
+
+**[10:58]** We're going to scale crypto 100x from here.
+
+**[11:01]** And these collectibles are going to be interesting in them themselves when there's just that
+
+**[11:05]** many more people who might want to collect this stuff.
+
+**[11:08]** I guess I don't know.
+
+**[11:09]** I could see it being a combination of those ideally, right?
+
+**[11:12]** I would love to see more institutional adoption and whatnot.
+
+**[11:15]** But I think that's like really long-term horizon as far as any of those institutional investors
+
+**[11:21]** are going to have long-term horizons, right?
+
+**[11:24]** And I think a lot of the crypto market right now has shorter term horizons.
 
 **[11:27]** That's why everyone is so frustrated.
 
-**[11:29]** Get the NFT bull run this cycle and whatnot. And so I don't know exactly how it's going to play out. But I think there's a lot of opportunity.
+**[11:29]** Get the NFT bull run this cycle and whatnot.
 
-**[11:37]** Seeing this price action, which is horrible and complete lack of liquidity and whatnot, seeing it as an opportunity to like really as just a normal person acquire these pieces that just two or three years ago would have been absolutely impossible to buy as a normal person, right? Like the pink GM that I bought a month or so ago, for example, like that would have been unfathomable just two years ago for me. So I see it as an opportunity to kind of make your place in the history of whatever plays out. I can't tell you what's going to happen.
+**[11:32]** And so I don't know exactly how it's going to play out.
 
-**[12:07]** Yeah, I see it as an opportunity and it's been really fun. It was probably about two or two and a half years ago that LaRanda required their pink
+**[11:35]** But I think there's a lot of opportunity.
+
+**[11:37]** Seeing this price action, which is horrible and complete lack of liquidity and whatnot,
+
+**[11:43]** seeing it as an opportunity to like really as just a normal person acquire these pieces
+
+**[11:48]** that just two or three years ago would have been absolutely impossible to buy as a normal
+
+**[11:52]** person, right?
+
+**[11:53]** Like the pink GM that I bought a month or so ago, for example, like that would have been
+
+**[11:57]** unfathomable just two years ago for me.
+
+**[12:00]** So I see it as an opportunity to kind of make your place in the history of whatever plays
+
+**[12:04]** out.
+
+**[12:05]** I can't tell you what's going to happen.
+
+**[12:07]** Yeah, I see it as an opportunity and it's been really fun.
+
+**[12:10]** It was probably about two or two and a half years ago that LaRanda required their pink
 
 **[12:14]** GM, right?
 
-**[12:15]** And it was a big deal because I think I can't remember what the USD equivalent was, but it was certainly 10,000 or 10,000. So it was quite expensive.
+**[12:15]** And it was a big deal because I think I can't remember what the USD equivalent was, but
+
+**[12:19]** it was certainly 10,000 or 10,000.
+
+**[12:21]** So it was quite expensive.
 
 **[12:23]** You might want to fact check me, but I think it might have been over 100K.
 
 **[12:26]** Over 100K?
 
-**[12:27]** I know they timed it very closely with the purchase of the RGB number one also. So they definitely made their mark like grabbing two keystone pieces from the FX hash history
+**[12:27]** I know they timed it very closely with the purchase of the RGB number one also.
+
+**[12:32]** So they definitely made their mark like grabbing two keystone pieces from the FX hash history
 
 **[12:38]** there.
 
-**[12:39]** Anyone who was kind of building a collection two and a half years ago has got to be looking now and going like, wow, like imagine what we could have had. So I've brought your collection a bit. Obviously, you're very Eric Swan Heavy and a lot of that increase has come from the recent activity. As we've seen like so many long time collectors for whatever reason starting to die best, at least from FX hash if not across all chains. So do you just kind of see this trend and decide like now is the time like I'm going to jump in because we're down 90% on this stuff or have you been slowly acquiring along the way? What inspired you to jump in now in all this chaos? I've been collecting the Farbs pretty heavily for the last few years. So that's kind of just a constant I guess. I could keep buying them, but at a certain point it gets ridiculous. But obviously recently I've been really just focused on the rails, right? Like the garden modelists and the dragons and whatnot. And it's partially what you said about, yeah, the prices are down so much that it's very
+**[12:39]** Anyone who was kind of building a collection two and a half years ago has got to be looking
+
+**[12:42]** now and going like, wow, like imagine what we could have had.
+
+**[12:46]** So I've brought your collection a bit.
+
+**[12:48]** Obviously, you're very Eric Swan Heavy and a lot of that increase has come from the recent
+
+**[12:52]** activity.
+
+**[12:53]** As we've seen like so many long time collectors for whatever reason starting to die best,
+
+**[12:58]** at least from FX hash if not across all chains.
+
+**[13:01]** So do you just kind of see this trend and decide like now is the time like I'm going to jump
+
+**[13:05]** in because we're down 90% on this stuff or have you been slowly acquiring along the way?
+
+**[13:11]** What inspired you to jump in now in all this chaos?
+
+**[13:14]** I've been collecting the Farbs pretty heavily for the last few years.
+
+**[13:18]** So that's kind of just a constant I guess.
+
+**[13:19]** I could keep buying them, but at a certain point it gets ridiculous.
+
+**[13:22]** But obviously recently I've been really just focused on the rails, right?
+
+**[13:26]** Like the garden modelists and the dragons and whatnot.
+
+**[13:28]** And it's partially what you said about, yeah, the prices are down so much that it's very
 
 **[13:33]** appealing to buy them right now.
 
-**[13:34]** But it's also just the timing of my other market cycle that I've been participating in. So I actually did buy quite a few vintage Pokemon cards around 2024. So I was actually buying those more than I was buying NFTs at the time and they did really,
+**[13:34]** But it's also just the timing of my other market cycle that I've been participating in.
+
+**[13:39]** So I actually did buy quite a few vintage Pokemon cards around 2024.
+
+**[13:44]** So I was actually buying those more than I was buying NFTs at the time and they did really,
 
 **[13:48]** really well early this year.
 
@@ -556,17 +896,37 @@ That's what art blocks is doing right now, right?
 
 **[13:55]** on FX hash.
 
-**[13:56]** So it's kind of like life hands you this. This opportunity and the timing of things just makes sense. And I like the price of the art right now. And I got this liquidity that I can tap into now. And so it's a combination of things. Yeah, I think it's like just just the fact that people are even listing these rails is fortunate
+**[13:56]** So it's kind of like life hands you this.
+
+**[13:58]** This opportunity and the timing of things just makes sense.
+
+**[14:01]** And I like the price of the art right now.
+
+**[14:04]** And I got this liquidity that I can tap into now.
+
+**[14:08]** And so it's a combination of things.
+
+**[14:10]** Yeah, I think it's like just just the fact that people are even listing these rails is fortunate
 
 **[14:15]** too, right?
 
 **[14:16]** Yeah.
 
-**[14:17]** Do you give any thought or concern to the viability of like chains and stuff? Like, you know, I think for as long as we've been collecting on tezos, there's always been a lot of fun around the chain being a ghost chain, be it, you know, a lot of ill will towards
+**[14:17]** Do you give any thought or concern to the viability of like chains and stuff?
+
+**[14:22]** Like, you know, I think for as long as we've been collecting on tezos, there's always been
+
+**[14:26]** a lot of fun around the chain being a ghost chain, be it, you know, a lot of ill will towards
 
 **[14:32]** the founders.
 
-**[14:33]** And I think the way they handled the ICO that just never really, I think a lot of people forgot about it, but then kind of just the stink on it never really went away constantly expecting the chain to fail. Despite the fact that it's been around, I mean, you think about like the whole like Lindy
+**[14:33]** And I think the way they handled the ICO that just never really, I think a lot of people
+
+**[14:37]** forgot about it, but then kind of just the stink on it never really went away constantly
+
+**[14:42]** expecting the chain to fail.
+
+**[14:45]** Despite the fact that it's been around, I mean, you think about like the whole like Lindy
 
 **[14:48]** idea, right?
 
@@ -574,29 +934,89 @@ That's what art blocks is doing right now, right?
 
 **[14:54]** reason.
 
-**[14:55]** At the same same time now we're seeing people come in on the each side. Like, I'm sure you follow a lot of these people, but like the bankless folks, for example,
+**[14:55]** At the same same time now we're seeing people come in on the each side.
+
+**[14:58]** Like, I'm sure you follow a lot of these people, but like the bankless folks, for example,
 
 **[15:02]** have finally turned on eat, right?
 
-**[15:04]** And like sold all their eith and there's all this fun around the foundation and the way they handle the L2s and they're cannibalizing their fees. So maybe a better way to phrase this is have you put a lot of thought recently into preservation and like what happens with all of this stuff? Like should a chain go down or should a platform, which we'll probably talk about soon.
+**[15:04]** And like sold all their eith and there's all this fun around the foundation and the way
 
-**[15:23]** Like FX hash, go down. What is your approach to that stuff currently?
+**[15:09]** they handle the L2s and they're cannibalizing their fees.
 
-**[15:29]** I guess I'll start by addressing the tezos fud thing. So I mean, as someone who's been in crypto since 2017, I can tell you that a lot of those crypto OGs who are really hating on tezos right now used to absolutely love it. Like in 2019, 2020, tezos was all the hype and people were treating it as a real investment right and a lot of people got burned by the price action. And then, I mean, it's fundamentally, it is a really great blockchain and in some ways superior to Ethereum, I think. And I have absolutely no problem using it as a basic user.
+**[15:12]** So maybe a better way to phrase this is have you put a lot of thought recently into preservation
+
+**[15:18]** and like what happens with all of this stuff?
+
+**[15:20]** Like should a chain go down or should a platform, which we'll probably talk about soon.
+
+**[15:23]** Like FX hash, go down.
+
+**[15:26]** What is your approach to that stuff currently?
+
+**[15:29]** I guess I'll start by addressing the tezos fud thing.
+
+**[15:32]** So I mean, as someone who's been in crypto since 2017, I can tell you that a lot of those
+
+**[15:36]** crypto OGs who are really hating on tezos right now used to absolutely love it.
+
+**[15:41]** Like in 2019, 2020, tezos was all the hype and people were treating it as a real investment
+
+**[15:47]** right and a lot of people got burned by the price action.
+
+**[15:51]** And then, I mean, it's fundamentally, it is a really great blockchain and in some
+
+**[15:53]** ways superior to Ethereum, I think.
+
+**[15:56]** And I have absolutely no problem using it as a basic user.
 
 **[15:59]** I love it.
 
-**[16:00]** But I think that it just left a bad taste in those crypto OGs, you know, opinions and that kind of perpetuated through the NFT cycle, I think. And then of course, everyone made millions of dollars on eith and art blocks and then it's like, well, look at tezos. The price is just going down constantly. Why would I collect there? It's just kind of elitist psychology combined with the fact that they at one time did actually like the chain, but now it's kind of an emotional thing, I think, for a lot of people. Do I fear that the blockchain will ever shut down? Probably not in the foreseeable future.
+**[16:00]** But I think that it just left a bad taste in those crypto OGs, you know, opinions and that
+
+**[16:07]** kind of perpetuated through the NFT cycle, I think.
+
+**[16:10]** And then of course, everyone made millions of dollars on eith and art blocks and then
+
+**[16:13]** it's like, well, look at tezos.
+
+**[16:15]** The price is just going down constantly.
+
+**[16:16]** Why would I collect there?
+
+**[16:17]** It's just kind of elitist psychology combined with the fact that they at one time did actually
+
+**[16:22]** like the chain, but now it's kind of an emotional thing, I think, for a lot of people.
+
+**[16:27]** Do I fear that the blockchain will ever shut down?
+
+**[16:30]** Probably not in the foreseeable future.
 
 **[16:31]** No, I don't have any fear of that.
 
-**[16:33]** But to transition to the next party question, yes, preservation has become extremely important, especially with the impending, if you will, shutdown of FXX. Obviously, we don't know. But, yeah, I mean, I wasn't really expecting that to happen so suddenly, right? Like there was this several week period where there was some bad news kind of lurking in the air, but no one knew what was going on.
+**[16:33]** But to transition to the next party question, yes, preservation has become extremely important,
 
-**[16:57]** And there was no communication from the team. And so, yeah, it can happen suddenly.
+**[16:40]** especially with the impending, if you will, shutdown of FXX.
+
+**[16:44]** Obviously, we don't know.
+
+**[16:45]** But, yeah, I mean, I wasn't really expecting that to happen so suddenly, right?
+
+**[16:49]** Like there was this several week period where there was some bad news kind of lurking in
+
+**[16:54]** the air, but no one knew what was going on.
+
+**[16:57]** And there was no communication from the team.
+
+**[16:59]** And so, yeah, it can happen suddenly.
 
 **[17:01]** And you need to be ready for that.
 
-**[17:03]** Have I done anything myself about it? No, but I've thought about it. But there are people like Raster came out immediately after that and said, hey, sign up,
+**[17:03]** Have I done anything myself about it?
+
+**[17:05]** No, but I've thought about it.
+
+**[17:07]** But there are people like Raster came out immediately after that and said, hey, sign up,
 
 **[17:12]** create an account, and we'll back up your art for you.
 
@@ -604,9 +1024,49 @@ That's what art blocks is doing right now, right?
 
 **[17:20]** redundancy.
 
-**[17:21]** But there are people who have been thinking about this seriously for years. So that gives me hope that nothing is going to completely disappear.
+**[17:21]** But there are people who have been thinking about this seriously for years.
 
-**[17:28]** Yeah, I noticed that Raster thing. I was like, this is brilliant. And of course, I connected and I had connected to Raster a while ago. So I don't know if they had already done it for me, but it was awesome to see that like 90 plus percent of my NFTs, there were a few corner case ones probably from like Versaum or some other default platforms that they weren't able to cover. But that was great to see. Obviously, we haven't like battle tested that to see if I ever lose access to my FX Hatch account because of the platform. Like I have no idea what the experience will be like viewing that stuff. Someone who we've always talked about having on the show is like Regina, her son, if you know her, she works at the, I probably messed up her name, but she does like digital preservation. You can find great videos of her on YouTube talking about the challenges of it, not just through NFTs, but dating back to like digital art from the 80s, 70s. And how challenging it is to make sure that it actually can still exist and live in a way that was how the artist intended it to. Not just like in a bare bones like, oh wait, we still have the file, but like, no, it's like displayed on the right machines, right? And it can actually, the colors will match and things like that. We would never think about in 2021, like collecting on FX Hatch or Artblocks, right?
+**[17:25]** So that gives me hope that nothing is going to completely disappear.
+
+**[17:28]** Yeah, I noticed that Raster thing.
+
+**[17:29]** I was like, this is brilliant.
+
+**[17:30]** And of course, I connected and I had connected to Raster a while ago.
+
+**[17:35]** So I don't know if they had already done it for me, but it was awesome to see that like
+
+**[17:39]** 90 plus percent of my NFTs, there were a few corner case ones probably from like Versaum
+
+**[17:45]** or some other default platforms that they weren't able to cover.
+
+**[17:48]** But that was great to see.
+
+**[17:49]** Obviously, we haven't like battle tested that to see if I ever lose access to my FX
+
+**[17:55]** Hatch account because of the platform.
+
+**[17:56]** Like I have no idea what the experience will be like viewing that stuff.
+
+**[18:00]** Someone who we've always talked about having on the show is like Regina, her son, if you
+
+**[18:04]** know her, she works at the, I probably messed up her name, but she does like digital preservation.
+
+**[18:10]** You can find great videos of her on YouTube talking about the challenges of it, not just
+
+**[18:15]** through NFTs, but dating back to like digital art from the 80s, 70s.
+
+**[18:22]** And how challenging it is to make sure that it actually can still exist and live in a way
+
+**[18:27]** that was how the artist intended it to.
+
+**[18:29]** Not just like in a bare bones like, oh wait, we still have the file, but like, no, it's
+
+**[18:33]** like displayed on the right machines, right?
+
+**[18:35]** And it can actually, the colors will match and things like that.
+
+**[18:38]** We would never think about in 2021, like collecting on FX Hatch or Artblocks, right?
 
 **[18:43]** Right.
 
@@ -614,7 +1074,11 @@ That's what art blocks is doing right now, right?
 
 **[18:45]** It's more fragile than I thought.
 
-**[18:46]** Like even some of the on-chain stuff on FX Hatch sounds like it's more of a headache than the IPFS projects from some conversations that I've seen. So it's definitely concerning.
+**[18:46]** Like even some of the on-chain stuff on FX Hatch sounds like it's more of a headache
+
+**[18:50]** than the IPFS projects from some conversations that I've seen.
+
+**[18:55]** So it's definitely concerning.
 
 **[18:58]** Am I panicking?
 
@@ -622,17 +1086,45 @@ That's what art blocks is doing right now, right?
 
 **[19:00]** Definitely not.
 
-**[19:01]** I have my fingers crossed that no matter what goes down, Cyford will not leave us completely screwed. Like it seems like he is still plugging away. And if for whatever reason they just are going to be put in position to shut down the platform, I hope and perhaps expect that that might be an unfair word that he'll come up with something
+**[19:01]** I have my fingers crossed that no matter what goes down, Cyford will not leave us completely
+
+**[19:06]** screwed.
+
+**[19:07]** Like it seems like he is still plugging away.
+
+**[19:10]** And if for whatever reason they just are going to be put in position to shut down the platform,
+
+**[19:14]** I hope and perhaps expect that that might be an unfair word that he'll come up with something
 
 **[19:20]** for us, right?
 
-**[19:21]** To make sure at least things still function in some fashion. But yeah, let's talk about FX Hatch a little bit because it's been such a crazy few months, but also in a way, a crazy two years being a show that like primarily covered it and trying to figure out everything that's going on with them and all their pivots. Like I shared some notes with you in advance and I was like, they moved to eat, they moved to base.
+**[19:21]** To make sure at least things still function in some fashion.
+
+**[19:24]** But yeah, let's talk about FX Hatch a little bit because it's been such a crazy few
+
+**[19:28]** months, but also in a way, a crazy two years being a show that like primarily covered it
+
+**[19:34]** and trying to figure out everything that's going on with them and all their pivots.
+
+**[19:36]** Like I shared some notes with you in advance and I was like, they moved to eat, they moved
+
+**[19:39]** to base.
 
 **[19:41]** They announced a kind of curated program called Vertex that had one release and then they
 
 **[19:46]** never did anything with it.
 
-**[19:47]** And then obviously like past things like Params and FX text and now open form and the FX Hatch token. So you've been here the whole time collecting, engaging. What's your holistic take on the history of the platform? Or if you want to start with like the most more recent stuff with the tokens, like wherever you want to start, like I'm down to talk about all of it.
+**[19:47]** And then obviously like past things like Params and FX text and now open form and the
+
+**[19:53]** FX Hatch token.
+
+**[19:54]** So you've been here the whole time collecting, engaging.
+
+**[19:59]** What's your holistic take on the history of the platform?
+
+**[20:03]** Or if you want to start with like the most more recent stuff with the tokens,
+
+**[20:06]** like wherever you want to start, like I'm down to talk about all of it.
 
 **[20:10]** Overengineering has been one of my fears for the platform for the last couple years,
 
@@ -640,53 +1132,143 @@ That's what art blocks is doing right now, right?
 
 **[20:15]** It wasn't just the recent art coin thing.
 
-**[20:17]** I do feel like creating novelty was kind of prioritized over doing more of a curated approach and getting really big projects to mint on their break because we have the big rails and then after that, the artists that really succeeded kind of moved on to different
+**[20:17]** I do feel like creating novelty was kind of prioritized over doing more of a curated
+
+**[20:23]** approach and getting really big projects to mint on their break because we have the
+
+**[20:26]** big rails and then after that, the artists that really succeeded kind of moved on to different
 
 **[20:32]** platforms and blockchains.
 
-**[20:33]** So I did fear about the overengineering thing definitely. I will say more recently, you know, I felt that there was a bit much to drop. Art coins and open form at the same time. It was Cypherid's project, right? The open form project that kind of unveiled the whole art coin thing, right?
+**[20:33]** So I did fear about the overengineering thing definitely.
 
-**[20:53]** Yeah, genomes, right? Oh, no, this was after genomes.
+**[20:37]** I will say more recently, you know, I felt that there was a bit much to drop.
+
+**[20:43]** Art coins and open form at the same time.
+
+**[20:46]** It was Cypherid's project, right?
+
+**[20:48]** The open form project that kind of unveiled the whole art coin thing, right?
+
+**[20:53]** Yeah, genomes, right?
+
+**[20:54]** Oh, no, this was after genomes.
 
 **[20:56]** This was a lot.
 
-**[20:57]** What was the more recent one called? Generations.
+**[20:57]** What was the more recent one called?
+
+**[20:59]** Generations.
 
 **[21:00]** Generations, okay.
 
 **[21:01]** Yeah.
 
-**[21:02]** So it was fully open for meaning unlimited number of iterations and you could also evolve your outputs and mutate them and create new outputs after you admitted it. And to me, that technology wise, it's cool, but I think it totally removes the scarcity and the value aspect of the art as a collector, right? Like, why would I put any significant amount of money into minting something that I can change after I mint it and then there's an unlimited number of outputs, right? So I thought it was really cool, but it kind of removes the financial aspect of it completely. And then simultaneously you're dropping art coins, which has nothing to do with art and it's all financial, all about community and cult followings, right? And I just think that that combination didn't quite land, right?
+**[21:02]** So it was fully open for meaning unlimited number of iterations and you could also evolve
+
+**[21:07]** your outputs and mutate them and create new outputs after you admitted it.
+
+**[21:12]** And to me, that technology wise, it's cool, but I think it totally removes the scarcity
+
+**[21:18]** and the value aspect of the art as a collector, right?
+
+**[21:21]** Like, why would I put any significant amount of money into minting something that I can change
+
+**[21:27]** after I mint it and then there's an unlimited number of outputs, right?
+
+**[21:31]** So I thought it was really cool, but it kind of removes the financial aspect of it completely.
+
+**[21:35]** And then simultaneously you're dropping art coins, which has nothing to do with art and
+
+**[21:40]** it's all financial, all about community and cult followings, right?
+
+**[21:43]** And I just think that that combination didn't quite land, right?
 
 **[21:47]** For me, at least.
 
 **[21:48]** So that was a little bit kind of weak.
 
-**[21:50]** Like, if they had come out with, you know, art coins and then I'm just going to use an example, like Xancan dropped a really cool project with the art coin dropping the same
+**[21:50]** Like, if they had come out with, you know, art coins and then I'm just going to use an
+
+**[21:53]** example, like Xancan dropped a really cool project with the art coin dropping the same
 
 **[21:58]** day.
 
-**[21:59]** And you're generated quite a lot of buzz. So I felt like the release kind of fell flat. There was a period where I still believed in the concept, you know, the FX hash token in particular was promising. I mean, we saw, actually it took note of this. The Zora token went to $450 million market cap.
+**[21:59]** And you're generated quite a lot of buzz.
+
+**[22:01]** So I felt like the release kind of fell flat.
+
+**[22:04]** There was a period where I still believed in the concept, you know, the FX hash token
+
+**[22:09]** in particular was promising.
+
+**[22:11]** I mean, we saw, actually it took note of this.
+
+**[22:14]** The Zora token went to $450 million market cap.
 
 **[22:18]** Yeah.
 
-**[22:19]** I think FX hash peaked at 15 million. So like, the potential that was there for the FX hash token was so great. And I really thought that like, yeah, I could see FX hash token going to 100 million easily
+**[22:19]** I think FX hash peaked at 15 million.
+
+**[22:21]** So like, the potential that was there for the FX hash token was so great.
+
+**[22:25]** And I really thought that like, yeah, I could see FX hash token going to 100 million easily
 
 **[22:29]** right?
 
 **[22:30]** And it just didn't happen.
 
-**[22:31]** I thought it was going to for a while there for sure. And it just didn't happen.
+**[22:31]** I thought it was going to for a while there for sure.
+
+**[22:34]** And it just didn't happen.
 
 **[22:35]** So that was disappointing.
 
-**[22:37]** And then from there, it was kind of just, there was no momentum at that point. Crypto was kind of starting the bear market from the highs we saw. And obviously NFTs were not doing any better. So a lot of it is just, yeah, it didn't catch the hype for whatever reason. And that was kind of the window of opportunity.
+**[22:37]** And then from there, it was kind of just, there was no momentum at that point.
 
-**[22:54]** Was that six month period where base memes were pumping and Zora was pumping and FX hash seemed natural and it just didn't happen. So yeah, that's kind of my take on the situation and how I've perceived it. My only answer is that FX hash made the mistake of launching with too much of a product. And actually being like, no, you're going to go here and you're going to collect real art and you're going to explore it. And it's not going to just be, you click a link on Twitter to some meme and you go and you just like, you'll go into it and then sell it two hours later, right? They were actually trying to create something that was too hard in both senses of the word. Like it was like a hard use case, but also like hard to use compared to other ways. Like if you're going to go speculate in coins, why go through all the trouble of like understanding the art and the artist, you can just go follow big meme accounts or whatever. However, people found whatever they're going to buy and so are right.
+**[22:41]** Crypto was kind of starting the bear market from the highs we saw.
+
+**[22:45]** And obviously NFTs were not doing any better.
+
+**[22:47]** So a lot of it is just, yeah, it didn't catch the hype for whatever reason.
+
+**[22:52]** And that was kind of the window of opportunity.
+
+**[22:54]** Was that six month period where base memes were pumping and Zora was pumping and FX hash
+
+**[23:00]** seemed natural and it just didn't happen.
+
+**[23:02]** So yeah, that's kind of my take on the situation and how I've perceived it.
+
+**[23:06]** My only answer is that FX hash made the mistake of launching with too much of a product.
+
+**[23:11]** And actually being like, no, you're going to go here and you're going to collect real
+
+**[23:13]** art and you're going to explore it.
+
+**[23:15]** And it's not going to just be, you click a link on Twitter to some meme and you go and
+
+**[23:19]** you just like, you'll go into it and then sell it two hours later, right?
+
+**[23:22]** They were actually trying to create something that was too hard in both senses of the word.
+
+**[23:27]** Like it was like a hard use case, but also like hard to use compared to other ways.
+
+**[23:31]** Like if you're going to go speculate in coins, why go through all the trouble of like
+
+**[23:35]** understanding the art and the artist, you can just go follow big meme accounts or whatever.
+
+**[23:39]** However, people found whatever they're going to buy and so are right.
 
 **[23:41]** Yeah.
 
-**[23:42]** And I think ultimately they found that while the people who were interested in using the platform weren't at this time speculative investors, they actually did want to make cool art and there was just this disconnect the entire time where the user experience was getting worse because you know, the art coins complicated things and whatever cabal overlords there
+**[23:42]** And I think ultimately they found that while the people who were interested in using the
+
+**[23:46]** platform weren't at this time speculative investors, they actually did want to make cool
+
+**[23:50]** art and there was just this disconnect the entire time where the user experience was getting
+
+**[23:54]** worse because you know, the art coins complicated things and whatever cabal overlords there
 
 **[24:00]** are decided to not pump the tokens, right?
 
@@ -694,7 +1276,11 @@ That's what art blocks is doing right now, right?
 
 **[24:05]** Yeah.
 
-**[24:06]** I don't know if you listened to the episodes we did kind of around it. We did an episode with Cypher because it was obviously just such a big moment for them. And you know, they were very candid like if this doesn't work, the platform is in a lot
+**[24:06]** I don't know if you listened to the episodes we did kind of around it.
+
+**[24:08]** We did an episode with Cypher because it was obviously just such a big moment for them.
+
+**[24:13]** And you know, they were very candid like if this doesn't work, the platform is in a lot
 
 **[24:17]** of trouble.
 
@@ -702,61 +1288,779 @@ That's what art blocks is doing right now, right?
 
 **[24:23]** that on the episode.
 
-**[24:24]** And it kind of made sense to me though, from a career perspective for an artist like in my mind, like thinking back if someone like Zancan, like in 2021 or early 2020 or late 2020,
+**[24:24]** And it kind of made sense to me though, from a career perspective for an artist like in my
 
-**[24:36]** even this whole art coin thing was there. Like the idea of having a career coin where the supply constantly goes down and every time you release something, then it doesn't necessarily have to be open for them, but like, right? It kind of makes sense if you could go back in time and launch it then. But as a Hail Mary move for a platform and also expecting them to pair it with open form, which is this new kind of discipline, very few of the artists who did release that way, I think really pulled it off well. It just felt tough.
+**[24:29]** mind, like thinking back if someone like Zancan, like in 2021 or early 2020 or late 2020,
 
-**[25:05]** And then when you don't have a follow up quickly, you just see the price action and the volume stagnate on those tokens because once all the natural minting is done, then all that's left is to buy and sell the token and do nothing else with it. And you're waiting and waiting and waiting and like, I think we only saw one or two artists ever even create a follow up project that like used their cent coin and just it's a thing that needed years of time to prove itself out. And crypto doesn't have the time for that and the platform you have that time either. Yeah, I mean, that's the risk you take getting into that territory.
+**[24:36]** even this whole art coin thing was there.
 
-**[25:36]** It's as far as crypto cycles, you know, many cycles within a boron happen really fast. And once you lose that momentum, it's kind of over. What do you think about there are more recent ideas around opening up the platform, doing a Dow? Are you fully out of FX hash like FXH, I should say? Like, I'm sure you got like a decent chunk in air drive. Yeah, I sold a little bit of my allocation at first.
+**[24:39]** Like the idea of having a career coin where the supply constantly goes down and every time
 
-**[26:00]** I think I held most of it. I think what I have now is worth like one or two hundred bucks, but I don't know. I've never really seen the Dow thing play out. I think that's a great concept. I guess I don't really have an opinion on it. I really would like to see personally assuming that there's going to be no miracle funding coming in, which there might be. I mean, they've been talking about something, but I'd like to see them pivot more towards preserving the art and enabling the marketplace to persist. I think it kind of maintains that legacy, right?
+**[24:43]** you release something, then it doesn't necessarily have to be open for them, but like, right?
 
-**[26:28]** Because it's, I mean, FXH is such a significant chapter of GenerativeArt and maintaining that platform in some degree, no matter what is what I want to see. Whatever that means, I don't know about the technical details and what that would require. It seems like they need to trim down their infrastructure costs quite a bit for anything to be possible. I mean, obviously it would be awesome if they could have the platform persist in some way. I think they were kind of floating like, obviously, keep secondary going because that's probably the only place they're really making much revenue these days if they're making any. You know, I guess kind of the idea was perhaps like you could do some curated stuff and it would just be like one or two or three releases a year and then every that way they keep their costs down because they're not constantly having people putting up like.
+**[24:47]** It kind of makes sense if you could go back in time and launch it then.
+
+**[24:52]** But as a Hail Mary move for a platform and also expecting them to pair it with open form,
+
+**[24:57]** which is this new kind of discipline, very few of the artists who did release that way,
+
+**[25:01]** I think really pulled it off well.
+
+**[25:04]** It just felt tough.
+
+**[25:05]** And then when you don't have a follow up quickly, you just see the price action and the volume
+
+**[25:09]** stagnate on those tokens because once all the natural minting is done, then all that's left
+
+**[25:15]** is to buy and sell the token and do nothing else with it.
+
+**[25:17]** And you're waiting and waiting and waiting and like, I think we only saw one or two artists ever
+
+**[25:21]** even create a follow up project that like used their cent coin and just it's a thing that needed
+
+**[25:27]** years of time to prove itself out.
+
+**[25:29]** And crypto doesn't have the time for that and the platform you have that time either.
+
+**[25:33]** Yeah, I mean, that's the risk you take getting into that territory.
+
+**[25:36]** It's as far as crypto cycles, you know, many cycles within a boron happen really fast.
+
+**[25:42]** And once you lose that momentum, it's kind of over.
+
+**[25:45]** What do you think about there are more recent ideas around opening up the platform,
+
+**[25:50]** doing a Dow? Are you fully out of FX hash like FXH, I should say?
+
+**[25:54]** Like, I'm sure you got like a decent chunk in air drive.
+
+**[25:56]** Yeah, I sold a little bit of my allocation at first.
+
+**[26:00]** I think I held most of it.
+
+**[26:01]** I think what I have now is worth like one or two hundred bucks, but I don't know.
+
+**[26:05]** I've never really seen the Dow thing play out.
+
+**[26:08]** I think that's a great concept.
+
+**[26:10]** I guess I don't really have an opinion on it.
+
+**[26:12]** I really would like to see personally assuming that there's going to be no
+
+**[26:17]** miracle funding coming in, which there might be.
+
+**[26:19]** I mean, they've been talking about something, but I'd like to see them pivot more towards
+
+**[26:22]** preserving the art and enabling the marketplace to persist.
+
+**[26:26]** I think it kind of maintains that legacy, right?
+
+**[26:28]** Because it's, I mean, FXH is such a significant chapter of GenerativeArt and maintaining that
+
+**[26:33]** platform in some degree, no matter what is what I want to see.
+
+**[26:38]** Whatever that means, I don't know about the technical details and what that would require.
+
+**[26:43]** It seems like they need to trim down their infrastructure costs quite a bit for anything to be possible.
+
+**[26:48]** I mean, obviously it would be awesome if they could have the platform persist in some way.
+
+**[26:52]** I think they were kind of floating like, obviously, keep secondary going because that's probably
+
+**[26:56]** the only place they're really making much revenue these days if they're making any.
+
+**[27:00]** You know, I guess kind of the idea was perhaps like you could do some curated stuff and it would
+
+**[27:03]** just be like one or two or three releases a year and then every that way they keep their costs
+
+**[27:07]** down because they're not constantly having people putting up like.
 
 **[27:10]** That's what art blocks is doing right now, right?
 
 **[27:11]** Yeah.
 
-**[27:12]** If I understand correctly doing just a few releases, but they've kind of encapsulated that 500 projects and really wanted to focus on preserving those as best as possible. Yeah, it feels like art blocks is in such a weird place because yeah, they're not really doing formal curated stuff, but then they have whatever their new version of playground is. So like in theory, anyone who has worked on those contracts before can without permission come and publish work there, but I think that they had this issue that without the prestige of being curated or even being what was the one just below curated that they did like, but it was still selected.
+**[27:12]** If I understand correctly doing just a few releases, but they've kind of encapsulated that 500 projects
+
+**[27:19]** and really wanted to focus on preserving those as best as possible.
+
+**[27:23]** Yeah, it feels like art blocks is in such a weird place because yeah, they're not really doing
+
+**[27:27]** formal curated stuff, but then they have whatever their new version of playground is.
+
+**[27:32]** So like in theory, anyone who has worked on those contracts before can without permission come
+
+**[27:37]** and publish work there, but I think that they had this issue that without the prestige of being
+
+**[27:44]** curated or even being what was the one just below curated that they did like, but it was still selected.
 
 **[27:50]** Oh, it was like art blocks presents.
 
-**[27:52]** Yeah, whatever their second tier of curation was when it was reduced down to like this is an open platform, but just for artists who have been picked before, they weren't selling out. Something sold out, but some things really did not perform well. So it's the exact same problem that FX hash had, which is like, it just feels like the whole community artists and collectors both turn towards being curated, getting some kind of not even necessarily the marketing behind them. Because like I don't know that I would say like someone might buy a release from verse, for example, because the marketing was so good. I think they're buying it because they like the artists and they like the platform is like staking like a bit of reputation on them and saying like this is good, right? Come by this. And that's why it's the price point it is. And that's why we're giving it all this space. So I know you've collected on verse. So like how do you kind of feel about them being the last at least as far as I guess there's also there's one other platform, but like one of the last like really curated experiences out there. All I can say is like I've really enjoyed the projects that verse half put out, you know, obviously I'm an Eric Swan fan and several really good releases there. And I love how they're bridging that gap between the digital and the physical. I think you had maybe alluded to is this turning more towards traditional art galleries and less decentralized. And I don't think it's that I think that platforms like verse that do both is great to onboard new collectors and kind of give more legitimacy to what we're doing. Like if you have real people showing up and viewing this digital artwork, it's awesome, right? Like so I don't see it as like a long-term shift towards traditional art necessarily or anything like that. I just see it as a cool way to release cool art and they've done a great job with that. I kind of think about it two ways like I feel like there should be an open platform somewhere and I would love for it to work for like anyone who's maybe someone like me who maybe decided I want to get into coding and like I make a project that's like not not amazing, but I want to put it up there and I want to be able to like say like I published something and I know like verses never going to do that and like I've never been on art blocks. I'm never going to be able to put it there and I don't have the technical chops to like run my own website and spin up my own contract. So I feel like there is a use case and like a need for almost like a hick and nunk thing like a very like punk DIY platform to exist where anyone can publish stuff, but there just doesn't feel like now there's just doesn't feel like it's economically viable unless you just are willing to accept that it's like a one person thing. You're going to be the one person who does it and maybe some months you'll make a hundred bucks and some months you'll make ten thousand bucks and you can't be all in on it and beyond that right. Beyond almost like a hobby that with upside. Yeah so a few thoughts. Well one verse had an announcement recently about something about going
+**[27:52]** Yeah, whatever their second tier of curation was when it was reduced down to like this is an
 
-**[30:36]** fully open right? They did. Yeah I have no idea what's going on there but yeah they're moving more towards that it seems like and then yeah I mean there's other little platforms popping up like bootloader right? It's kind of like early FX hash in terms of value. So I don't think that opportunity is gone you know as someone who just wants to dabble and meant something and see see what happens. Yeah I don't understand the verse like I know that they've been expanding their contracts out to like more gallery isn't they've kind of gone through like branding and rebranding of like we're the gallery and now actually like solos is the gallery and then there's like other curators and actually now those curators aren't a part of us but they can still you know lonely's no longer there but now he's spun up his new thing the garden and his first projects of course on verse with their contracts so it's like their whole kind of identity and role in that way has been all over the place. We've interviewed Jamie probably three times over the course of the program. I feel like he's always been skeptical of the open platform idea because you want your brand like you're you know their verse brand you want to have some kind of premiums on prestige to it and the second you let anyone now jump on the platform and muck it up with random sketches then you're going to get into this problem that I think FX has struggled with which was like how do we allow anyone to publish here but also elevate and highlight and curate the projects we think are actually going to make us money and I know objects gone through that issue too of like people who have been salty and been like I've never been on the front page of an object and I've been publishing there for three years and like the whole politics of who gets front page like no variety of objects so I have no idea what their plan is for that I'm super curious to see how it all
+**[27:56]** open platform, but just for artists who have been picked before, they weren't selling out.
 
-**[32:14]** puts you just want to like also shout out object because in the midst of a potential FX has shut down having that extra layer of security in terms of the preservation is right so you're sharing and they've done an excellent job I mean the functionality of the platform I like using it more than open sea you know and they they do a combination of things you know they've done some drops with Casey Ries you know where it's like kind of long form generator art dropped on object right and I think the more options we have and the more stable platforms we have the better so just wanted to throw that out there that object has been really reassuring throughout this turmoil for sure and bootloaders like a side project from them too and they finally added p5 and like JavaScript support there as well because it was originally just like SVG and like native HTML stuff so it's it's cool that that they're there but it you know there's still tezos only one of the reasons that fs has left they felt like the artists that left them left in part because they felt collector demand to put their art on eath or they had maybe been blessed with an art blocks curation and now they had this whole like eath collector base we've kind of seen like you can't drag them back to tezos not in great numbers at least so like I think fx hash thought okay like well we need to have this other chain supported and I don't imagine that bootloader or object
+**[28:01]** Something sold out, but some things really did not perform well.
 
-**[33:32]** is ever gonna crossover yeah that'd be wild I don't fault fx hash for wanting to move towards ease and base I mean that's how they got that coin based venture funding right so you know it's unfortunate that there wasn't that kind of breakthrough moment where a big project generated a lot of hype and whatnot but it is also kind of funny as someone who loves tezos and loves tezos art to see that pretty much all the volume is tezos legacy grails right yeah so partially thanks to
+**[28:04]** So it's the exact same problem that FX hash had, which is like, it just feels like the whole
 
-**[34:01]** people I mean I so tempted to just talked about pokemon because of my history with it but I I guess I would also like to ask since you've been in the crypto space for so long and like how weak this last cycle felt not just the issue that it never shifted to NFTs really which sucked for all of my art but you know like I held Bitcoin and ETH and stuff since 2020 and missed that opportunity that window in 2021 to sell and then I just held right and I you know I finally got out close enough ish to the top in this cycle but again it was like still nowhere near the top that anyone who likes to do the charts and the cycle theory stuff would have said we were gonna get to you've been here I think one cycle longer than me or maybe even like one and a half so like what do you feel about the space in general how PVP it's become how we just seem to be getting these shallower and shallower cycles like do you hold out hope that the tech or hold out hope for it as a speculative asset at all like
+**[28:09]** community artists and collectors both turn towards being curated, getting some kind of not
 
-**[34:57]** long term yeah I mean I'm always a long term Bitcoin bull basically all I hold right now is Bitcoin and NFTs I've completely liquidated all my name tokens whatever you want to call these tokens I don't hold any ETH I don't hold any tezos long term I think that Bitcoin is the digital gold and that thesis is still great I think you know it actually makes sense to see shorter less explosive market cycles you know as that market matures and it's just completely different now I mean we have ETFs and so many ways to invest in Bitcoin and naturally it's just gonna get less volatile as it matures and you know we did see some crazy sub cycles like the Salana mean token trading was pretty insane I mean that rivals anything I've ever been a part of in crypto the stuff that was going on there it was pretty short lasted of course for another NFT cycle to happen it requires a convergence of just a lot of different factors that are timed correctly within the crypto market cycle and the global politics and all this stuff I can't say what's gonna happen and it is disappointing to not see you know like a real NFT bull run but I still feel if you're buying quality art that has historical value you'll do fine in the long on how much more buying do you think you personally will do erics want aside right but like are there other things that you're still targeting that you're like just kind of waiting and watching or putting in offers I think we moved down probably 90% twice on a lot of these projects so there's always the potential to go down again and what's $30 today could be $15 in a year like are you you're far Tyler's pretty complete because you've got all your monos you've got so many awesome ones I was actually looking at your stuff because I was like I minted them I minted a mono the one far Tyler I minted was a mono and I was disappointed and I flipped it because I was like I don't want like this is such a cool project I love the colors I got this weird mono piece and I was like I wonder if you incidentally had mine but it wasn't I think I had a green one there's probably some more stuff on verse you could be looking to get from him or other artists like I said a point where you're just gonna go like I feel like I've got enough of the old stuff or if it goes down 90% again you're gonna be back in the Farb Tyler's you know like what's well it goes down 90% again I'll be buying more garden monoliths that's right right but yeah so I still have a few goals with the Farbs obviously I'm extremely happy but I do have a couple more specific goals so I have the primary and secondary color wheel for mono outputs just a few away from getting all 12 colors including tertiary okay I didn't know you're saying that's one goal it's gonna require some outreach to you know these wallets are hard to track down and there's really only a couple mono outputs for each color so it's gonna require some help from some people but it might happen so I think that would be really incredible because it's I mean just the fact that the algorithm produced a few mono outputs from all 12 colors is pretty incredible right like it worked out so perfectly and to even be able to collect all of those is pretty insane so that's one goal I think I'm still interested in more dragons and garden monoliths to be honest I just think that you know they're the top dogs and I've only grown closer to the collections as I have been doing this grill hunting and it's kind of becoming what I'm really laser focused on and then to kind of reiterate that I've been selling Pokemon cards I have kind of been trimming down my collection to what okay obviously I love these cards but do I love them more than a garden monolith and usually the answer is no right so I will be selling some more Pokemon cards regardless of whether that market is top or not I enjoy setting off the sales bot and the discord and I think it'll happen a few more times I can't say um well I almost don't want to say too much because there are some specific pieces that I have my eye on yeah no don't don't get like and uh what do you think of that one that anonymous wallet that's been scooping up dragons and gardens for like high prices yeah I've noticed it obviously because I think it was just like a 15k tez sale of a dragon that wasn't even I mean it was a nice dragon but it was really nice to be fair yeah but it wasn't a like paper one or a gold one or or any of the other really really rare scarce ones because I think you got your gold one for like 4k or 5k tez right
+**[28:15]** even necessarily the marketing behind them.
 
-**[39:16]** so I think gold got for 6k tez as I call it the ancient dragon I got for I think 5.5 it's interesting so I actually looked into their wallet they've just been holding like 40,000 tez for a year or two did nothing with it and then suddenly started buying so did they have any stuff though like it was just a dormant tez only wallet or they had art they sent tezos from buybit and they were getting staking rewards and did absolutely nothing else until recently maybe it was someone who like lost their keys or something for an extended period of time I don't know I mean I like the pieces they've selected it all seems like they're making a statement like these prices are all a joke yeah I'm looking at what else they have here so they've got oh so they're they're FX hash wallet is only two dragons and two garden monoliths they did buy a rare tezard okay interesting this is definitely a wall to keep track of and see if they keep buying I do
+**[28:17]** Because like I don't know that I would say like someone might buy a release from verse, for example,
 
-**[40:11]** want to ask you about some Pokemon stuff so aside from collecting Pokemon when I was young and being a fan of the franchise I'm much closer to like magic the gathering on the tcg side and magic is a game that's been around for a long time since 1991 1992 has a huge history I think even you probably I don't know if you play magic but I'm sure you know what a black Lotus is just being a ccg collector right I've heard you just know it so it has these iconic cards that have escaped their core collector base and the thing that drives the value and magic almost and exclusively besides yeah being rare and old because just back then they didn't make as many cards is playability and like is the card actually good and is it using index that are you know that can win and not so much like well I should say almost there's some exceptions now but like historically not just oh this is a foil version of that right like so my impression of looking at all this Pokemon content which I get so much of on tiktok now is that a lot of its Pokemon is driven by aesthetic more than anything and the various tiers of rarity and foiling and alternate art stuff that they do so first of all like what's your background in Pokemon I assume you played way back in the day I guess we might be similarly aged and then like how does it how do you pick like how do you kind of go into a collection do you trust your eye to be like that's a cool card and I know that people are gonna want it like what's what's the driving thing behind it yes yes okay I think it's entirely aesthetics for
+**[28:20]** because the marketing was so good. I think they're buying it because they like the artists and they
 
-**[41:41]** me like the Pokemon cards that I bought in 2024 were almost exclusively vintage Japanese cards one because there's so much cheaper than the American first editions like 100 times cheaper and the holographic quality is actually better they're not as scarce and they're easier to grade so naturally they're not as valuable but that was kind of my thesis was like I love these I think they look better than the American versions and I'm just gonna hoard these and it actually played out quite well I think the vintage Japanese cards went up about five to ten acts over a course of weeks earlier in the year so yeah for me it's all about aesthetics and rarity you know I'm aware of rarity right like I keep track of you know what the pop report is so I also collect PSA 10 graded cards so you have that population report which is really helpful information when you're collecting so yeah for me it's all aesthetics has nothing to do with the playability you know I dabbled with that as a kid going to poison us and battling kids and trading and whatnot does playability even matters so much in like the high-inclectable hopped collector hobby because I so many of these cards it seems like people are sitting on sealed product or they're cracking packs and grading them it almost feels like a nightmare scenario if there's like a very desirable card that actually is competitively good because more of them will end up in slabs that index right like does the Pokemon like do the designers do they have some awareness of this and they like make sure the playable cards aren't chase like it so that way people can actually play it's a good question for the modern stuff I don't know the modern cards also have crazy designs and very busy artwork really busy artwork and textures they're cool but as far as the value goes I don't think that playability is so much associated with value from what I can tell you gotcha you mentioned the pop report thing like that to me is such a fascinating collector metric to latch on to and I've seen that you mentioned you mentioned this to you but I've seen in the videos people say like oh yeah the Japanese tens there's just too many of them the population is too high because the cards are better made and the the condition is better and so like ironically they're worth less like compared to like the trash you know US cards it's so much harder to get a 10 because they're they're misaligned or they you know they've got some already they've got some wear on the edges when you open them it's so interesting that there are these like core platforms that own and like control this information and often there are also ones doing the grading right and I see so much like great grading paranoia and conspiracy too did you buy those Japanese cards raw and
+**[28:24]** like the platform is like staking like a bit of reputation on them and saying like this is good,
 
-**[44:12]** grade them or do you buy them already graded when you I always buy them graded on eBay yeah eBay is really the only resource I use for buying and selling yeah do you buy into any of the skepticism or conspiracy around the various grading companies and like I'm sure you've seen those videos where someone's like they crack it and they'd resubmit it and it gets like two grades higher what is your impression of that stuff there's been some pretty crazy situations there I don't look too much into it there's a bias towards new certifications which is those that were more recently graded they tend to be more stringent than those that were graded years ago so there's a strong bias there but I don't look too much into it honestly if it's a 10 it's a 10 and it's actually fairly liquid like the Pokemon market you can move these things in a matter of days if you want to so I think that the PSA 10 is respected despite obviously a lot of inconsistencies that people point out that's just gonna happen right I mean it's impossible to do it I mean there are some egregious examples for sure I don't look too much into that you've just like you got in last year you've already 10x and you're like I don't even need to follow the controversy like I'm just selling and buying art like yeah so do you see yourself continuing with the hobby much or you're gonna keep the ones you like and then that's it so I have a binder full of graded PSA 10 cards and I've been kind of trimming it down as the price goes up and trying to decide what it like what is the core collection that I actually care about so I'm getting closer and closer to that so at a certain point I will have to decide like do I keep selling these or do I stop and I think we're reaching that point but I mean we'll see if we get another you know the 30th anniversary set is coming out soon and that might generate more buzz and we might get another vintage pump too so who knows if things go really crazy
+**[28:30]** right? Come by this. And that's why it's the price point it is. And that's why we're giving it all
 
-**[45:57]** I will sell almost everything for sure did you play as a kid was this so there was some nostalgia for you or did you get in for like I mostly collected I wasn't much of a player as far as yeah you know the decks and whatnot mostly just collected for fun yeah but when you decided to jump in in 2024 was it just like purely this arbitrage thing that you noticed between Japanese and American you're like this this is just too wide of a gap and like it just feels like there's too much potential that was it yeah I mean there was there was a lot of buzz around Pokemon in general right it all came full circle right and I did start you know buying the modern cards and whatnot and it just felt kind of corny and I was like looking at the prices of these cards that I that were just legendary as a kid right and they were so cheap and so it wasn't so much like oh I'm calculating that this will be a 10x you know whatever it was just wow these are cheap and I want to buy them it was kind of just like that and yeah it played out really well what you said right there is like one of the things that informed a lot of my more recent collecting and vinyl records so I got back into collecting vinyl and actually like collecting a real way about two to an half years ago and I would go on discogues which is like the main site for trading vinyl records and also it's like the database of everything I would say oh here's a record I want again you'd see the original pressing and all the subsequent represses and on some of these records like the difference in price between an original pressing from the 70s and I'm 2025 repressing is only like $20 yeah and that to me intuitively again being like a lifelong collector of various things like that doesn't make sense you know and in some cases it okay like yes there were there points in the history where they were printing so many records because it was like the most you know there was the only media format that people could get music on really but that's when I was like okay I'm gonna start collecting only first first presses because I expect that moving like if I want my collection hold any value moving forward I can't just be buying represses at Walmart and target and like you know even if the music sounds mostly the same or or comparable and so like that's exactly it I was like this this doesn't make sense that the thing seems to be a disconnect in the hobby and of course then it became a way for me to like spend a lot more money
+**[28:34]** this space. So I know you've collected on verse. So like how do you kind of feel about them being
 
-**[48:10]** in some cases yeah that's always hard but you know when you find that lane where you find something that's undervalued and it's something that you appreciate and enjoy looking at or you know in your case I don't know if you play those records but collecting them and whatever the aesthetic value is to you like that's really to me what a good collecting opportunity is right it's apparent when you're in that situation that you want to do that yeah I do play them there's some that I probably shouldn't the whole slapping thing hasn't come over to records in the big way yet I think because it is such a still a lot I don't do this yet but like a big part of the hobby for people is also their system and like fidelity and sound quality and I just don't have the space for the money to do that so for a lot of those folks owning an original this or that and then putting it under plastic it's like well then you can't play the record and then you actually can't demonstrate it's a nice copy right how else you're going to demonstrate that this is like a great it's a mint condition like but I have seen like Steve Aoki for example like he's slapping his music media that he collects and stuff so there are people out there who are like on the edge of it and starting to do that I'd be very curious to see like what the hobby looks like in five or 10 years like there's one label or one distributor now who is in addition to putting out you know their records into retail if you go to their website they'll have pre-graded copies for you to buy that's like these are tens and they'll have like 50 tens of like the Nutella Swift album up slapped yeah because getting a 10 in the wild is actually probably difficult I've never I don't know but anyway it's just like it's funny to see because I feel like it's like it's the poke modification of other hobbies right like they're seeing this out there and they know there's a premium and it's it could come over it'll be an interesting day I guess when that happens yeah I want to jump back to verse real quick so I noticed you know we talked a little bit about their curated stuff and perhaps they're they're changing the platform and you've collected some of their most recent release the brain rot stuff yeah and it's kind of been interesting seeing them between between that and the table or PFP now succeeding in this PFP space by kind of hybridizing it with art I think the table or one I mean I'm into them because they were free to me you know like the fire so that I got because of the way they dripped those out I did not meant any of the brain rot ones but it's weird right like it's clearly attracted a lot of new people to their platform who are more than happy to come in and complain in the discord oh the discord was a mess yeah lots of just yeah just a lot of green leaf users complaining yeah but is this the game now in a way like do is this gonna be the you have to have the candy to support the platform and then you're gonna have no I was just so so like for both of those projects I was just so excited to see like a 10k PFP project meant out you know like that's such a foreign concept like that's so many additions right I haven't witnessed that in so long I also love long for may I that's a whole separate topic I could talk about for 30 minutes but um it was just kind of a fun thing to mint it's cool to see it kind of succeed and you know get the floor price going up and whatnot human resources project in particular has some very devoted collectors who are really doing the the role playing thing and uh it's just kind of a fun thing like when I see those opportunities I'm still a crypto de-gen at the end of the day I'm gonna spam the mint button right like regardless of uh what I think of the art specifically but yeah uh it's just really cool to see did you ever collect on improps yes and actually so I said I could talk about this for 30 minutes I actually dropped a few projects of my own on improv oh did you that's how into it I got cool it's not something I expect people to notice but I understand as someone who's done that with AI where you're just prompting and in putting images and then you see the result after people mint it and you're like oh that wasn't quite random though it should have been more random right like there's one quite the outputs I want so it gives me more respect for generative artists and other type of artists too because like it is hard to get the set of outputs that's as diverse as you want and within your parameters so yeah and props I don't know if they're still up and running but it's cool yeah it was a very interesting platform I collected a little bit off of there and I tried also to like figure out how to mint and use their tools to create something because like every time I get I see this new stuff I always try to figure it out and see if I can release something I was never able to get their whole syntax and like the whole thing working in a way that made sense to me and then I had a you know I have a baby so yeah I gave up but I thought it was really cool and we of course talked to those guys like when it came out and I think that platform was revolutionary I mean it's it may have just been a little early in in the bear market but long for my eyes such a cool topic those brain rats really were not interesting to me aesthetically or thematically but then I know some artists who are who have also like dabbled in and they're like it's just so well done was their feedback like yeah you to do 10,000 of those and they all look in thousands a lot yeah yeah so clearly you know there must be there's there's a lot of craft to that even if it's um you know I think they're just kind of goofy yeah I can't say they resonate with me super well but still really fun yeah I think the human resources one is pretty interesting
+**[28:38]** the last at least as far as I guess there's also there's one other platform, but like one of the
 
-**[53:38]** I was skeptical of it until I listened to the table or first talks and him kind of like talking about it more I've just been holding the ones that I've got and we'll see because I know he's also like he's an artist that they're betting big on I think like long-term yeah yeah so hey it's my pfp on twitter so right yeah I found the one that I like and I'm supporting it yeah is there
+**[28:42]** last like really curated experiences out there. All I can say is like I've really enjoyed
 
-**[53:59]** anything else you want to touch on before we start wrapping up here is there anything you feel like we missed that you want to I mean we kind of touched on everything we touched on the long for may I the Pokemon you know I was like this with Zancan and Erick Swan and those collections yeah
+**[28:48]** the projects that verse half put out, you know, obviously I'm an Eric Swan fan and several really
 
-**[54:13]** cool I mean yeah I feel like we got through a lot it's been great just like chopping up with another collector and talking about the space you know I hope that we get some good news ish from FX hash yeah at some point here that would be ideal just to add on to that so I don't know if let's say FX hash were to shut down if object would perpetuate those existing listings or not but if they don't I think that would actually be really interesting to just clear the order books and have like a fresh supply and demand it's not necessarily a bad thing in the long run you'd have to think that a lot of the listing of an FX hash might not have been touched for years right some of the ones that got bought recently actually were listed years ago yeah at when when Teso's might have been a much different different price and stuff so it's interesting yeah well we're still here we're still kind of watching and lurking and making these episodes from time to time and you know thankful to folks like you who are still happy to come on and talk with us thanks for having me hope my rambling was someone entertaining oh it's great and you know best of luck with your continued collecting and in the Pokemon stuff and if you ever get into records you know hit me up I'll give you some ideas over to start cool well that was uh make llama everyone and let me
+**[28:53]** good releases there. And I love how they're bridging that gap between the digital and the physical.
+
+**[28:58]** I think you had maybe alluded to is this turning more towards traditional art galleries and
+
+**[29:04]** less decentralized. And I don't think it's that I think that platforms like verse that do both
+
+**[29:09]** is great to onboard new collectors and kind of give more legitimacy to what we're doing. Like
+
+**[29:13]** if you have real people showing up and viewing this digital artwork, it's awesome, right? Like
+
+**[29:18]** so I don't see it as like a long-term shift towards traditional art necessarily or anything like
+
+**[29:23]** that. I just see it as a cool way to release cool art and they've done a great job with that.
+
+**[29:29]** I kind of think about it two ways like I feel like there should be an open platform somewhere
+
+**[29:35]** and I would love for it to work for like anyone who's maybe someone like me who maybe decided I
+
+**[29:39]** want to get into coding and like I make a project that's like not not amazing, but I want to put it
+
+**[29:44]** up there and I want to be able to like say like I published something and I know like verses never
+
+**[29:49]** going to do that and like I've never been on art blocks. I'm never going to be able to put it
+
+**[29:53]** there and I don't have the technical chops to like run my own website and spin up my own contract.
+
+**[29:59]** So I feel like there is a use case and like a need for almost like a hick and nunk thing like a
+
+**[30:05]** very like punk DIY platform to exist where anyone can publish stuff, but there just doesn't feel
+
+**[30:11]** like now there's just doesn't feel like it's economically viable unless you just are willing to
+
+**[30:15]** accept that it's like a one person thing. You're going to be the one person who does it and maybe
+
+**[30:19]** some months you'll make a hundred bucks and some months you'll make ten thousand bucks and you
+
+**[30:23]** can't be all in on it and beyond that right. Beyond almost like a hobby that with upside.
+
+**[30:29]** Yeah so a few thoughts. Well one verse had an announcement recently about something about going
+
+**[30:36]** fully open right? They did. Yeah I have no idea what's going on there but yeah they're moving
+
+**[30:41]** more towards that it seems like and then yeah I mean there's other little platforms popping up
+
+**[30:46]** like bootloader right? It's kind of like early FX hash in terms of value. So I don't think that
+
+**[30:52]** opportunity is gone you know as someone who just wants to dabble and meant something and see
+
+**[30:56]** see what happens. Yeah I don't understand the verse like I know that they've been expanding their
+
+**[31:01]** contracts out to like more gallery isn't they've kind of gone through like branding and rebranding
+
+**[31:06]** of like we're the gallery and now actually like solos is the gallery and then there's like other
+
+**[31:11]** curators and actually now those curators aren't a part of us but they can still you know lonely's
+
+**[31:15]** no longer there but now he's spun up his new thing the garden and his first projects of course
+
+**[31:19]** on verse with their contracts so it's like their whole kind of identity and role in that way has
+
+**[31:25]** been all over the place. We've interviewed Jamie probably three times over the course of the
+
+**[31:29]** program. I feel like he's always been skeptical of the open platform idea because you want your
+
+**[31:36]** brand like you're you know their verse brand you want to have some kind of premiums on prestige to
+
+**[31:40]** it and the second you let anyone now jump on the platform and muck it up with random sketches
+
+**[31:46]** then you're going to get into this problem that I think FX has struggled with which was like
+
+**[31:50]** how do we allow anyone to publish here but also elevate and highlight and curate the projects we
+
+**[31:57]** think are actually going to make us money and I know objects gone through that issue too of like
+
+**[32:00]** people who have been salty and been like I've never been on the front page of an object and I've
+
+**[32:04]** been publishing there for three years and like the whole politics of who gets front page like no
+
+**[32:08]** variety of objects so I have no idea what their plan is for that I'm super curious to see how it all
+
+**[32:14]** puts you just want to like also shout out object because in the midst of a potential FX has shut down
+
+**[32:19]** having that extra layer of security in terms of the preservation is right so you're sharing and
+
+**[32:25]** they've done an excellent job I mean the functionality of the platform I like using it more than
+
+**[32:29]** open sea you know and they they do a combination of things you know they've done some drops with
+
+**[32:34]** Casey Ries you know where it's like kind of long form generator art dropped on object right and
+
+**[32:39]** I think the more options we have and the more stable platforms we have the better so just wanted
+
+**[32:44]** to throw that out there that object has been really reassuring throughout this turmoil for sure
+
+**[32:49]** and bootloaders like a side project from them too and they finally added p5 and like
+
+**[32:54]** JavaScript support there as well because it was originally just like SVG and like native HTML stuff
+
+**[32:59]** so it's it's cool that that they're there but it you know there's still tezos only one of the
+
+**[33:04]** reasons that fs has left they felt like the artists that left them left in part because they
+
+**[33:09]** felt collector demand to put their art on eath or they had maybe been blessed with an art
+
+**[33:14]** blocks curation and now they had this whole like eath collector base we've kind of seen like you
+
+**[33:19]** can't drag them back to tezos not in great numbers at least so like I think fx hash thought okay
+
+**[33:25]** like well we need to have this other chain supported and I don't imagine that bootloader or object
+
+**[33:32]** is ever gonna crossover yeah that'd be wild I don't fault fx hash for wanting to move towards
+
+**[33:39]** ease and base I mean that's how they got that coin based venture funding right so you know it's
+
+**[33:44]** unfortunate that there wasn't that kind of breakthrough moment where a big project generated a lot
+
+**[33:50]** of hype and whatnot but it is also kind of funny as someone who loves tezos and loves tezos art
+
+**[33:55]** to see that pretty much all the volume is tezos legacy grails right yeah so partially thanks to
+
+**[34:01]** people I mean I so tempted to just talked about pokemon because of my history with it but I I guess
+
+**[34:07]** I would also like to ask since you've been in the crypto space for so long and like how weak this last
+
+**[34:13]** cycle felt not just the issue that it never shifted to NFTs really which sucked for all of my art
+
+**[34:19]** but you know like I held Bitcoin and ETH and stuff since 2020 and missed that opportunity that window
+
+**[34:25]** in 2021 to sell and then I just held right and I you know I finally got out close enough ish to the
+
+**[34:30]** top in this cycle but again it was like still nowhere near the top that anyone who likes to do the charts
+
+**[34:36]** and the cycle theory stuff would have said we were gonna get to you've been here I think one
+
+**[34:42]** cycle longer than me or maybe even like one and a half so like what do you feel about the space in
+
+**[34:46]** general how PVP it's become how we just seem to be getting these shallower and shallower cycles
+
+**[34:52]** like do you hold out hope that the tech or hold out hope for it as a speculative asset at all like
+
+**[34:57]** long term yeah I mean I'm always a long term Bitcoin bull basically all I hold right now is Bitcoin
+
+**[35:03]** and NFTs I've completely liquidated all my name tokens whatever you want to call these tokens
+
+**[35:09]** I don't hold any ETH I don't hold any tezos long term I think that Bitcoin is the digital gold
+
+**[35:15]** and that thesis is still great I think you know it actually makes sense to see shorter less explosive
+
+**[35:21]** market cycles you know as that market matures and it's just completely different now I mean we have
+
+**[35:26]** ETFs and so many ways to invest in Bitcoin and naturally it's just gonna get less volatile as it
+
+**[35:32]** matures and you know we did see some crazy sub cycles like the Salana mean token trading was pretty
+
+**[35:40]** insane I mean that rivals anything I've ever been a part of in crypto the stuff that was going on
+
+**[35:44]** there it was pretty short lasted of course for another NFT cycle to happen it requires a
+
+**[35:51]** convergence of just a lot of different factors that are timed correctly within the crypto market
+
+**[35:56]** cycle and the global politics and all this stuff I can't say what's gonna happen and it is
+
+**[36:03]** disappointing to not see you know like a real NFT bull run but I still feel if you're buying
+
+**[36:08]** quality art that has historical value you'll do fine in the long on how much more buying
+
+**[36:16]** do you think you personally will do erics want aside right but like are there other things that
+
+**[36:22]** you're still targeting that you're like just kind of waiting and watching or putting in offers
+
+**[36:27]** I think we moved down probably 90% twice on a lot of these projects so there's always the potential
+
+**[36:32]** to go down again and what's $30 today could be $15 in a year like are you you're far
+
+**[36:38]** Tyler's pretty complete because you've got all your monos you've got so many awesome ones I was
+
+**[36:43]** actually looking at your stuff because I was like I minted them I minted a mono the one far
+
+**[36:47]** Tyler I minted was a mono and I was disappointed and I flipped it because I was like I don't want like
+
+**[36:52]** this is such a cool project I love the colors I got this weird mono piece and I was like I wonder
+
+**[36:56]** if you incidentally had mine but it wasn't I think I had a green one there's probably some more
+
+**[37:01]** stuff on verse you could be looking to get from him or other artists like I said a point where
+
+**[37:04]** you're just gonna go like I feel like I've got enough of the old stuff or if it goes down 90%
+
+**[37:10]** again you're gonna be back in the Farb Tyler's you know like what's well it goes down 90% again I'll
+
+**[37:16]** be buying more garden monoliths that's right right but yeah so I still have a few goals with the
+
+**[37:21]** Farbs obviously I'm extremely happy but I do have a couple more specific goals so I have the
+
+**[37:26]** primary and secondary color wheel for mono outputs just a few away from getting all 12 colors including
+
+**[37:34]** tertiary okay I didn't know you're saying that's one goal it's gonna require some outreach to you
+
+**[37:38]** know these wallets are hard to track down and there's really only a couple mono outputs for each color
+
+**[37:42]** so it's gonna require some help from some people but it might happen so I think that would be
+
+**[37:47]** really incredible because it's I mean just the fact that the algorithm produced a few mono outputs
+
+**[37:54]** from all 12 colors is pretty incredible right like it worked out so perfectly and to even be able
+
+**[38:00]** to collect all of those is pretty insane so that's one goal I think I'm still interested in more
+
+**[38:05]** dragons and garden monoliths to be honest I just think that you know they're the top dogs and
+
+**[38:09]** I've only grown closer to the collections as I have been doing this grill hunting and it's kind of
+
+**[38:14]** becoming what I'm really laser focused on and then to kind of reiterate that I've been selling
+
+**[38:19]** Pokemon cards I have kind of been trimming down my collection to what okay obviously I love these
+
+**[38:25]** cards but do I love them more than a garden monolith and usually the answer is no right so I will
+
+**[38:31]** be selling some more Pokemon cards regardless of whether that market is top or not I enjoy setting off
+
+**[38:36]** the sales bot and the discord and I think it'll happen a few more times I can't say um well I almost
+
+**[38:42]** don't want to say too much because there are some specific pieces that I have my eye on yeah no
+
+**[38:47]** don't don't get like and uh what do you think of that one that anonymous wallet that's been
+
+**[38:52]** scooping up dragons and gardens for like high prices yeah I've noticed it obviously because I
+
+**[38:59]** think it was just like a 15k tez sale of a dragon that wasn't even I mean it was a nice dragon but it
+
+**[39:04]** was really nice to be fair yeah but it wasn't a like paper one or a gold one or or any of the other
+
+**[39:10]** really really rare scarce ones because I think you got your gold one for like 4k or 5k tez right
+
+**[39:16]** so I think gold got for 6k tez as I call it the ancient dragon I got for I think 5.5
+
+**[39:23]** it's interesting so I actually looked into their wallet they've just been holding like 40,000
+
+**[39:27]** tez for a year or two did nothing with it and then suddenly started buying so did they have any
+
+**[39:34]** stuff though like it was just a dormant tez only wallet or they had art they sent tezos from
+
+**[39:39]** buybit and they were getting staking rewards and did absolutely nothing else until recently
+
+**[39:46]** maybe it was someone who like lost their keys or something for an extended period of time I don't
+
+**[39:50]** know I mean I like the pieces they've selected it all seems like they're making a statement like
+
+**[39:54]** these prices are all a joke yeah I'm looking at what else they have here so they've got oh so
+
+**[39:59]** they're they're FX hash wallet is only two dragons and two garden monoliths they did buy a rare
+
+**[40:04]** tezard okay interesting this is definitely a wall to keep track of and see if they keep buying I do
+
+**[40:11]** want to ask you about some Pokemon stuff so aside from collecting Pokemon when I was young and
+
+**[40:16]** being a fan of the franchise I'm much closer to like magic the gathering on the tcg side
+
+**[40:22]** and magic is a game that's been around for a long time since 1991 1992 has a huge history I think even
+
+**[40:29]** you probably I don't know if you play magic but I'm sure you know what a black Lotus is just being a
+
+**[40:32]** ccg collector right I've heard you just know it so it has these iconic cards that have escaped their
+
+**[40:38]** core collector base and the thing that drives the value and magic almost and exclusively besides
+
+**[40:45]** yeah being rare and old because just back then they didn't make as many cards is playability and like
+
+**[40:52]** is the card actually good and is it using index that are you know that can win and not so much like
+
+**[40:58]** well I should say almost there's some exceptions now but like historically not just oh this is a
+
+**[41:03]** foil version of that right like so my impression of looking at all this Pokemon content which I
+
+**[41:09]** get so much of on tiktok now is that a lot of its Pokemon is driven by aesthetic more than anything
+
+**[41:16]** and the various tiers of rarity and foiling and alternate art stuff that they do so first of all
+
+**[41:23]** like what's your background in Pokemon I assume you played way back in the day I guess we might
+
+**[41:28]** be similarly aged and then like how does it how do you pick like how do you kind of go into a
+
+**[41:32]** collection do you trust your eye to be like that's a cool card and I know that people are gonna want
+
+**[41:36]** it like what's what's the driving thing behind it yes yes okay I think it's entirely aesthetics for
+
+**[41:41]** me like the Pokemon cards that I bought in 2024 were almost exclusively vintage Japanese cards
+
+**[41:48]** one because there's so much cheaper than the American first editions like 100 times cheaper
+
+**[41:53]** and the holographic quality is actually better they're not as scarce and they're easier to grade
+
+**[41:58]** so naturally they're not as valuable but that was kind of my thesis was like I love these I think
+
+**[42:02]** they look better than the American versions and I'm just gonna hoard these and it actually played
+
+**[42:08]** out quite well I think the vintage Japanese cards went up about five to ten acts over a course of
+
+**[42:13]** weeks earlier in the year so yeah for me it's all about aesthetics and rarity you know I'm aware
+
+**[42:18]** of rarity right like I keep track of you know what the pop report is so I also collect PSA 10 graded
+
+**[42:24]** cards so you have that population report which is really helpful information when you're collecting
+
+**[42:29]** so yeah for me it's all aesthetics has nothing to do with the playability you know I dabbled
+
+**[42:34]** with that as a kid going to poison us and battling kids and trading and whatnot does playability
+
+**[42:40]** even matters so much in like the high-inclectable hopped collector hobby because I so many of these cards
+
+**[42:45]** it seems like people are sitting on sealed product or they're cracking packs and grading them it
+
+**[42:51]** almost feels like a nightmare scenario if there's like a very desirable card that actually is
+
+**[42:55]** competitively good because more of them will end up in slabs that index right like does the
+
+**[43:00]** Pokemon like do the designers do they have some awareness of this and they like make sure the
+
+**[43:04]** playable cards aren't chase like it so that way people can actually play it's a good question for
+
+**[43:09]** the modern stuff I don't know the modern cards also have crazy designs and very busy artwork
+
+**[43:15]** really busy artwork and textures they're cool but as far as the value goes I don't think that
+
+**[43:20]** playability is so much associated with value from what I can tell you gotcha you mentioned the
+
+**[43:27]** pop report thing like that to me is such a fascinating collector metric to latch on to and I've
+
+**[43:33]** seen that you mentioned you mentioned this to you but I've seen in the videos people say like oh yeah
+
+**[43:37]** the Japanese tens there's just too many of them the population is too high because the cards are
+
+**[43:41]** better made and the the condition is better and so like ironically they're worth less like compared
+
+**[43:47]** to like the trash you know US cards it's so much harder to get a 10 because they're they're misaligned
+
+**[43:52]** or they you know they've got some already they've got some wear on the edges when you open them
+
+**[43:56]** it's so interesting that there are these like core platforms that
+
+**[44:02]** own and like control this information and often there are also ones doing the grading right and I
+
+**[44:05]** see so much like great grading paranoia and conspiracy too did you buy those Japanese cards raw and
+
+**[44:12]** grade them or do you buy them already graded when you I always buy them graded on eBay yeah eBay
+
+**[44:17]** is really the only resource I use for buying and selling yeah do you buy into any of the skepticism
+
+**[44:24]** or conspiracy around the various grading companies and like I'm sure you've seen those videos where
+
+**[44:30]** someone's like they crack it and they'd resubmit it and it gets like two grades higher what is
+
+**[44:34]** your impression of that stuff there's been some pretty crazy situations there I don't look too much
+
+**[44:39]** into it there's a bias towards new certifications which is those that were more recently graded they
+
+**[44:45]** tend to be more stringent than those that were graded years ago so there's a strong bias there
+
+**[44:50]** but I don't look too much into it honestly if it's a 10 it's a 10 and it's actually fairly liquid
+
+**[44:55]** like the Pokemon market you can move these things in a matter of days if you want to so I think that
+
+**[45:01]** the PSA 10 is respected despite obviously a lot of inconsistencies that people point out that's
+
+**[45:07]** just gonna happen right I mean it's impossible to do it I mean there are some egregious examples
+
+**[45:12]** for sure I don't look too much into that you've just like you got in last year you've already 10x
+
+**[45:18]** and you're like I don't even need to follow the controversy like I'm just selling and buying art
+
+**[45:21]** like yeah so do you see yourself continuing with the hobby much or you're gonna keep the ones you
+
+**[45:26]** like and then that's it so I have a binder full of graded PSA 10 cards and I've been kind of trimming
+
+**[45:31]** it down as the price goes up and trying to decide what it like what is the core collection that I
+
+**[45:37]** actually care about so I'm getting closer and closer to that so at a certain point I will have to
+
+**[45:41]** decide like do I keep selling these or do I stop and I think we're reaching that point but I mean
+
+**[45:47]** we'll see if we get another you know the 30th anniversary set is coming out soon and that might
+
+**[45:52]** generate more buzz and we might get another vintage pump too so who knows if things go really crazy
+
+**[45:57]** I will sell almost everything for sure did you play as a kid was this so there was some nostalgia
+
+**[46:03]** for you or did you get in for like I mostly collected I wasn't much of a player as far as yeah
+
+**[46:09]** you know the decks and whatnot mostly just collected for fun yeah but when you decided to
+
+**[46:13]** jump in in 2024 was it just like purely this arbitrage thing that you noticed between Japanese
+
+**[46:18]** and American you're like this this is just too wide of a gap and like it just feels like there's
+
+**[46:21]** too much potential that was it yeah I mean there was there was a lot of buzz around Pokemon in general
+
+**[46:27]** right it all came full circle right and I did start you know buying the modern cards and whatnot
+
+**[46:32]** and it just felt kind of corny and I was like looking at the prices of these cards that I
+
+**[46:36]** that were just legendary as a kid right and they were so cheap and so it wasn't so much like
+
+**[46:42]** oh I'm calculating that this will be a 10x you know whatever it was just wow these are cheap
+
+**[46:47]** and I want to buy them it was kind of just like that and yeah it played out really well
+
+**[46:52]** what you said right there is like one of the things that informed a lot of my more recent
+
+**[46:56]** collecting and vinyl records so I got back into collecting vinyl and actually like collecting a
+
+**[47:01]** real way about two to an half years ago and I would go on discogues which is like the main site for
+
+**[47:07]** trading vinyl records and also it's like the database of everything I would say oh here's a record
+
+**[47:12]** I want again you'd see the original pressing and all the subsequent represses and on some of these
+
+**[47:17]** records like the difference in price between an original pressing from the 70s and I'm 2025
+
+**[47:22]** repressing is only like $20 yeah and that to me intuitively again being like a lifelong collector
+
+**[47:30]** of various things like that doesn't make sense you know and in some cases it okay like yes there
+
+**[47:36]** were there points in the history where they were printing so many records because it was like the
+
+**[47:39]** most you know there was the only media format that people could get music on really but that's
+
+**[47:45]** when I was like okay I'm gonna start collecting only first first presses because I expect that
+
+**[47:51]** moving like if I want my collection hold any value moving forward I can't just be buying represses
+
+**[47:56]** at Walmart and target and like you know even if the music sounds mostly the same or or comparable
+
+**[48:02]** and so like that's exactly it I was like this this doesn't make sense that the thing seems to be a
+
+**[48:06]** disconnect in the hobby and of course then it became a way for me to like spend a lot more money
+
+**[48:10]** in some cases yeah that's always hard but you know when you find that lane where you find something
+
+**[48:15]** that's undervalued and it's something that you appreciate and enjoy looking at or you know in your
+
+**[48:20]** case I don't know if you play those records but collecting them and whatever the aesthetic value is
+
+**[48:24]** to you like that's really to me what a good collecting opportunity is right it's apparent when
+
+**[48:30]** you're in that situation that you want to do that yeah I do play them there's some that I probably
+
+**[48:36]** shouldn't the whole slapping thing hasn't come over to records in the big way yet I think because it
+
+**[48:41]** is such a still a lot I don't do this yet but like a big part of the hobby for people is also their
+
+**[48:47]** system and like fidelity and sound quality and I just don't have the space for the money to do that
+
+**[48:52]** so for a lot of those folks owning an original this or that and then putting it under plastic it's
+
+**[48:59]** like well then you can't play the record and then you actually can't demonstrate it's a nice copy
+
+**[49:04]** right how else you're going to demonstrate that this is like a great it's a mint condition like
+
+**[49:09]** but I have seen like Steve Aoki for example like he's slapping his music media that he collects
+
+**[49:15]** and stuff so there are people out there who are like on the edge of it and starting to do that
+
+**[49:20]** I'd be very curious to see like what the hobby looks like in five or 10 years like there's one
+
+**[49:24]** label or one distributor now who is in addition to putting out you know their records into retail if
+
+**[49:32]** you go to their website they'll have pre-graded copies for you to buy that's like these are tens and
+
+**[49:39]** they'll have like 50 tens of like the Nutella Swift album up slapped yeah because getting a
+
+**[49:44]** 10 in the wild is actually probably difficult I've never I don't know but anyway it's just like it's
+
+**[49:48]** funny to see because I feel like it's like it's the poke modification of other hobbies right like
+
+**[49:51]** they're seeing this out there and they know there's a premium and it's it could come over it'll be
+
+**[49:57]** an interesting day I guess when that happens yeah I want to jump back to verse real quick so I noticed
+
+**[50:03]** you know we talked a little bit about their curated stuff and perhaps they're they're changing
+
+**[50:06]** the platform and you've collected some of their most recent release the brain rot stuff yeah and
+
+**[50:13]** it's kind of been interesting seeing them between between that and the table or PFP now
+
+**[50:19]** succeeding in this PFP space by kind of hybridizing it with art I think the table or one I mean
+
+**[50:26]** I'm into them because they were free to me you know like the fire so that I got because of the way
+
+**[50:31]** they dripped those out I did not meant any of the brain rot ones but it's weird right like it's
+
+**[50:36]** clearly attracted a lot of new people to their platform who are more than happy to come in and
+
+**[50:40]** complain in the discord oh the discord was a mess yeah lots of just yeah just a lot of green leaf
+
+**[50:47]** users complaining yeah but is this the game now in a way like do is this gonna be the you have to
+
+**[50:55]** have the candy to support the platform and then you're gonna have no I was just so so like for both
+
+**[51:00]** of those projects I was just so excited to see like a 10k PFP project meant out you know like
+
+**[51:08]** that's such a foreign concept like that's so many additions right I haven't witnessed that
+
+**[51:11]** in so long I also love long for may I that's a whole separate topic I could talk about for 30
+
+**[51:16]** minutes but um it was just kind of a fun thing to mint it's cool to see it kind of succeed and
+
+**[51:21]** you know get the floor price going up and whatnot human resources project in particular has
+
+**[51:28]** some very devoted collectors who are really doing the the role playing thing and uh it's just kind
+
+**[51:34]** of a fun thing like when I see those opportunities I'm still a crypto de-gen at the end of the day
+
+**[51:38]** I'm gonna spam the mint button right like regardless of uh what I think of the art specifically but yeah
+
+**[51:44]** uh it's just really cool to see did you ever collect on improps yes and actually so I said I could
+
+**[51:50]** talk about this for 30 minutes I actually dropped a few projects of my own on improv oh did you
+
+**[51:54]** that's how into it I got cool it's not something I expect people to notice but I understand as
+
+**[52:00]** someone who's done that with AI where you're just prompting and in putting images and then you see
+
+**[52:05]** the result after people mint it and you're like oh that wasn't quite random though it should have
+
+**[52:10]** been more random right like there's one quite the outputs I want so it gives me more respect for
+
+**[52:15]** generative artists and other type of artists too because like it is hard to get the set of outputs
+
+**[52:20]** that's as diverse as you want and within your parameters so yeah and props I don't know if they're
+
+**[52:25]** still up and running but it's cool yeah it was a very interesting platform I collected a little
+
+**[52:30]** bit off of there and I tried also to like figure out how to mint and use their tools to create something
+
+**[52:36]** because like every time I get I see this new stuff I always try to figure it out and see if I can
+
+**[52:41]** release something I was never able to get their whole syntax and like the whole thing working in a
+
+**[52:48]** way that made sense to me and then I had a you know I have a baby so yeah I gave up but I thought it
+
+**[52:54]** was really cool and we of course talked to those guys like when it came out and I think that
+
+**[52:58]** platform was revolutionary I mean it's it may have just been a little early in in the bear market but
+
+**[53:04]** long for my eyes such a cool topic those brain rats really were not interesting to me aesthetically
+
+**[53:10]** or thematically but then I know some artists who are who have also like dabbled in and they're like
+
+**[53:15]** it's just so well done was their feedback like yeah you to do 10,000 of those and they all look
+
+**[53:19]** in thousands a lot yeah yeah so clearly you know there must be there's there's a lot of craft
+
+**[53:25]** to that even if it's um you know I think they're just kind of goofy yeah I can't say they resonate
+
+**[53:32]** with me super well but still really fun yeah I think the human resources one is pretty interesting
+
+**[53:38]** I was skeptical of it until I listened to the table or first talks and him kind of like talking
+
+**[53:43]** about it more I've just been holding the ones that I've got and we'll see because I know he's also
+
+**[53:48]** like he's an artist that they're betting big on I think like long-term yeah yeah so hey it's
+
+**[53:53]** my pfp on twitter so right yeah I found the one that I like and I'm supporting it yeah is there
+
+**[53:59]** anything else you want to touch on before we start wrapping up here is there anything you feel
+
+**[54:03]** like we missed that you want to I mean we kind of touched on everything we touched on the long
+
+**[54:07]** for may I the Pokemon you know I was like this with Zancan and Erick Swan and those collections yeah
+
+**[54:13]** cool I mean yeah I feel like we got through a lot it's been great just like chopping up with another
+
+**[54:17]** collector and talking about the space you know I hope that we get some good news ish from FX hash
+
+**[54:23]** yeah at some point here that would be ideal just to add on to that so I don't know if let's say
+
+**[54:31]** FX hash were to shut down if object would perpetuate those existing listings or not but if they
+
+**[54:37]** don't I think that would actually be really interesting to just clear the order books and have like
+
+**[54:42]** a fresh supply and demand it's not necessarily a bad thing in the long run you'd have to think that
+
+**[54:47]** a lot of the listing of an FX hash might not have been touched for years right some of the ones
+
+**[54:52]** that got bought recently actually were listed years ago yeah at when when Teso's might have been a
+
+**[54:57]** much different different price and stuff so it's interesting yeah well we're still here we're
+
+**[55:03]** still kind of watching and lurking and making these episodes from time to time and you know
+
+**[55:07]** thankful to folks like you who are still happy to come on and talk with us thanks for having me
+
+**[55:11]** hope my rambling was someone entertaining oh it's great and you know best of luck with your
+
+**[55:15]** continued collecting and in the Pokemon stuff and if you ever get into records you know hit me up
+
+**[55:21]** I'll give you some ideas over to start cool well that was uh make llama everyone and let me
 
 **[55:28]** I thought I had your Twitter up here I'm gonna plug it for you really quick my tag is pompous
 
 **[55:34]** pompous out well maybe we should close on this where where the make llama name come from yeah
 
-**[55:38]** that's actually a great question so back in 2017 everyone on crypto twitter was basically some sort of animal you had wasses which are some unidentified animal creature thing but um I started out as the pompous llama that's how I created the account and it was kind of a real life nickname that someone had passively given me and I thought it was kind of funny so that's how it started and then uh it was too long to type in as a twitter tag and so it was just pompous ll instead of pompous llama then the bear market happened and people started putting uh McDonald's hats on people's uh pfp's and so then I turned into mcglamon like I had the you know the joe being that we're all going to remember that yeah um so that's kind of how mcglamon started and that's just the name that up and it stuck and how people know me so yeah here you go well throw throw them a follow at pompous ll and we'll put all that down below and we'll link to your raster collection to so people can browse that and see all the farm tyler's and the other great stuff that you've collected there I scroll through you've you've got stuff from all areas that effects hash and you've got a bunch of um AI and other digital art stuff too like I see a lot of this artist culture hacker here too and like i'm yeah i like glitch art as well yeah yeah and uh some john j-j-j-j-j-j-john stuff so you've definitely you've definitely been around for a minute collecting all this stuff that's it for this one i think everyone i hope you all enjoyed big thanks mcglamon for coming on talking to us and thanks to everyone who's still active in fx hash i see all of you in the discord reacting to purchases everyone who's active is a legend right now that's nice legendary status achieved
+**[55:38]** that's actually a great question so back in 2017 everyone on crypto twitter was basically some sort of
+
+**[55:44]** animal you had wasses which are some unidentified animal creature thing but um I started out as the
+
+**[55:50]** pompous llama that's how I created the account and it was kind of a real life nickname that someone
+
+**[55:55]** had passively given me and I thought it was kind of funny so that's how it started and then uh it
+
+**[56:00]** was too long to type in as a twitter tag and so it was just pompous ll instead of pompous llama
+
+**[56:06]** then the bear market happened and people started putting uh McDonald's hats on people's uh
+
+**[56:11]** pfp's and so then I turned into mcglamon like I had the you know the joe being that we're all going to
+
+**[56:16]** remember that yeah um so that's kind of how mcglamon started and that's just the name that up
+
+**[56:23]** and it stuck and how people know me so yeah here you go well throw throw them a follow at pompous ll
+
+**[56:29]** and we'll put all that down below and we'll link to your raster collection to so people can
+
+**[56:33]** browse that and see all the farm tyler's and the other great stuff that you've collected there
+
+**[56:38]** I scroll through you've you've got stuff from all areas that effects hash and you've got a bunch of
+
+**[56:42]** um AI and other digital art stuff too like I see a lot of this artist culture hacker
+
+**[56:47]** here too and like i'm yeah i like glitch art as well yeah yeah and uh some john j-j-j-j-j-j-john stuff so
+
+**[56:53]** you've definitely you've definitely been around for a minute collecting all this stuff that's it for
+
+**[56:58]** this one i think everyone i hope you all enjoyed big thanks mcglamon for coming on talking to us
+
+**[57:04]** and thanks to everyone who's still active in fx hash i see all of you in the discord reacting to
+
+**[57:09]** purchases everyone who's active is a legend right now that's nice legendary status achieved
 
 **[57:17]** cool man well thanks again for coming on hope you all enjoyed and uh yeah we'll be back again
 
