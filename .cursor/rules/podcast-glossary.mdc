@@ -12,9 +12,10 @@ alwaysApply: false
 
 - 節目名：Waiting To Be Signed
 - 平台／網站：fxhash、Tezos、Art Blocks、Hicetnunc、objkt、verse、Zora、OpenSea、Raster
-- 人名：McLlama、Zancan、Yazid、Erick Calderon、William Mapan、Will、Trinity 等
-- 平台／社群：Discord（勿譯為「不和諧」）
-- 術語：mint（勿譯為「薄荷」）
+- 人名：McLlama、Zancan、Yazid、Erik Swahn、ciphrd、Nftbiker、William Mapan、Will、Trinity 等
+- 平台／社群：Discord（勿譯為「不和諧」或「迪斯科」）、Hic Et Nunc
+- fxhash 類型：Param、FX Text、open form
+- 術語：mint、token、L2、flip（勿譯為「薄荷」「令牌」「第 2 層」「短貼紙」）
 - 常見專有名詞：見 `glossary.json` 的 `protected_terms`
 
 ## 翻譯後修正
