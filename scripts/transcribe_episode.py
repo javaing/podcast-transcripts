@@ -10,6 +10,7 @@ from pathlib import Path
 
 import whisper
 from deep_translator import GoogleTranslator
+from deep_translator.exceptions import TranslationNotFound
 
 from dialogue import assign_speakers, format_turns_markdown, format_turns_text, group_turns
 from glossary import (
@@ -50,15 +51,29 @@ def chunk_text(text: str, max_len: int = 4500) -> list[str]:
 
 
 def _translate_chunk(translator: GoogleTranslator, text: str) -> str:
+    text = text.strip()
+    if not text:
+        return ""
+
     for attempt in range(3):
         try:
             return translator.translate(text)
-        except Exception as exc:
+        except TranslationNotFound:
+            if len(text) > 200:
+                mid = len(text) // 2
+                split_at = text.rfind(" ", max(0, mid - 120), min(len(text), mid + 120))
+                if split_at <= 0:
+                    split_at = mid
+                left = _translate_chunk(translator, text[:split_at])
+                right = _translate_chunk(translator, text[split_at:].strip())
+                return f"{left} {right}".strip()
+            return text
+        except Exception:
             if attempt == 2:
                 raise
-            print(f"    retry after error: {exc}")
+            print(f"    retry after error ({type(translator).__name__})", flush=True)
             time.sleep(2 * (attempt + 1))
-    return ""
+    return text
 
 
 def translate_to_zh_tw(text: str) -> str:
@@ -70,18 +85,21 @@ def translate_to_zh_tw(text: str) -> str:
     translator = GoogleTranslator(source="en", target="zh-TW")
     translated_paragraphs: list[str] = []
     total_chunks = 0
-    for para in paragraphs:
+    for i, para in enumerate(paragraphs, 1):
+        if i == 1 or i % 25 == 0 or i == len(paragraphs):
+            print(f"  translating paragraph {i}/{len(paragraphs)}", flush=True)
         protected, mapping = protect_terms(para, glossary["protected_terms"])
         parts = chunk_text(protected)
         total_chunks += len(parts)
         translated_parts: list[str] = []
         for part in parts:
             translated_parts.append(_translate_chunk(translator, part))
+            time.sleep(0.15)
         zh_para = restore_terms(" ".join(translated_parts), mapping)
         zh_para = fix_leaked_placeholders(zh_para, glossary["protected_terms"])
         translated_paragraphs.append(apply_corrections(zh_para, glossary["corrections"]))
 
-    print(f"  translated {len(paragraphs)} paragraphs ({total_chunks} API chunks)")
+    print(f"  translated {len(paragraphs)} paragraphs ({total_chunks} API chunks)", flush=True)
     return "\n\n".join(translated_paragraphs)
 
 

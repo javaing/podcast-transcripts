@@ -1,6 +1,9 @@
 # Audio and processing artifacts
 transcripts/**/episode.mp3
 transcripts/**/process.log
+transcripts/**/_emb_cache.npy
+transcripts/**/_emb_idx.npy
+reformat*.log
 __pycache__/
 *.pyc
 .DS_Store

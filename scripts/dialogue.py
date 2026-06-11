@@ -9,7 +9,6 @@ from pathlib import Path
 import numpy as np
 import torch
 import torchaudio
-from sklearn.cluster import AgglomerativeClustering
 
 _W2V_MODEL = None
 _W2V_BUNDLE = torchaudio.pipelines.WAV2VEC2_BASE
@@ -72,14 +71,10 @@ def _embed_clip(model, clip: np.ndarray) -> np.ndarray:
     return features[-1].mean(dim=1).squeeze().cpu().numpy()
 
 
-def assign_speakers(
+def _segment_embeddings(
     audio_path: Path,
     segments: list[dict],
-    *,
-    max_speakers: int = 3,
-) -> list[dict]:
-    """Assign a speaker cluster id to each whisper segment."""
-    print("Diarizing speakers...")
+) -> tuple[list[int], np.ndarray]:
     wav, sr = load_audio(audio_path)
     model = _get_w2v_model()
 
@@ -93,44 +88,80 @@ def assign_speakers(
         embeddings.append(_embed_clip(model, clip))
         valid_indices.append(i)
         if (i + 1) % 100 == 0:
-            print(f"  embedded {i + 1}/{total} segments")
+            print(f"  embedded {i + 1}/{total} segments", flush=True)
 
     if not embeddings:
-        return [{**seg, "speaker": 0} for seg in segments]
+        return [], np.empty((0, 0))
 
     matrix = np.vstack(embeddings)
-    best_labels = None
-    best_score = -1.0
-    for n in range(2, min(max_speakers, len(embeddings)) + 1):
-        clustering = AgglomerativeClustering(n_clusters=n, metric="cosine", linkage="average")
-        labels = clustering.fit_predict(matrix)
-        counts = np.bincount(labels)
-        balance = counts.min() / counts.max()
-        if balance > best_score:
-            best_score = balance
-            best_labels = labels
+    norms = np.linalg.norm(matrix, axis=1, keepdims=True)
+    matrix = matrix / np.clip(norms, 1e-8, None)
+    return valid_indices, matrix
 
-    if best_labels is None:
-        best_labels = np.zeros(len(embeddings), dtype=int)
 
-    labeled = [{**seg, "speaker": -1} for seg in segments]
-    for idx, speaker in zip(valid_indices, best_labels):
-        labeled[idx]["speaker"] = int(speaker)
+def _labels_from_adjacent_distance(matrix: np.ndarray, percentile: float = 78.0) -> np.ndarray:
+    """Toggle speaker when consecutive segment embeddings diverge."""
+    if len(matrix) < 2:
+        return np.zeros(len(matrix), dtype=int)
 
-    prev = labeled[valid_indices[0]]["speaker"] if valid_indices else 0
+    distances = [1.0 - float(np.dot(matrix[i - 1], matrix[i])) for i in range(1, len(matrix))]
+    threshold = float(np.percentile(distances, percentile))
+
+    labels = [0]
+    current = 0
+    for d in distances:
+        if d >= threshold:
+            current = 1 - current
+        labels.append(current)
+    return np.array(labels, dtype=int)
+
+
+def _fill_missing_speakers(labeled: list[dict], valid_indices: list[int]) -> None:
+    if not valid_indices:
+        for seg in labeled:
+            seg["speaker"] = 0
+        return
+
+    prev = labeled[valid_indices[0]]["speaker"]
     for seg in labeled:
         if seg["speaker"] == -1:
             seg["speaker"] = prev
         else:
             prev = seg["speaker"]
-    prev = labeled[-1]["speaker"]
+    prev = labeled[valid_indices[-1]]["speaker"]
     for seg in reversed(labeled):
         if seg["speaker"] == -1:
             seg["speaker"] = prev
         else:
             prev = seg["speaker"]
 
-    print(f"  detected up to {len(set(s['speaker'] for s in labeled))} speakers")
+
+def assign_speakers(
+    audio_path: Path,
+    segments: list[dict],
+    *,
+    switch_percentile: float = 78.0,
+) -> list[dict]:
+    """Assign a speaker id to each whisper segment."""
+    print("Diarizing speakers...", flush=True)
+    valid_indices, matrix = _segment_embeddings(audio_path, segments)
+    labeled = [{**seg, "speaker": -1} for seg in segments]
+
+    if matrix.size == 0:
+        return [{**seg, "speaker": 0} for seg in segments]
+
+    best_labels = _labels_from_adjacent_distance(matrix, switch_percentile)
+
+    for idx, speaker in zip(valid_indices, best_labels):
+        labeled[idx]["speaker"] = int(speaker)
+    _fill_missing_speakers(labeled, valid_indices)
+
+    speakers = sorted({s["speaker"] for s in labeled})
+    turns = group_turns(labeled)
+    print(
+        f"  method=adjacent-distance, speakers={len(speakers)}, turns={len(turns)}",
+        flush=True,
+    )
     return labeled
 
 
