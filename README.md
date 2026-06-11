@@ -24,14 +24,17 @@ https://javaing.github.io/podcast-transcripts/
 
 詳見 `glossary.json`。
 
-## 新增一集（概要）
+## 一鍵處理（推薦）
 
 ```bash
-# 1. 下載音檔到 transcripts/<slug>/episode.mp3
-# 2. 轉錄與翻譯
-python transcripts/<slug>/process_episode.py
-# 3. 套用術語修正
+python scripts/process_url.py "https://creators.spotify.com/pod/profile/.../episodes/..." --push
+```
+
+流程：解析 RSS → 下載 MP3 → Whisper 轉錄 → 術語保護翻譯 → 產生網頁 →（可選）推送到 GitHub Pages。
+
+## 手動步驟（進階）
+
+```bash
 python scripts/fix_episode.py transcripts/<slug>
-# 4. 產生網頁
 python scripts/build_site.py
 ```

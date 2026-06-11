@@ -78,6 +78,113 @@ def build_episode_page(episode_dir: Path, out_dir: Path) -> Path:
     return out
 
 
+INDEX_STYLE = """
+    :root {
+      color-scheme: light dark;
+      --bg: #0f1115;
+      --card: #171a21;
+      --text: #e8eaed;
+      --muted: #9aa0a6;
+      --accent: #7aa2ff;
+      --border: #2a2f3a;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #f6f7fb;
+        --card: #ffffff;
+        --text: #1f2328;
+        --muted: #656d76;
+        --accent: #0969da;
+        --border: #d0d7de;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    .wrap { max-width: 820px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+    h1 { font-size: 1.8rem; margin-bottom: 0.25rem; }
+    .subtitle { color: var(--muted); margin-bottom: 2rem; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 1rem;
+    }
+    .card h2 { margin: 0 0 0.5rem; font-size: 1.15rem; }
+    .meta { color: var(--muted); font-size: 0.92rem; margin-bottom: 0.75rem; }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .links { display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.95rem; }
+    footer { margin-top: 2rem; color: var(--muted); font-size: 0.85rem; }
+"""
+
+
+def load_all_episodes(root: Path) -> list[dict]:
+    episodes: list[dict] = []
+    transcripts = root / "transcripts"
+    for episode_dir in transcripts.iterdir():
+        meta_path = episode_dir / "metadata.json"
+        if episode_dir.is_dir() and meta_path.exists():
+            meta = json.loads(meta_path.read_text(encoding="utf-8"))
+            meta["slug"] = episode_dir.name
+            episodes.append(meta)
+    episodes.sort(key=lambda m: m.get("published", ""), reverse=True)
+    return episodes
+
+
+def build_index(root: Path) -> Path:
+    cards = []
+    for meta in load_all_episodes(root):
+        slug = meta["slug"]
+        minutes = int(meta.get("duration_sec", 0) // 60) or "?"
+        guest = html.escape(meta.get("guest", ""))
+        cards.append(
+            f"""    <article class="card">
+      <h2>{html.escape(meta['title_en'])}</h2>
+      <p class="meta">{html.escape(meta['show'])} · {guest} · {html.escape(meta.get('published', ''))} · 約 {minutes} 分鐘</p>
+      <div class="links">
+        <a href="episodes/{slug}.html">閱讀中文逐字稿</a>
+        <a href="{meta['spotify_url']}" target="_blank" rel="noopener">Spotify 原始連結</a>
+        <a href="{meta['source_url']}" target="_blank" rel="noopener">節目頁</a>
+      </div>
+    </article>"""
+        )
+
+    page = f"""<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Podcast 中文逐字稿文集</title>
+  <style>{INDEX_STYLE}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Podcast 中文逐字稿</h1>
+    <p class="subtitle">英文 podcast 轉錄與翻譯，保留原始連結。節目名、平台名、人名等專有名詞不翻譯。</p>
+
+{chr(10).join(cards)}
+
+    <footer>
+      本站內容由 AI 語音轉錄與翻譯產生，僅供個人學習參考。版權屬於原節目製作人。
+    </footer>
+  </div>
+</body>
+</html>"""
+
+    out = root / "index.html"
+    out.write_text(page, encoding="utf-8")
+    print(out)
+    return out
+
+
 def main() -> None:
     episodes_out = ROOT / "episodes"
     transcripts = ROOT / "transcripts"
@@ -85,6 +192,7 @@ def main() -> None:
         if episode_dir.is_dir() and (episode_dir / "transcript_zh-TW.txt").exists():
             path = build_episode_page(episode_dir, episodes_out)
             print(path)
+    build_index(ROOT)
 
 
 if __name__ == "__main__":
