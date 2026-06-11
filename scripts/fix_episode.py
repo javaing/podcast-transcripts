@@ -11,7 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from glossary import apply_corrections, load_glossary  # noqa: E402
+from glossary import apply_corrections, fix_leaked_placeholders, load_glossary  # noqa: E402
 
 
 def format_timestamp(seconds: float) -> str:
@@ -66,7 +66,8 @@ def main(episode_dir: Path) -> None:
     glossary = load_glossary()
     zh_path = episode_dir / "transcript_zh-TW.txt"
     zh_raw = zh_path.read_text(encoding="utf-8")
-    zh_fixed = apply_corrections(zh_raw, glossary["corrections"])
+    zh_fixed = fix_leaked_placeholders(zh_raw, glossary["protected_terms"])
+    zh_fixed = apply_corrections(zh_fixed, glossary["corrections"])
     zh_path.write_text(zh_fixed, encoding="utf-8")
 
     segments = json.loads((episode_dir / "transcript_en_segments.json").read_text(encoding="utf-8"))

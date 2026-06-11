@@ -7,7 +7,7 @@ published: "2026-06-09"
 spotify: "https://open.spotify.com/episode/19APff7PEWHjSz0APBH5Sb"
 source: "https://podcasters.spotify.com/pod/show/waitingtobesigned/episodes/Turning-Pokemon-Cards-into-fxhash-Grails---Interview-with-McLlama-e3ki02q"
 language: zh-TW
-generated_at: "2026-06-11 03:44 UTC"
+generated_at: "2026-06-11 04:37 UTC"
 ---
 
 # Turning Pokemon Cards into fx(hash) Grails - Interview with McLlama

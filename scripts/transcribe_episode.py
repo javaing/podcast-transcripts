@@ -11,7 +11,13 @@ from pathlib import Path
 import whisper
 from deep_translator import GoogleTranslator
 
-from glossary import apply_corrections, load_glossary, protect_terms, restore_terms
+from glossary import (
+    apply_corrections,
+    fix_leaked_placeholders,
+    load_glossary,
+    protect_terms,
+    restore_terms,
+)
 
 
 def format_timestamp(seconds: float) -> str:
@@ -60,6 +66,7 @@ def translate_to_zh_tw(text: str) -> str:
                 print(f"    retry after error: {exc}")
                 time.sleep(2 * (attempt + 1))
     zh = restore_terms("\n\n".join(translated), mapping)
+    zh = fix_leaked_placeholders(zh, glossary["protected_terms"])
     return apply_corrections(zh, glossary["corrections"])
 
 
