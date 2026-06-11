@@ -16,7 +16,10 @@ from glossary import apply_corrections, load_glossary  # noqa: E402
 
 
 def para(text: str) -> str:
+    # Double newlines separate dialogue turns / paragraphs.
     parts = [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
+    if not parts and text.strip():
+        parts = [text.strip()]
     return "".join(f"<p>{html.escape(p)}</p>" for p in parts)
 
 
