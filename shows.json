@@ -1,0 +1,27 @@
+{
+  "shows": {
+    "Waiting To Be Signed": {
+      "icon": "assets/wtbs-icon.png",
+      "accent": "#4c9181",
+      "accent2": "#2a6da0",
+      "card_class": "card--wtbs",
+      "page_class": "page--wtbs"
+    },
+    "Kaloh's Podcast": {
+      "icon": "assets/kaloh-icon.png",
+      "accent": "#e04545",
+      "accent2": "#1a2a4a",
+      "card_class": "card--kaloh",
+      "page_class": "page--kaloh",
+      "aliases": ["Kaloh's Newsletter", "Kaloh's Podcast"]
+    }
+  },
+  "icon_sources": {
+    "Kaloh's Podcast": {
+      "rss_feed": "https://api.substack.com/feed/podcast/357385/s/72330.rss",
+      "rss_image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5693fd18-8784-4b9e-9fc0-a7e429161e94_1280x1280.png",
+      "apple_artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/49/cd/e8/49cde8d4-703c-320f-27ae-a9a458fbdefa/mza_3402756048532741837.jpg/600x600bb.jpg",
+      "spotify_episode_thumb": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f2f618407bad7122bdba5ec89"
+    }
+  }
+}

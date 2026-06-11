@@ -1,0 +1,993 @@
+---
+title: "Bright Moments Venice: The Finale ft Seth Goldstein"
+show: "Kaloh's Podcast"
+guest: "Bright Moments Venice: The Finale ft Seth Goldstein"
+hosts: "Kaloh"
+published: "2024-04-18"
+spotify: "https://open.spotify.com/episode/5dYU0Izvvq2MtuTY0g61fF"
+source: "https://www.kaloh.xyz/p/bright-moments-venice-the-finale"
+language: zh-TW
+generated_at: "2026-06-11 09:01 UTC"
+---
+
+# Bright Moments Venice: The Finale ft Seth Goldstein
+
+> **節目**：Kaloh's Podcast  
+> **來賓**：Bright Moments Venice: The Finale ft Seth Goldstein  
+> **主持**：Kaloh  
+> **發布日期**：2024-04-18  
+> **原始連結**：[Spotify](https://open.spotify.com/episode/5dYU0Izvvq2MtuTY0g61fF) · [節目頁](https://www.kaloh.xyz/p/bright-moments-venice-the-finale)
+
+## 中文全文
+
+考慮到過去幾年市場和生活的起起落落以及奇怪的行為。始終如一的事情是我們向隨機之神祈禱。就像當有疑問時一樣，光明時刻總是使用隨機性，因為它是真正的北方，但我認為在一個我們很難信任人、信任事物和信任品牌的世界裡，如果我們能夠證明隨機性在某些基本層面上確實是隨機的，
+
+它創造了公平的競爭環境。
+
+那麼塞斯，你現在怎麼樣？我知道我知道你在哪裡，但也許你可以告訴我們一些關於你所在位置的資訊。義大利威尼斯，不是威尼斯海灘。就是這個。那麼威尼斯怎麼樣呢？如何？你喜歡它嗎？吃它嗎？您的印像如何？這是一個非常奇怪的地方。你知道，就像威尼斯海灘雖然在洛杉磯一樣，當我住在威尼斯海灘時，我就住在威尼斯海灘。我不住在洛杉磯。這是非常不同的。在威尼斯海灘，你可以步行，你可以騎自行車，你不會經常開車，它有點像它自己的，絕對是它自己的氛圍。洛杉磯比真正的開車出遊更廣闊、更不同，這裡有洛杉磯的生活方式。但威尼斯海灘，就像它自己的小島一樣。義大利威尼斯也是如此。除了威尼斯之外，我并没有在意大利及其周边地区呆过很多时间。現在我已經和克里斯蒂、多爾、巴勃羅、利奧、美聯儲一起在這裡待了一個多月了，他是當地人，是偉大時刻的一部分，幫助我們組織起來。它絕對有自己的生命。因為是在水面上，所以睡得很沉，而且會做很多夢。沒有汽車，沒有優步，到處都是步行。這些小街道，有很多小街道和不起眼的建築物，然後你走進建築物，它就像你見過的最偉大的大教堂。所以它充滿了這個。我認為義大利威尼斯多年來一直為作家和藝術家帶來樂趣，800、900,000 年，我的意思是很長很長一段時間。顯然，你知道，我們在這裡是因為這是光明時刻路線圖的終點。 And this is where we're going to be minting the last thousand crypto citizens, which are called Crypto Venetians.這就是我們要minting最終項目的地方，我將分享更多有關該項目的信息。這也發生在威尼斯雙年展期間，我認為這是我們擁有的最偉大的藝術博覽會和節日，因為它是如此國際化，而且它真的很受歡迎。如果您身處藝術世界，這裡就像迪士尼世界。很刺激，感覺不只是一個場景。在某些藝術博覽會中，你就像是去被人看到，或是去參加那個聚會。我認為這裡令人興奮的是來自世界各地的所有不同的人在經典雙年展上展示他們的藝術。因此，我們非常慎重地決定在這裡同時上演結局，因為從某種程度上來說，精彩的時刻就是
+
+國際藝術家社區，主要是性別藝術家和人工智慧藝術家，他們聚集在一起參加這次最後的聚會，彼此分享時間，反思過去三年的光明時刻，並與彼此和我們的收藏家分享一些新作品。
+
+是的，絕對是。我認為時機非常完美。正如您所说，显然您是在活动的第一周安排的。塞斯，你有什麼想法？你認為我們會看到人們去參加活動，聽到精彩的時刻，也許還會來參觀。你期待其中一些嗎？對於這些來自傳統藝術界的人來說，這是一個很好的入口嗎？
+
+你有什麼想法？我不知道。我的意思是，如果發生這種情況，那就是獎金。
+
+你知道，這不像我們……我認為我們這樣做更多的是作為我們自己社區教育的延伸，而不是試圖讓人們擺脫傳統世界。就像我想想我們從威尼斯海灘開始，然後是紐約，然後是柏林，每一步，我認為我們都試圖在文化意識、我們自己的技術、我們正在合作的藝術家方面提高我們的遊戲，是的，我們在做我們正在做的事情和提供真正有趣的體驗方面的成熟度。所以我認為從倫敦到墨西哥，我認為墨西哥確實是我們真正開啟研討會和小組討論想法的地方，我們與 KCRE 和 Zach Lieberman 一起舉辦了實踐研討會，我們也與 Gann Brude 和 Sophia Cresco 進行了關於人工智慧藝術的對話小組討論。那是墨西哥城，然後我們在東京跟進，然後東京到布宜諾斯艾利斯，布宜諾斯艾利斯到巴黎。所以我認為我們一直在這個旅程中，在有很多傳統文化的地方一起發現和慶祝數位藝術，對嗎？我想幾個月前我們在巴黎就感受到了這一點。
+
+感覺真的很好。感覺就像，你知道，畫廊裡擠滿了人，他們就是我們所認識的人。進來的並不是一群傳統藝術人士。如果他們來了，那就太好了，
+
+但我們不需要它們。我認為現在數位世界裡有太多的不安全感，除非傳統藝術認可我們，否則我們就不重要。我确实认为让入职变得更容易很重要。我確實認為錢包必須更容易。我認為這些機制中的許多都需要對每個人來說都是好的和容易的，但這並不是因為我們以某種方式需要傳統藝術世界的驗證。我認為這只是想讓事情變得更容易
+
+任何人都可以參與其中。是的，所以我是從基礎開始的。他在播客中傳達了非常相似的訊息，對吧？就像如果他們想進來，那就太好了，對吧？但這並不是基金會想要做的事情，對吧？他們更注重現代藝術
+
+草原藝術家以數位形式進行藝術創作，對吧？我同意。我覺得很多人都在試圖從傳統藝術品中獲得關注，但我不認為這是我們在這個領域所做的事情的最終目標。它說，你能告訴我們什麼？那麼你已經旅行了三年了，對吧？你一直過著遊牧生活。那種體驗怎麼樣？你喜歡它什麼，討厭它什麼？因為讓我們面對現實吧，在所有這些城市待幾個月是很困難的，對吧？然後回到美國，再做一次。三年後你感覺如何？團隊對整體感覺如何
+
+經驗？你說，情感是相當複雜的。我想現在我們正處於腎上腺素飆升的狀態，你知道，就像你在 26 英里馬拉鬆比賽中的第 24 英里，你轉過拐角，你可能看不到終點線，但你知道它就在那裡，而你無法控制
+
+你的身體機能，但你他媽的一定能堅持到最後。我想這就是我們的感受吧。
+
+你知道，上帝保佑克里斯蒂，她是他旅程的一部分，一直非常支持我，仍然和我說話，仍然和我在一起，因為這對人際關係有很大影響，對工作關係、友誼和家庭等等都造成了損害。當你還沒有安定下來，而且你還得提著行李箱生活時，這真的很難。我們盡量保持輕鬆，你知道，我們有很多樂趣。你知道，我們的口號非常有趣，你知道，它很嚴肅，因為區塊鏈是嚴肅的、經過驗證的、非常嚴肅的，圍繞它的所有經濟學都非常嚴肅，但它也很有趣，因為我們正在發明一些東西，你知道，隨著我們的前進，我們正在創造我們的方式，這是以前從未做過的，你知道，它對一個非常特定的時間，那就是大流行，對吧？ 2021 年初，我們都被困在威尼斯海灘，我，你知道，克里斯蒂安，我剛從舊金山搬到那裡。我們認識的人不多，但人們沒有去任何地方，因為他們被困在隔離區，這就是發生這種情況的地方，所以這是一個平局，當時旅行的想法非常引人注目，非常誘人，因為我們已經被困在家裡幾年了，所以環遊世界並讓所有這些數位藝術家創作藝術的想法只是一個幻想，現在我們已經被困在家裡幾年了，它不像以前那樣性感道，有如你所知，我們看到了，你知道，當我們開始時，我的意思是，以太坊是以太坊第一層在很大程度上是作為道瓊斯指數的光明時刻的基礎經濟層，當我們開始時，當我們於2021年底在紐約與加密貨幣紐約人和泰勒霍布斯一起鑄幣時，可能是1500完全控制，我認為以太坊是，你知道的，4200或類似的東西。幾乎一直高，幾乎對。當我們在倫敦時，為加密貨幣倫敦人“造幣”，數量接近一千，對嗎？然後它在 2000 年左右徘徊了很長一段時間，現在又回升了，但從經濟上來說，作為一種貨幣，或者作為一種燃料，對我們生態系統來說，這是一個非常不穩定的背景，更不用說當我們開始，你知道，硬核，Art Blocks的繁榮，然後是 fxhash，蓬勃發展，你知道，2022 年初到圍繞人工智能的元數據。現在我們看到，Salana、序號、meme 幣、base、DGEN 和 FARCAST 都在不斷變化，我們努力使我們的使命和路線圖保持一致，如果這樣做的話感覺很好
+
+沒有別的，我覺得我們正在做我們說過要做的事。是的，不，我的意思是，
+
+你，我認為布萊恩的時刻，我的意思是，令人印象深刻的是什麼，我們已經提到了旅行，對吧？哦，那是，這非常具有挑戰性，但是你有能力在每個城市舉辦感覺非常先進的節目，對吧？所以你可以透過藝術家或透過經驗，透過談話，我們的主題，正在發生的事情，對吧？此刻以及也許那個月發生的事。這是非常令人印象深刻的，因為你知道，在舉辦這個活動時，你基本上每天都需要集中註意力。所以這是非常具有挑戰性的。我的意思是，我想問你，你已經提到了，對吧，模因幣，FARCAST 上發生了什麼，Salana 上發生了什麼，序數。那麼情況如何呢？我想我擊中了所有明亮閃亮的物體。是的，基本上就是這樣，而且這似乎是兩個月前發生的事情，對吧？這樣、這樣的東西突然出現。你怎麼看，如果問題是因為如果結局，我認為有點特別，對吧？因為它不會更像是回顧過去，回顧所有發生的美好時刻。您打算如何將這些閃亮的物體以某種方式融入活動中？不會有薩拉納。所以對於所有薩拉諾槓桿，我很抱歉。不會有Bitcoin序數。因此，對於所有比特幣 maxi，我也很抱歉。我們正在建立基地，我們已經在巴黎為藝術家和居民建立了基地。憑藉克隆基礎、亮點和 Zancan，我們完成了我認為目前仍然是有史以來最大的鏈上生成項目，擁有 75 或 76,000 個獨特的 mint。我們也使用基礎來結算我們的每日黃金和代幣期權。是的。話雖這麼說，加密 Vanitians 和最終項目將在我們區塊的第一層 Ethereum 上進行minted，就像我們從一開始就所做的那樣。 And I think that's part of our provenance is we have two main contracts.我們的街區有一份公民合同，我們的街區有一份時刻合同。這兩份合約都將到期
+
+4 月 22 日星期一晚上在義大利威尼斯，我們mint加密 Vanitians 編號 99。我們mint結局mint編號 99，因為它們總是從零開始。這將是結束
+
+這個關於圖層工作的路線圖。是的，這很令人興奮。這樣就實現了鏈上鏈下的封閉，
+
+整個專案非常有趣。你能告訴我們一些嗎？因為我一直在關注選項和金票。所以基本上這次他們給你一個公民mint
+
+而且還是一件獨特的作品，一百分之一或千分之一，對吧？
+
+這就是它的工作原理。是的。所以一直以来的想法就是让意大利威尼斯成为一个回顾展。因此，我们将对过去三年进行一次精彩的回顾。所以当你来到 Grande San Giovanni 学校时，在一楼，会有大约 20 个屏幕，其中 10 个将显示
+
+每個加密公民城市，你知道，威尼斯、銀河人、紐約人等。然後將有 10 個螢幕，顯示我們在每個城市、每個時區的 mint 的所有藝術家。這一切都將是回顧性的，對吧？然後到最後兩個螢幕，將向您展示來自威尼斯人和即將到來的結局項目的新mint
+
+住在樓上，因為當你上樓時，如果你有一個威尼斯的黃金代幣，你實際上會用這個黃金代幣，這有點像薄荷通證，你會薄荷兩個NFT。一枚 NFT 將成為您的加密貨幣威尼斯人。然後，您將能夠從我們所說的結局集合中鑄造輸出。 Finale 系列目前包括我們在過去三年中合作過的 50 到 60 位藝術家，我們邀請他們向這個 Finale 元專案提交程式碼。所以我們的請求是，請參與這個結局項目。這有點像我們就是整個世界，使用 p5 和其他函式庫提交 24 KB 的程式碼。該專案由 Spongenuity、Casey Dilla、Peter Pasma 和 Phil 以及我們的團隊管理。 Peter Pasma 上帝保佑他，因為他正在縮小所有代碼。他是個魔術師。
+
+所以這有點像是沒有任何政治色彩的曼哈頓計畫。
+
+然後我們還有像 Maya Man、Iskra Marcelo、Zach Lieberman、Casey Rees、聾啞人 Kim Asendor、if Andreas Geeson、Monica Ritzoli、Zancan、Ketchel Gollid 這樣的藝術家，他們就像一個令人驚嘆的藝術家集合，他們都貢獻了一點程式碼。當你來的時候，當你mint你的威尼斯人之後，你會進入另一個房間，你會mint來自結局集合的輸出。而且不僅是
+
+won't you know what the artwork is, you won't know who the artist is until it happens.而藝術家自己也不會知道。因此，如果你計算一下，假設有 50 名藝術家，儘管數量會稍微多一些，但輪到你時，這 50 名藝術家中的任何一位都有 2% 的機會獲得 minted。而且你不知道會是誰。藝術家們並不知道會發生這樣的事。大多數藝術家都會以某種形式和你一起出現在廣場上，因為他們很想知道他們的作品是否以及何時被「鑄造」。所以這就像雙重或三重隨機性。且隨機性一直向下。這一切從根本上來說都是鏈上隨機的，可證明隨機的。有些藝術家可能會獲得 minted，你知道，如果標準設計，如果預期機率是每個藝術家獲得 minted 20 次，即 50 名藝術家。現實是，有些人會被 minted 30 次，有些人會被 minted 10 次。一對夫婦，
+
+也許有人甚至沒有得到minted。是的。這真的會很有趣。
+
+是的。通常情況下，你有一個mint浴缸，你可以選擇正確的，或者mint浴缸帶有名字，對嗎？這是藝術家。這次不是。所以這將是令人興奮的，因為是的，藝術家也將是，我的意思是，他們我確信他們希望他們的作品被「薄荷」編輯。沒有人會不被薄荷ed，對吧？但這會很令人興奮。這些藏品怎麼樣，看起來怎麼樣？您很快就會透露一些預覽嗎？因為我想我還沒看到那些。
+
+是的。他們看起來很棒。像今天這樣的許多藝術家，扎克·利伯曼（Zach Lieberman）分享了一些這種傍晚水波紋的作品，這與他在墨西哥的作品《100 個日落》相呼應。是的。 Zancan展示了他的一些帶有高光時刻城市名稱的作品，
+
+你知道，在鮮花後面。所以我想你會看到越來越多的藝術家的輸出樣本，但我們也會分享其中的一些。這是一個有趣的遊戲，因為如果你點擊顯示，這有點像猜測藝術家，你不知道他是誰。是的。是的。在隨機性聚會中，職業被稱為「職業」。我認為這就是我們想要完成這個路線圖的方式，你知道，他們怎麼說？就像，你知道，你唯一能做的事，唯一不能做的事，你知道，不變的是改變本身。就像我們的例子一樣，
+
+考慮到過去幾年市場和生活的起起落落以及奇怪的行為，我們一直向隨機性之神祈禱，這一點始終如一。是的。當有疑問時，光明時刻總是使用隨機性，因為它是真正的北方。感覺就是對的。我認為，如你所知，生成藝術中存在著深厚的隨機性基礎。隨機性和人工智慧有著深厚的基礎，雖然不是那麼明確，但我認為在一個我們很難信任人、信任事物和品牌的世界。如果我們能夠證明隨機性在某些基本層面上確實是隨機的，那麼它就創造了公平的競爭環境。甚至我們分配公民的方式，你知道，每個城市的三分之一都會隨機空投給我們的公民持有者。感覺很公平。
+
+是的，不，這很令人興奮。我的意思是，我會去那裡。我還在關注拍賣會。我有幾個朋友。所以這對我來說將是非常令人興奮的，因為我將和一些從西班牙出發的朋友一起去那裡。所以我們是好鄰居。你知道，我參加過那些我通常在那裡見到人的活動，
+
+正確的？我已经在网上知道了。所以这非常非常非常有趣。但这次我要体验一下
+
+和我的朋友們。我們都在關注拍賣會。並期待預覽。
+
+我們都非常非常興奮。而且時間表已經出來了。會有晚餐，對嗎？第一天。
+
+然後薄荷ing就開始了，對吧？他們兩個和三個。還有什麼？因此，如果有人被列出，我們也有
+
+然後，我們有一個讓我們非常興奮的東西，叫做夢想大教堂。我想你可能已經看到了，我們是在東京開始的。我們第一次展出它，並在巴黎再次展出。它最初是由人類、AI藝術家創造的，對嗎？這是一個即時語音視訊人工智慧，非常棒。而且它變得越來越快、越來越流暢。人類創造了它。現在我們有一個小團隊在研究它，包括海綿年金，包括肉發光和其他一些。在威尼斯的這種情況下，我們能夠接管一座教堂。因此，在街對面，在我們主要“造幣廠”區域的小巷對面，我們有一座教堂，我們正在將其改造成“夢想大教堂”。這將是與
+
+Gandrew，人工智慧藝術家。我們正在根據他的提示對這個人工智慧裝置進行風格化。而當你
+
+進入教堂，實際上，你會向人工智慧懺悔，你會看到根據你懺悔的內容向你展示數位繪畫。活動將於4月17日開始開放，持續至少一個月。哦，這太令人興奮了。所以會持續一個月
+
+儘管任何人都會去那裡體驗這一點。這是我們第一次開放
+
+對外部藝術家來說，這台夢想機器。我認為這對我們來說是一個非常有趣的合作模式。對於產品來說，我們將開始向其他藝術家開放，讓他們為體驗帶來自己的風格提示。是的，這帶我去
+
+我的我很好奇接下來會發生什麼事。上次我們聊了一些你的想法。而我
+
+感覺很多人都在好奇，那麼現在這座城市之後的高光時刻到底發生了什麼事？那您能告訴我們什麼呢？你會在聚會中表現出一些暗示，對嗎？或者其中一些
+
+你的計劃？你能告訴我們什麼？塞斯，我想我們要休息一下了。你知道，團隊一直在非常努力地工作。這需要幾年的時間。我認為我們真的很想提供這一系列 NFT，讓人們有機會反思並欣賞它們。我想有時因為我們太忙於「鑄造」新作品，所以真的很難，就像現在我們在巴黎為 19 位藝術家「鑄造」了 1900 個 NFT。 Linda Dunias、Rupes、Lauren Lee McCarthy 的每個系列，
+
+盧克·香農（Luke Shannon）、馬丁·格拉索斯（Martin Grassos）、瑪雅（Maya）的傷害，就像他們都值得時間和關註一樣。我認為，當我們在現場體驗中投入如此多的“薄荷”時，現場真的很令人興奮。但我認為醃製時間需要多一點。因此，我們不僅想為巴黎提供這一點，而且還想在所有合適的時刻都這樣做，然後說，好吧，現在我們剛剛度過了三年。讓我們退後一步來欣賞一下，什麼是弧線？這些故事對 2021 年至 2024 年的數位藝術、性別藝術和人工智慧藝術有何看法？我知道這並不能回答你的問題，但我認為對於藝術家和收藏家來說，欣賞我們剛剛經歷的一切非常重要。我認為我們對於接下來的精彩時刻有一些想法。我們顯然不想做任何事情來稀釋這些收藏的價值。顯然，性別藝術和數位藝術的市場現在看起來真的很不一樣
+
+2024 年中期的時間比 2021 年初的時間還要長。我認為你想退後一步，認真思考我們可以做些什麼來吸引世界各地的藝術家和收藏家社區，並將他們提升到下一個成長階段。我們有一些我們建立的軟體。我們有一個名為 Visions 的產品，我們內部使用它來在不同的螢幕上展示藝術並創建播放清單。我們想要弄清楚如何向社區開放，因為我認為人們開始想知道，好吧，我擁有所有這些數位藝術。我想在我家展示它。我想在我的辦公室展示它。我想在這個畫廊展示它。而且目前還沒有好的解決方案。我認為你有一些可以提供幫助的東西。我認為人工智慧體驗，夢想機器有很多有趣的應用和機會，我們想要追求。除此之外，我想等到我們完成最後一個
+
+分鐘，不到 20 秒，然後我們才說其他話。
+
+不，這是有道理的。您花一些時間是件好事，因為您一直專注於提供這些體驗，對吧？正如你所說，也許一位飼養員可以很好地獲得靈感，了解「新娘時刻」和「新娘時刻」的下一步應該是什麼。
+
+整個社區。我的意思是，现在你拥有了一个由艺术家、收藏家组成的全球社区，
+
+他們遍布世界各地。還有這麼多的可能性，對吧？所以是的，
+
+我會等待接下來的步驟。還有道瓊指數，對嗎？你有這些，你怎麼稱呼它們？每個城市都有畫廊吧？那些，那些會在明年運作嗎？這是什麼，怎麼樣，如果我，我怎麼樣，墨西哥，現在有畫廊嗎？它如何與不同的畫廊合作？
+
+所以沒有實體畫廊。 You know, we have a small space in Berlin that we've held onto, but we tried to stay really light in terms of leases to give ourselves flexibility.你會在威尼斯看到，就像我們在呼喚，做，做，做，以及來自周圍的所有不同的人
+
+新娘時刻社群即將來到威尼斯，對吧？所以紐約、巴黎、倫敦或東京真的什麼都沒發生。我們一直在做的事情，我認為很有趣，就是讓每個當地社區都有機會舉辦自己的活動。因此，如果您是社區的一員，我們在馬德里就做了一個。如果他們想擁有一個，也許布宜諾斯艾利斯有一個社區
+
+收藏家和藝術家的晚餐。那將贊助那個。我們確實正在盡可能地推動權力下放。就像，你知道，三年後，我們希望將盡可能多的決策權交給社區，因為這是一個了不起的社區，我認為希望繼續在現實生活中相互互動。我認為有一些方法可以做到這一點，並且不會像過去三年那樣對我們作為一個集中團隊造成身體上、情感上和經濟上的損失。
+
+是的，我記得當我們在墨西哥見面時，你提到，它開始了，就像
+
+項目，它更加中心化，目標是他們開始每次都去中心化，多一點，多一點。我認為你有能力做到這一點，
+
+與道指。因此，人們可以透過道瓊斯指數針對此類活動提交提案並獲得資助。那很有意思。那很有意思。驚人的。說，你知道，我們簡單地提到了
+
+市場狀況，這些天發生了什麼。所以我想聽聽你的消息。你興奮什麼
+
+關於？您在與藝術家、收藏家交談時看到了什麼？您曾經使用過 Farcaster。所以總的來說，在 Web 3、藝術領域，而且在區塊鏈技術領域也是如此。你在興奮什麼
+
+這些日子？我的意思是，興奮是一把雙刃劍，因為你變得興奮，然後你變得痴迷，然後你變得投機，然後你變得貪婪，然後你變得悲傷，因為
+
+你所有的錢都會歸零。有這些類似的循環，但如果你不參與
+
+而你只是在上升的過程中犯了錯誤，你不知道你會錯過什麼。所以我認為，對於我們所有人來說，弄清楚如何平衡和集中註意力是非常棘手的。讓我們來看一些關鍵的事情。平均分數。平均分數是一回事。我在《戴帽子的狗》中看到了它。你知道，我有兩個兒子，查理和雅各。查理 22 歲了。雅各 20 歲，下週就 25 歲了。我們都會在這裡觀看決賽。三年前，我們在威尼斯海灘與克里斯蒂、安妮米西亞和多爾一起開始了家庭生活。但由於他們的年齡組而不是我自己的年齡組，我可以有點像，哦，你知道，好吧，我想我應該在十二月買一些這只帶帽子的狗。你會想，這到底是怎麼回事？它是什麼？這是藝術嗎？不，是反抗嗎？不，這是一隻戴著帽子的狗。而且它還在持續上升。然後它會下降，它會上升，但就像，它是一個迷因，它很強大。人們團結在它周圍，就像他們團結在佩佩周圍一樣。當佩佩硬幣問世時，我們正在東京。我記得的原因是，那是五月，因為我們的mint加密貨幣價格，東京人因為他媽的佩佩幣而瘋狂熱銷。它並沒有消失。佩佩一直都在這裡。所以我認為這些模因幣很重要。他們的產品適合市場。它們的啟動非常簡單且無需許可。你已經看過《黑暗農場》了，《我的書》非常迷人。我可能和我們所有人一樣，距離一代人的財富還有 12 個小時的路程。但有幾個我很熟悉的人剛剛送了420靈魂。該合約的金額為 0.69，最終金額為 5000 萬美元。你可以說，那是胡說八道。這是帕帕西主題的泡沫。但事實並非如此。正確的。黑暗農場很有趣，他們長期創作佩佩藝術，並且沒有將收益據為己有。正確的。在公平發布方面有一些非常有趣的經驗教訓，我認為藝術家和畫廊可以從中學習。現在其中一些東西上升並歸零。但他們中的一些人先上升後下降，然後保住自己的位置。你可以說狗戴帽子。你知道，《我的書》已經做到了這一點。現在是在 Salana 一側。如果我們轉向基地，顯然，Farcasters 已經是一個巨大的，你知道，他們之一說這是一夜成功。籌備兩年。正確的。你可以說這就是剛剛發生的事情。但它實際上是在威尼斯海灘推出的。正確的。這就是事情開始的地方。這就是它的基地。你知道，菲爾，你知道，
+
+我的搭檔，對吧，掌控一切的時刻。他非常早，而且他對 Farcasters 非常感興趣。我們稱他為 Farcasters Phil。他在那裡苦苦掙扎了很多年，因為他厭倦了 Twitter，想要一些去中心化和無需許可的東西。他可以信任。卡米爾·魯的情況也是如此，對吧。我們在那裡看到的一些人是庫柏騎兵。他們已經在那裡待了一段時間了，就像你一樣。最有趣的是 Farcasters，就像 Twitter 與 Venmo 的結合。正確的。它不屬於任何公司或任何個人所有。它確實相當開放。現在，關於 Base 的問題，你可能會說 Base 更中心化，因為它來自 Coinbase。但它也非常容易使用。如果您正在使用 Coinbase，並且您正在使用 Coinbase 錢包和他們新的自助錢包，那麼它比 Metamask 容易得多。我已經使用 Metamask Masky，有一段時間沒有使用 Maxi 了。我開始轉移注意力。所以這不僅僅是Metamask。我正在使用 Phantom 來實現 Solana。我用我的 Coinbase 錢包來儲存所有基本的東西。它真的很容易使用。 Farcasters 對我來說最有趣的是框架很有趣，但小費也很有趣。他們正在使用 DGen 做什麼以及 DGen 的啟動方式和使用方式
+
+我认为，这最终是为艺术付费的一种方式。我认为 Farcasters 的小费在某种程度上有助于弥补 OpenSea 的版税损失。就這樣演出來了。這似乎即將發生。然后是作为 L2 的 DGen，它通过 DGen 移动到自己的 L3 链
+
+鏈。現在它們是所有 L3 中音量最高的。 DGen 鏈，甚至比 Blacks 還要多，據我所知
+
+我在這裡。那裡的熱量很高。由於波動性，投機很難，而且很危險。這是相當極端的。所以你開始看到越來越多的藝術家和越來越多的收藏家進入這個生態系統，我認為這是健康的。現在它引出了一個問題，那就是，好吧，我們該怎麼辦？我們該在哪裡修補藝術？而我們該如何修補藝術呢？它應該放在藝術區嗎？它應該在fxhash上嗎？應該突出顯示嗎？應該是打基礎的吧？應該不是 TES，但是 TES 社區還是很強大的。希思在 Maynet 上非常昂貴，提及它具有出處和人
+
+值得信賴。基地裡正在發生越來越多的事情，但感覺更具實驗性。但我認為時間會證明一切。我只是認為我們必須進行實驗。還有不同的版本，你知道，它是一個價格非常低的開放版本嗎？或者它是一個較小的上限版本但價格較高？我們看到人們不再信任，他們不再像以前那樣以高價信任 X 之一，對吧？我認為我們可能會回到那個版本。現在這是一大堆Art Blocks項目和一大堆fxhash項目的買方市場。現在是在藝術區中拾取子景觀、經絡和反旋風的好時機。你可能會得到龍和一堆Zancan。正確的。折扣。折扣。正確的。但這並不時尚。什麼是
+
+現在更流行的是開放版本、平均點和序數。但我認為已經賺了很多錢，但在某些時候會發生很大的波動，
+
+人們之所以會加入信仰，是因為他們相信信仰能保有價值。或者可能像吱吱聲。但是是的，
+
+你說得對。這是對正在發生的事情的一個非常非常好的總結。是的，你提到的，
+
+我們應該在哪裡鑄幣？我想很多藝術家。我收到了很多來自藝術家的問題，例如，嘿，我應該嘗試蘇打水還是我應該嘗試鹼，或者我和我不知道該回答什麼，對吧？正如你所說，我認為他們需要進行實驗。只要保持開放的心態即可。此時此刻，不要像所有人都傾向於某樣東西，對吧？但你會不斷探索，對於收藏家來說也是如此。對於收藏家來說，我也聽說一些收藏家有點沮喪，因為他們沒有，你知道，他們如何跟踪一切？不可能了，對吧？那麼，他們在哪裡，你知道，在早期，你穿著 Arblogs 收藏家，或者你穿著 fxhash收藏家，或者你喜歡粉底，或者你，你知道，你探索了一下，你在一個地方和一個地方穿著。現在，它不再那樣工作了。看來，哪個可能比較健康，對吧？或是藝術家和一般的空間，對吧？我認為收藏家越來越關注藝術家，對吧？你知道，前副本就是一個很好的例子。現在他不是生成藝術家了，對吧？但他探索了許多不同的“薄荷”方式。是的，他有自己的硬幣。他自己的硬幣和它支持了早期的稀有作品。所以感覺他「鑄造」的越多，開放版本就越大，就像他剛才所做的那樣，對嗎？在低音方面，就像一百萬薄荷糖一樣，這並沒有剝奪他早期作品的價值，它實際上支持它，因為他有更多的關注。所以這裡的例子是，讓我們以 Xan Camp 為例，對嗎？我，我為我的花園感到非常自豪
+
+整體。我記得當我在 2022 年 11 月購買它時，我們在墨西哥城，我愛上了他和他的作品，這是我非常重要的一部分。他繼續前進，我的意思是，當時他還沒有創造做很多工作，但他繼續創造更多的工作，對吧？也曾有過這樣的時候
+
+當人們說他 mint 工作太多時，他在 verse 上有一個開放版本，他在東京和我們一起做了漂亮的項目，然後他只是用 Coinbase 做他的項目，免費獲得 mint，75,000 件。事實上，我不知道現在的市場數據是否顯示了這一點，但我實際上認為這使得Garden Monoliths的價值更高或更低，對嗎？現在，他的作品已經被越來越多的人接受，越來越多的人都可以接受他的作品。
+
+兔子洞，追溯他的職業生涯，回到 Teso 的職業生涯，再回到 FX Act，然後說，哇，我真的很喜歡這位藝術家。我想，我想回去收集他的創世碎片，是嗎？我認為這是藝術家需要感到安全的實驗。否則，他們就會停止發布作品，我認為任何人都不會從中受益，但同時作為收藏家，你也不希望藝術家發布太多作品。所以這確實是一個非常好的平衡。這是科學，實際上，這是科學，而且非常，我的意思是，有些藝術家正在這樣做，而有些藝術家則不然，這就是他們需要像 Prime Moments 這樣的畫廊的支持，或者現在，你知道，還有其他實體幫助支持藝術家，
+
+但是，是的，这是一个很好的表达方式，说，总是，总是很高兴听到你的想法。最後一個問題，什麼是序數詞？關於序數的想法，序數會發生什麼事？
+
+我看到它正在成長，而且成長得非常快。我開始看到更多關於序數的藝術。你看到了什麼
+
+圍繞著我前幾天購買的前兩款香水的生態系統，我為自己買了一款 1970 年的香水，那是我的出生年份，我為克里斯蒂（也就是赫伯特）買了一款 1979 年的香水。你提到的這是一個很棒的項目。我認識它背後的一些人，而且在它推出前一周我們不在柏林，你知道，這並不是序數的宏觀策略，而只是了解我信任的背後的人。我知道有很多
+
+比特幣持有者不想與以太坊有任何關係，他們希望留在那個生態系統中，我認為序數在一定程度上對此做出了反應。因此，我認為比特幣生態系統中有相當多的流動性，可以在比特幣生態系統中尋找藝術品。我認為序數空間中的藝術並不像以太坊 上那麼有趣。我認為你不具備智能合約的可編程性和有趣的使用方式，例如 DEFB、Mitchell Chan 或一些用智能合約的verse做出令人驚嘆的事情的藝術家。我認為我們沒有看到序數詞。它看起來太立體了，實際上是像水文字一樣的銘文，但它並沒有像 Shane Ethereum 項目中的一些項目那樣在情感上打動我，這就是為什麼我沒有那麼關注它。
+
+是的，不，絕對對我來說也有一點，花了我一點時間來理解它是如何運作的，
+
+Riley，你需要另一個錢包，那就是比特幣，對吧？你需要使用
+
+比特幣，是的，很多東西似乎都貴了一點，對吧？所以你必須小心。但是，是的，不，同樣的想法。我確實看到有些人真的很喜歡序數，對吧？他們
+
+真的很像 maxi、序數詞、maxi。再說一次，我認為這是關於探索，對吧，有一個開放的
+
+留心並看看它如何發展。但我同意智能合約的限制使其成為
+
+它要整合機制，或與平台集成，有點棘手。
+
+是的，看到序數的未來會很有趣。塞斯，很快再見。很快在威尼斯見。幾週後我會見到你。我很興奮。是的，非常感謝您的加入。
+
+順便說一下，你是唯一一個兩次出現在播客中的人。所以
+
+我害怕再次見到你並很快見到你。謝謝你，凱萊布。幾週後我會見到你。
+
+再見。再見。
+
+---
+
+## 英文逐字稿（含時間戳）
+
+**[00:00]** given all the ups and downs and the strange behaviors of the market and of life the last couple
+
+**[00:04]** years. The thing that's been consistent all the way through is we pray to the God of randomness.
+
+**[00:11]** Like that is when in doubt, bright moments has always used randomness as it's true north,
+
+**[00:20]** but I think in a world where we just have a hard time trusting people and trusting things and
+
+**[00:28]** trusting brands, if we can prove that randomness is indeed random on some fundamental level,
+
+**[00:38]** it levels the playing field.
+
+**[00:47]** So Seth, what are you right now? I know I know where you are, but maybe you can tell us a bit about
+
+**[00:53]** your location. Venice, Italy, not Venice Beach. That's the one. So Venice, how is it? How is it?
+
+**[01:01]** Are you loving it? Eating it? What are your impressions? It's a very strange place.
+
+**[01:12]** You know, in the same way that even though Venice Beach is in Los Angeles, when I lived in Venice Beach,
+
+**[01:19]** I lived in Venice Beach. I didn't live in Los Angeles. It's very different.
+
+**[01:27]** In Venice Beach, you walk, you take your bike, you don't drive a lot, and it's kind of like its own,
+
+**[01:37]** definitely its own vibe. LA is broader and different than it's really about driving around in cars
+
+**[01:43]** and there's an LA lifestyle. But Venice Beach, its own little island as it were.
+
+**[01:48]** In Venice, Italy is the same. I haven't spent a lot of time in and around Italy outside of Venice.
+
+**[01:57]** Now I've been here for more than a month with Christy, with Dole, with Pablo, with Leo,
+
+**[02:04]** with Fed, who's kind of local, part of great moments, helping us organize.
+
+**[02:08]** And it definitely has a life of its own. It's on the water, so you sleep very deeply,
+
+**[02:17]** and you have a lot of dreams. And there's no cars, there's no ubers, it's just walking everywhere.
+
+**[02:23]** These little tiny streets, there's a lot of small streets and non-descript buildings,
+
+**[02:32]** then you go into the building and it's like the greatest cathedral you've ever seen.
+
+**[02:36]** So it's filled with that. And I think Venice, Italy has been amused to
+
+**[02:43]** writers and artists for all these years, 800, 900,000 years, I mean like long, long time.
+
+**[02:52]** And obviously, you know, we're here because this is where the bright moments road map ends.
+
+**[03:00]** And this is where we're going to be minting the last thousand crypto citizens,
+
+**[03:07]** which are called Crypto Venetians. This is where we're going to be minting the finale project,
+
+**[03:12]** which I'll share more about. And it's also happening during the Venice Biennale,
+
+**[03:21]** which is I think the greatest art fair and festival that we have, because it's so international,
+
+**[03:33]** and it really feeds. It's like Disney World, if you're in the art world. It's exciting,
+
+**[03:40]** it doesn't feel like it's just a scene. As some of these art fairs, it's like you go to be seen,
+
+**[03:46]** or you go to that party. I think what's exciting here is all the different people coming from
+
+**[03:53]** around the world to showcase their art in the classic Biennale. And so we were very deliberate
+
+**[04:00]** about staging our finale at the same time here, because in a way, bright moments is an
+
+**[04:09]** international community of artists, mostly gendered artists and AI artists who are coming together
+
+**[04:15]** for this final gathering to share time with each other, to reflect upon the last three years
+
+**[04:23]** of bright moments and to share some new work with each other and with our collectors.
+
+**[04:29]** Yeah, definitely. I think the timing is perfect. As you said, it clearly looks like you
+
+**[04:36]** timing it on the first week of the event. And what are your thoughts there, Seth? You think we'll
+
+**[04:44]** see people going to the event hearing about bright moments and maybe coming and visiting. Do you
+
+**[04:50]** expect some of that? That a good entrance to these people from the traditional art world?
+
+**[04:56]** What are your thoughts there? I don't know. I mean, if that happens, it's a bonus.
+
+**[05:01]** You know, it's not like we... I think we did this more as a extension of the education of our own
+
+**[05:14]** community than trying to get people to walk over from the traditional world. Like if I think about
+
+**[05:22]** where we started in Venice Beach and then New York and then Berlin, every step of the way,
+
+**[05:31]** I think we tried to up our game in terms of cultural awareness, in terms of our own technology,
+
+**[05:40]** in terms of the artist we're working with, in terms of, yeah, just our own kind of sophistication
+
+**[05:47]** in terms of doing what we're doing and putting on really interesting experiences. And so I think
+
+**[05:53]** from London to Mexico, I think Mexico was really where we really opened up this idea of workshops
+
+**[06:02]** and panels and we did, you know, hands-on workshops with KCREs and Zach Lieberman and we did a
+
+**[06:08]** panel with conversation with Gann Brude and Sophia Cresco about AI art. So that was Mexico City and
+
+**[06:15]** then we followed that up in Tokyo and then Tokyo to Buenos Aires and Buenos Aires to Paris. And so
+
+**[06:23]** I think we've been on this journey to discover and celebrate digital art together in places where
+
+**[06:38]** there's a lot of traditional culture, right? And I think we felt that in Paris a couple months ago.
+
+**[06:44]** It felt really good. It felt like, you know, that gallery was full of people and they were all
+
+**[06:51]** that we knew. And it wasn't a bunch of traditional art people who walked in. If they came, great,
+
+**[06:57]** but we didn't need them. And I think there's too much in the digital world right now of sort of
+
+**[07:05]** feeling insecure that somehow we don't matter unless the traditional art will recognize us.
+
+**[07:15]** And I do think it's important to make onboarding easier. I do think wallets have to be easier. I
+
+**[07:23]** think a lot of these mechanisms need to be good and easy for everybody, but it's not because we
+
+**[07:28]** somehow need the validation of the traditional art world. I think it's just want to make it easier
+
+**[07:33]** for anybody to get involved. Yeah, so I came on from foundation. He was in the podcast and he
+
+**[07:41]** had a very similar message, right? Like if they want to come in, that's great, right? But that's not
+
+**[07:48]** what foundation in that case is trying to do, right? They are more focusing on the modern art and
+
+**[07:54]** artists on the prairie art in the digital form, right? And I agree. I feel like many people
+
+**[08:01]** are trying to get the attention from the traditional artwork, but I don't think that's the end goal
+
+**[08:08]** for what we are doing right in the space. And it says, what can you tell us? So you've been
+
+**[08:15]** traveling for three years, right? You've been living kind of a nomad life. How is that experience?
+
+**[08:23]** What do you love about it and what do you hate about it? Because let's face it, it's hard to
+
+**[08:29]** be in all these cities for a couple of months, right? And then coming back to the US,
+
+**[08:35]** then do it again. How do you feel after three years? How does the team is feeling about the whole
+
+**[08:43]** experience? It's pretty complicated, you said, of emotions. I think right now we are on a adrenaline,
+
+**[08:54]** you know, like it's like you're in mile 24 of a 26 mile marathon and you turn the corner and you
+
+**[09:03]** sort of maybe you don't see the finish line, but you know it's there and you're not in control
+
+**[09:10]** of your bodily functions, but you're going to fucking make it to the end. I think that's what we feel.
+
+**[09:15]** You know, God bless Christy who's such a part of his journey and has been incredibly supportive
+
+**[09:23]** and still talks to me, still with me, because it's a lot on human relationships and it takes a toll
+
+**[09:35]** on working relationships and friendships and family and all of this. It's just hard when you're
+
+**[09:41]** not settled and when you're living out of a suitcase. We try to keep it light, you know, we have a lot of
+
+**[09:48]** fun. You know, our tagline is serious fun, you know, it's serious because the blockchain is serious
+
+**[09:56]** and proven and so serious and all the economics around this are very serious, but it's also fun
+
+**[10:05]** because we are inventing something, you know, as we go and we are creating our way through it
+
+**[10:15]** and it's never been done before and you know, it came out of a very specific time, which was
+
+**[10:23]** the pandemic, right? We were all stuck in Venice Beach at the beginning of 2021 and I, you know,
+
+**[10:32]** Christian, I just moved there from San Francisco. We didn't know a lot of people, but people weren't
+
+**[10:39]** going anywhere because they were stuck in quarantine and that's where this happened and so
+
+**[10:43]** it was a tie and when the idea of travel was very compelling and very seductive because we had
+
+**[10:50]** been stuck at home for a couple of years and so the notion of going around the world and making art
+
+**[10:57]** all these digital artists as a fantasy, now we're three years into the reality, it's not as sexy as
+
+**[11:06]** it kind of once felt, it's draining, you know, there's been a lot of changes in the market as you know,
+
+**[11:14]** you know, we saw, you know, when we started, I mean, Ethereum is the Ethereum layer one has been
+
+**[11:21]** for the most part the foundational economic layer of bright moments as a Dow and when we started,
+
+**[11:28]** it was probably 1500 when we minted in New York at the end of 2021 with crypto New Yorkers and
+
+**[11:37]** Tyler Hobbs in complete control, I think Ethereum was, you know, 4200 or something like that. Almost
+
+**[11:44]** all the time high, almost right. When we were in London, minting crypto Londoners, it was closer to
+
+**[11:51]** a thousand, right? And then it sort of hovered around 2000 for a long time and now it's back up
+
+**[11:59]** again, but it's been a very volatile backdrop economically as a currency or as a, as a kind of fuel,
+
+**[12:10]** you know, for us in the ecosystem, not to mention the fact that there's been so many metas competing
+
+**[12:17]** from PFPs when we started to, you know, hardcore, the boom of, you know, art blocks and then
+
+**[12:25]** FX hash, booming, you know, early 2022 to the meta around AI. And now we're seeing with, you know,
+
+**[12:34]** Salana, ordinals and meme coins and base and DGEN and FARCAST are like things keep shifting and we've
+
+**[12:42]** tried to be really consistent about our mission and our roadmap and it feels good to do, if
+
+**[12:51]** nothing else, I feel like we were doing what we said we were going to do. Yeah, no, I mean,
+
+**[12:56]** you, I think what Brian moments, I mean, what's very impressive, we already mentioned the traveling,
+
+**[13:02]** right? Oh, that's, it's very challenging, but you are capable of putting shows that feel very much,
+
+**[13:10]** you know, state of the art on every city, right? So you incorporate either through artists or through
+
+**[13:17]** experiences, through talks, our themes, what's happening, right? At the moment and maybe what's
+
+**[13:23]** happening during that month. So that's very impressive because you need to be, you know, paying attention
+
+**[13:29]** basically every day while building this event. So it's very challenging. And I mean, I wanted to ask
+
+**[13:36]** you like, you already mentioned, right, the meme coins, what's happening on FARCAST, what's happening
+
+**[13:42]** on Salana, ordinals. So how is it? I think I hit all the bright shiny objects. Yeah, that's
+
+**[13:52]** basically, and this seems to be like happening since two months ago, right? This, this kind of items
+
+**[13:59]** popping up. How do you, if the question is because if finale, it's I think a bit special,
+
+**[14:06]** right? Because it's not going to be more like looking back, right into everything that's
+
+**[14:11]** happening with bright moments. What are you planning to incorporate some of these, let's say,
+
+**[14:17]** shiny objects into the event somehow? There will be no Salana. So for all the Salano levers, I'm sorry.
+
+**[14:25]** There will be no Bitcoin ordinals. So for all the Bitcoin maxi, I'm sorry as well.
+
+**[14:32]** We are incorporating base and we've incorporated base, you know, in Paris for the artists and residents.
+
+**[14:38]** And with the cloning base and highlights and Xancan, we did what I think is still now the largest
+
+**[14:45]** on-chain generative project ever with 75 or 76,000 unique mints. We are also using base to settle
+
+**[14:55]** our daily gold and token options. Yes. That being said, the crypto Vanitians and the finale project
+
+**[15:07]** will be minted on layer one Ethereum on our blocks as we've done from the get go. And I think that's
+
+**[15:13]** part of our provenance is we have two main contracts. We have a citizens contract on our blocks,
+
+**[15:21]** and we have a moments contract on our blocks. And both of those contracts will be coming to an end
+
+**[15:27]** on Monday, April 22nd in the evening in Venice Italy when we mint crypto Vanitians number 99.
+
+**[15:37]** And we mint finale mint number 99 because they always started zero. And that will be the end of
+
+**[15:43]** this roadmap on layer work. Yeah, that's exciting. So it comes to a close on chain and off chain,
+
+**[15:51]** like the whole project that's very interesting. And can you tell us a bit because I've been paying
+
+**[15:57]** attention to the options and the golden tickets. So basically this time they give you a citizen mint
+
+**[16:06]** and also a unique piece, one out of a hundred or out of a thousand a hundred, right?
+
+**[16:14]** This is how it works. Yeah. So the idea all along was for Venice Italy to be a retrospective.
+
+**[16:23]** So we're going to have an amazing retrospective of the last three years. So when you come to the
+
+**[16:31]** School of Grande San Giovanni, on the first floor, there'll be like 20 screens and 10 will be showing
+
+**[16:40]** each of the crypto citizen cities, you know, Venice, Galacticans, New Yorkers, etc. And then there
+
+**[16:49]** will be 10 screens that will show all of the artists that we have minted in around each city,
+
+**[16:55]** in each time zone. And that'll all be retrospective, right? And then up to the last two screens,
+
+**[17:04]** that will be showing you new mints from the Venetians and from the finale project that are coming
+
+**[17:09]** live upstairs because when you go upstairs, if you have a golden token for Venice, you will actually
+
+**[17:17]** with that one golden token, which is kind of like a mint pass, you'll mint two NFTs. One NFT will
+
+**[17:24]** be your crypto Venetian. And then with that, you will be able to mint an output from what we're
+
+**[17:30]** calling the finale collection. And the finale collection is includes right now between 50 and 60
+
+**[17:40]** artists that we have worked with over the last three years, who we invited to submit code into
+
+**[17:47]** this finale meta project. So the request was, please be part of this finale project. It's kind of
+
+**[17:58]** like we are the world and submit 24 kilobytes of code using p5 and whatever libraries. And it's
+
+**[18:07]** being project managed by Spongenuity, Casey Dilla and Peter Pasma and Phil and our team.
+
+**[18:15]** And Peter Pasma God bless him because he's minifying all the code. He's a magician at that.
+
+**[18:21]** So it's a little bit like the Manhattan project without any of the political undertones.
+
+**[18:27]** And then we have artists like Maya Man, Iskra Marcelo, Zach Lieberman, Casey Rees,
+
+**[18:35]** is a deaf beef, Kim Asendor, if Andreas Geeson,
+
+**[18:42]** Monica Ritzoli, Zancan, Ketchel Gollid, like an amazing, amazing collection of artists
+
+**[18:48]** for all contributing a little bit of code. And when you come and after you're mint your Venetian,
+
+**[18:54]** you'll go into another room and you'll mint an output from the finale collection. And not only
+
+**[19:00]** won't you know what the artwork is, you won't know who the artist is until it happens.
+
+**[19:05]** And the artists themselves won't know. So if you do the math and let's assume there's 50 artists,
+
+**[19:12]** although they'll be slightly more, the probability is, there's a 2% chance that any one of those 50
+
+**[19:20]** artists will get minted when it's your turn. And you don't know who it's going to be. And the artists
+
+**[19:27]** don't know it's going to be. And most of the artists will be there with you in some shape or form
+
+**[19:34]** at the squalda because they're going to be fascinated to know if and when their work gets minted.
+
+**[19:39]** So it's like double or triple randomness. And as random is all the way down. And it's all
+
+**[19:46]** fundamentally on chain random, provably random. And some of the artists will probably get minted,
+
+**[19:53]** you know, if the standard devy, if the expected probability is each artist gets minted 20 times,
+
+**[20:00]** 50 artists. The reality is, some will get minted 30 times, some will get minted 10 times. A couple,
+
+**[20:09]** maybe one doesn't even get minted. Yeah. And that's going to be really fun.
+
+**[20:14]** Yes. And usually what happens is you have a mint bath and you can pick right or the mint bath
+
+**[20:20]** comes with the name, right? This is artist. Not this time. So that will be exciting because
+
+**[20:28]** yeah, artists also will be, I mean, they I'm sure they want their pieces to be minted. Nobody will
+
+**[20:36]** while into not be minted, right? But that would be exciting. And how does these collections,
+
+**[20:43]** how does it look? Are you going to reveal some preview soon? Because I think I haven't seen those.
+
+**[20:48]** Yeah. They look great. And a lot of the artists like today, Zach Lieberman shared
+
+**[20:55]** some outputs of these kind of evening ripples of water that echoes his work from Mexico,
+
+**[21:00]** which was 100 Sunsets. Yeah. Zancan showed some of his that have the names of the bright moment cities,
+
+**[21:08]** you know, behind the flowers. So I think you'll see more and more
+
+**[21:12]** a sample outputs from the artist, but we'll also be sharing some of them. It's kind of a fun game
+
+**[21:18]** because if you click the reveal, it's kind of like guess the artist, you don't know who it is.
+
+**[21:22]** Yes. Yes. And a career is called in a randomness party. I think that's how we want to finish
+
+**[21:28]** this roadmap is with, you know, what do they say? Like, you know, the only thing that you can,
+
+**[21:34]** the only thing that you can't, you know, the doesn't change is change itself. It's like in our case,
+
+**[21:40]** given all the ups and downs and the strange behaviors of the market and of life the last couple
+
+**[21:45]** years, like the thing that's been consistent all the way through is we pray to the God of randomness.
+
+**[21:52]** Yes. That is when in doubt, bright moments has always used randomness as it's true north.
+
+**[22:01]** And it just feels right. And I think there's a deep foundation of randomness, as you know,
+
+**[22:08]** in generative art. And there's a deep foundation that randomness and AI are, although it's not as
+
+**[22:13]** explicit, but I think in a world where we just have a hard time trusting people and trusting
+
+**[22:21]** things and trusting brands. If we can prove that randomness is indeed random on some fundamental
+
+**[22:30]** level, it levels the playing field. And even the way that we distribute citizens, you know,
+
+**[22:37]** a third of every city gets air dropped randomly to our citizen holders. It feels fair.
+
+**[22:43]** Yeah, no, that's exciting. I mean, I'm going to be there. I'm still paying attention to the
+
+**[22:50]** auctions. And I have a couple of friends. So this one is going to be very exciting for me because
+
+**[22:55]** I'm going to be there with some friends that we are traveling from here from Spain. So we are
+
+**[23:02]** kind of neighbors. And you know, I've been to the events where I usually meet people there,
+
+**[23:08]** right? That I already know online. So it's very, very, very fun. But this time I'll experience it
+
+**[23:13]** with my friends. And we are all paying attention to the auctions. And looking forward for the previews.
+
+**[23:20]** We are all very, very excited. And the schedule is out. There will be a dinner, right? The first day.
+
+**[23:25]** And then the minting starts, right? They two and three. What else? So if somebody's listed, we also have
+
+**[23:33]** the, we have a something that we're really excited about called the Dream Cathedral. And I think you
+
+**[23:38]** probably saw, we started it in Tokyo. We exhibited it for the first time and we showed it again
+
+**[23:44]** in Paris. It's that initially it was created by human, the AI artist, right? It's a real time
+
+**[23:52]** voice to video AI and it's amazing. And it just keeps getting faster and smoother. And
+
+**[24:01]** human created it. And now we have a small team working on it, including sponge annuity,
+
+**[24:07]** including meat glows and some others. In this case in Venice, we were able to take over a church.
+
+**[24:15]** So across the street, across the little alley from our main minting area, we have a church
+
+**[24:21]** that we're turning into something called the Dream Cathedral. And it will be a collaboration with
+
+**[24:27]** Gandrew, the AI artist. And we are stylizing this AI installation based on his prompts. And when you
+
+**[24:37]** go into the church, effectively, you'll be confessing to the AI and you'll be seeing digital
+
+**[24:45]** paintings coming at you based on what you confess. And this will be open starting on the 17th
+
+**[24:50]** of April and will last for at least a month. Oh, that's exciting. So it will last for a month,
+
+**[24:57]** though anybody who will go there and experience that. It's the first time that we've opened up
+
+**[25:04]** this dream machine to an outside artist. And I think this is a really interesting
+
+**[25:10]** collaboration model for us. And for the product is to start to open it up to other artists to
+
+**[25:17]** kind of bring their own style prompts to the experience. Yeah, that takes me to the
+
+**[25:24]** my I'm very curious about what's next. Last time we chat a bit about some ideas you had. And I
+
+**[25:31]** feel like many people are wondering, so what's happening now with bright moments after the
+
+**[25:36]** city? So what can you tell us about that? And you show some hints in parties, right? Or some of
+
+**[25:42]** your plans? What can you tell us? Seth, I think we're going to take a little bit of a breather.
+
+**[25:49]** You know, the team has been working incredibly hard. That'll ask a couple of years.
+
+**[25:56]** I think we really want to give this collection of NFTs that we've made a chance to
+
+**[26:04]** for people to reflect on them and appreciate them. I think sometimes because we're so busy
+
+**[26:09]** minting new work, it's really hard to, like even now it's like we minted 1900 NFTs in Paris
+
+**[26:17]** across 19 artists. And each one of those collections, Linda Dunias, Rupes, Lauren Lee McCarthy's,
+
+**[26:25]** Luke Shannon's, Martin Grassos, Maya's, harms, like they all deserve time and attention. And I think
+
+**[26:36]** when we push so much minting into a live experience, it's really exciting to be there. But I think
+
+**[26:44]** it requires a little bit more time to marinate. And so we want to give that not just for Paris,
+
+**[26:49]** but across all of right moments and say, okay, now we just ran through three years.
+
+**[26:56]** Let's step back and appreciate like what is what is the arc? What does the stories say about
+
+**[27:01]** digital art and gendered art and AI art from 2021 through 2024? And I know that's not
+
+**[27:11]** answering your question, but I think it's really important for artists and for collectors to
+
+**[27:17]** appreciate what we've just gone through. I think we have some ideas for what's next for
+
+**[27:23]** bright moments. We clearly don't want to do anything to dilute the value of these collections.
+
+**[27:30]** And obviously the market for gendered art and for digital art looks really different right now
+
+**[27:38]** in the middle of 2024 than I did in the beginning of 2021. And I think you want to step back
+
+**[27:44]** and really think about what we can do to take this community of artists and collectors around
+
+**[27:52]** the world and elevate them to the next phase of growth. We have some software that we built.
+
+**[28:00]** We have a product called Visions, that is what we use internally for revealing art on different
+
+**[28:06]** screens and creating playlists. And it's something we want to figure out how to open up to the
+
+**[28:10]** community because I think people are starting to wonder like, okay, I have all this digital art.
+
+**[28:16]** I want to show it at my house. I want to show it in my office. I want to show it at this gallery.
+
+**[28:21]** And there's no good solutions out there. And I think you have something that can help.
+
+**[28:26]** I think the AI experience, the dream machine has a lot of interesting applications and opportunities
+
+**[28:33]** that we want to pursue. Beyond that, I want to wait until we finish the last
+
+**[28:40]** minute, under the 20 second before we say anything else.
+
+**[28:44]** No, that makes sense. And it's good that you take some time because you've been so focused on
+
+**[28:49]** delivering these experiences, right? That maybe a bit of a, you know, a breeder, as you said,
+
+**[28:57]** can be great to get the inspiration on what should be the next steps for Bride Moments and
+
+**[29:08]** the whole community. Now you have, I mean, it's a worldwide community of artists, collectors,
+
+**[29:13]** they are all around the world. And so so many possibilities as well, right? So yeah,
+
+**[29:21]** I'll be waiting for those, you know, the next steps. And also you have the, the dow, right?
+
+**[29:26]** And you have these, how do you call them? The galleries in each city, right? That those,
+
+**[29:33]** will those be operating for the next year? What's the, how does it, if I, how am I Mexico,
+
+**[29:39]** is there a gallery right now? How does it works with the different gallery?
+
+**[29:44]** So there's no physical galleries. You know, we have a small space in Berlin that we've held onto,
+
+**[29:51]** but we tried to stay really light in terms of leases to give ourselves flexibility. And you'll see
+
+**[29:57]** in Venice, like it's like we're calling the, do, do, do, and all the different people from around
+
+**[30:03]** the Bride Moments communities are coming to Venice, right? So there's really nothing going on in
+
+**[30:07]** New York, or Paris, or London, or Tokyo. What we have been doing, which I think is interesting,
+
+**[30:13]** is giving each local community the opportunity to host their own events. So if you're part of a
+
+**[30:18]** community, we did one in Madrid. Maybe there's a community in Buenos Aires if they want to have a
+
+**[30:23]** dinner for collectors and artists. That will sponsor that. We're really pushing as much as
+
+**[30:30]** possible towards decentralization. Like, you know, after three years, we want to put as much
+
+**[30:36]** decision making into the hands of the community, because it's an amazing community that,
+
+**[30:42]** that I think wants to continue to interact from the real life with each other. And I think
+
+**[30:49]** there's ways to do that that don't take the toll physically and emotionally and economically
+
+**[30:55]** on us as a centralized team the way it has for these three years.
+
+**[31:00]** Yeah, and I remember when we met in Mexico, you were to mention that, that it starts, like the
+
+**[31:07]** projects, it's far more centralized and the goal is that they start to decentralize every, every
+
+**[31:13]** time, a little bit more, a little bit more. And I think you are in a great position to do that,
+
+**[31:18]** with the Dow. So people can submit a proposal through the Dow for this kind of events and get
+
+**[31:27]** funded. That's interesting. That's interesting. Awesome. Says, and you know, we mentioned briefly the
+
+**[31:34]** state of the market, what's happening these days. So I want to hear from you. What are you excited
+
+**[31:39]** about? What are you seeing talking to artists, collectors? You've been on Farcaster. So in general,
+
+**[31:47]** in the space in Web 3, art, but also in blockchain technology in general. What are you excited about
+
+**[31:55]** these days? I mean, excited is a double edged sword, because you get excited and then you
+
+**[32:05]** get obsessed and then you get speculative and then you get greedy and then you get sad because
+
+**[32:13]** all your money goes to zero. There's these cycles of like, and yet if you don't engage
+
+**[32:20]** and you just fudded on the way up, you don't know what you're going to miss out on.
+
+**[32:26]** And so it's very tricky, I think, for all of us to figure out how to balance, focus.
+
+**[32:34]** Let's take a couple key things. Mean points. Mean points are a thing. I saw it with Dog with Hat.
+
+**[32:42]** You know, I have two sons, Charlie and Jacob. Charlie is 22. Jacob's 20 to be 25 next week.
+
+**[32:48]** We'll both be here for the finale. We started together as a family with Christy,
+
+**[32:53]** Anemisia, and Dol, back in Venice Beach three years ago. But thanks to
+
+**[32:59]** their age groups and not my own, I'm able to sort of like, oh, you know, okay, I guess I should buy
+
+**[33:05]** some of this dog with Hat in December. And you're like, what the fuck is going on? What is it?
+
+**[33:12]** Is it art? No. Is it defy? No. It's a dog with a hat. And it keeps going up. Then it goes down,
+
+**[33:21]** it goes up, but like, it's a meme and it's powerful. And people rally around it the same way they
+
+**[33:26]** rally around Pepe. When the Pepe coin came out, we were in Tokyo. And the way the reason I remember,
+
+**[33:32]** it was May because our prices to mint crypto, Tokyoites were crazy hot because the fucking Pepe coin.
+
+**[33:46]** And it didn't go away. Pepe has been here forever. So I think like these meme coins are important.
+
+**[33:53]** They have product market fit. They're pretty easy and permissionless to launch.
+
+**[33:59]** You've seen it with, you know, dark farms and Book of Me was fascinating. And I was probably like,
+
+**[34:06]** like all of us, 12 hours away from generational wealth. But a couple people that I know well just sent
+
+**[34:13]** 420 soul. .69 to that contract and ended up with $50 million. And you can say, that's bullshit.
+
+**[34:23]** That's a bubble that's a parmsy's theme. But it's not. Right. And dark farms is pretty interesting
+
+**[34:30]** to generate Pepe art for a long time and didn't take the proceeds for himself. Right.
+
+**[34:38]** There's some really interesting lessons there in terms of a fair launch that I think artists and
+
+**[34:43]** galleries can learn from. Now some of these things go up and go to zero. But some of them go up and
+
+**[34:49]** go down and then kind of hold their place. And you can say dog with hat. You know, and Book of
+
+**[34:56]** Me have done that. Now that's on the Salana side. If we shift to base, obviously,
+
+**[35:04]** Farcasters have been a huge, you know, it's one of they say it's an overnight success. Two years
+
+**[35:10]** in the making. Right. You can say this just happened. But it actually launched in Venice,
+
+**[35:17]** Beach. Right. That's where it started. That's where it's based. You know, Phil, you know,
+
+**[35:22]** my partner, right, Moments who runs everything. He was super early and he's super big on Farcasters.
+
+**[35:28]** We call him Farcasters Phil. And he's been grinding it out for years there because he was tired of
+
+**[35:34]** Twitter and wanted something was decentralized and permissionless. That he can trust. And so
+
+**[35:42]** the same thing with Camille Rue, right. Some of these people that we see there are Cooper Trooper.
+
+**[35:46]** They've been there for a while, like you have. And in what's super interesting there is like
+
+**[35:53]** with Farcasters, you have like Twitter meets Venmo. Right. That's not owned by anyone company or
+
+**[36:00]** any one person. It really is fairly open. Now, those issues with base and you could argue that
+
+**[36:09]** base is more centralized because it's coming from Coinbase. But it also is really easy to use.
+
+**[36:15]** And if you're using Coinbase and you're using Coinbase wallet and their new self-custody wallet,
+
+**[36:20]** it's so much easier than Metamask. And I've been a Metamask Masky, no Maxi for a while. And I'm
+
+**[36:26]** starting to shift my attention. So it's not just Metamask. I'm using Phantom for Solana. And I'm
+
+**[36:34]** using my Coinbase wallet for all the base stuff. It's really easy to use. And what's so
+
+**[36:41]** interesting to me about Farcasters is frames are interesting, but tipping is really interesting.
+
+**[36:47]** And what they're doing with DGen and the way DGen launched and the way it's being used
+
+**[36:52]** as a kind of way of ultimately, I think, paying for art. And I think that the tipping on Farcasters
+
+**[37:02]** in a way helped replace the loss of royalties on OpenSea. It's played as out. This seems what
+
+**[37:08]** is going to happen. And then there's DGen as an L2 that's moved to its own L3 chain with the DGen
+
+**[37:16]** chain. Now they are the highest volume of all L3s. DGen chain, even more than Blacks, from what I
+
+**[37:26]** am here. It's just a lot of heat there. It's hard to, it's dangerous to speculate because of
+
+**[37:36]** volatility. It's pretty extreme. So you're starting to see more and more artists and more and
+
+**[37:41]** more collectors move into that ecosystem, which I think is healthy. Now it begs the question,
+
+**[37:47]** which is, okay, what do we do? Where should we mend art? And how should we mend art?
+
+**[37:52]** And should it be on art block? Should it be on FX hash? Should it be on highlight?
+
+**[37:58]** Should it be on foundation? Should it be probably not TES, but there's still a strong TES
+
+**[38:05]** community. Heath is very expensive on Maynet to mention that it carries provenance and people
+
+**[38:10]** trusted. More and more is happening on base, but it feels more experimental. But I think time will
+
+**[38:18]** tell. I just think we have to experiment. There's also the different metas of, you know, is it an
+
+**[38:23]** open edition at a really low price? Or is it a smaller capped edition at a high price? And we're seeing
+
+**[38:31]** people don't trust, they don't trust one of one of X at a high price anymore the same way they
+
+**[38:38]** used to, right? And I think we may swing back to that meta. Right now it's a buyer's market for
+
+**[38:47]** a whole bunch of art blocks projects and a whole bunch of FX hash projects. Right now is a great
+
+**[38:52]** time to go pick up your subscapes and meridians and anti-cycloans on art blocks. You can probably get
+
+**[39:00]** dragons and a bunch of zankans. Right. Discount. Discount. Right. But it's not fashionable. What's
+
+**[39:10]** much more fashionable are open editions and mean points and an ordinal's right now. But I think
+
+**[39:17]** there's been a lot of money being made and there's a lot of volatility happening at certain point,
+
+**[39:22]** people rotate into fidenzes because they trust them to hold value. Or as squeakles maybe. But yeah,
+
+**[39:31]** you're right. That's a great, great summary of what's happening. And yeah, what you mentioned,
+
+**[39:38]** where should we mint? I think many artists. I get a lot of questions from artists like, hey,
+
+**[39:42]** should I try soda or should I try base or should I and I don't know what to answer, right? I think
+
+**[39:48]** they need to be experimental, as you said. Just have an open mind. Don't be like all leaning to
+
+**[39:56]** something at this moment, right? But you keep exploring and same for collectors. For collectors,
+
+**[40:02]** I've also hear some collectors a bit frustrated because they don't have the, you know,
+
+**[40:10]** how do they keep track of everything? It's not possible anymore, right? So where, how can they,
+
+**[40:16]** you know, in the early days, you wear an Arblogs collector or you wear an FX hash collector
+
+**[40:21]** or you like foundation or you, you know, you explore a bit, you wear in one spot and one place.
+
+**[40:27]** Now, it doesn't work like that. It seems, which probably is more healthy, right? Or artist
+
+**[40:34]** and in general for the space, right? I think collectors more and more follow the artist, right?
+
+**[40:44]** You know, ex-copies are a really good example. Now he's not a generative artist, right? But
+
+**[40:51]** he has explored so many different ways of minting. Yeah, he has his own coin.
+
+**[40:56]** His own coin and it supports the early rare work. So it feels like the more he mints
+
+**[41:06]** and the bigger the open editions are like he just did, right? On bass, which was like a million
+
+**[41:11]** mints, it doesn't take away the value of his early work, it actually supports it because he has
+
+**[41:16]** more attention. So the example here is, let's take Xan Camp, right? I, I'm very proud of my garden
+
+**[41:25]** monolith. I remember when I bought it in November of 2022, we were in Mexico City and I just fell in
+
+**[41:32]** love with him and his work and it's a really important piece of mine. And he's gone on, I mean, at the
+
+**[41:39]** time, he hadn't minted a lot of work and he's gone on to mint more work, right? And there were times
+
+**[41:46]** when people said he was minting too much work and he had an open edition on verse and he did
+
+**[41:51]** beautiful project with us in Tokyo and then he just did his project with Coinbase on bass for
+
+**[41:57]** a free mint, 75,000 pieces. And that actually, I don't know if it shows in the market data right now,
+
+**[42:06]** but I actually think that makes garden monoliths worth more or not less, right? That he has now exposed
+
+**[42:12]** his work to more and more wallets, to more and more people who any one of which can go down the
+
+**[42:18]** rabbit hole and trace back his career and go back to Teso's and go back to FX Act and say, whoa,
+
+**[42:25]** I really love this artist. I want to, I want to go back and collect his Genesis piece, right? And I
+
+**[42:32]** think that's the kind of experimentation that artists need to feel safe to do. Otherwise,
+
+**[42:40]** they're just going to stop releasing work and I don't think anybody benefits from that,
+
+**[42:45]** but at the same time as a collector, you don't want an artist to release too much. So it's really
+
+**[42:53]** a very fine balance. It's science, actually, it's science and it's very, I mean, it's, some artists
+
+**[43:01]** are great are doing it and some artists are not and that's where they need some support from
+
+**[43:08]** galleries like Prime Moments or now, you know, there are other entities helping supporting artists,
+
+**[43:14]** but yeah, that's a great way to put it, says, always, always great to hear your thoughts.
+
+**[43:20]** One last question, what are ordinals? Thoughts on ordinals, what's going to happen with ordinals?
+
+**[43:27]** I see that it's growing, it's very fast. I start to see more art on ordinals. What do you see
+
+**[43:35]** around that ecosystem that I bought my first two ordinals the other day, I bought a 1970
+
+**[43:45]** scent for myself, which was my birth year and I bought a 1979 one for Christy, which was
+
+**[43:51]** Herbert. That's a great project you're referring. I know some folks behind it, and we weren't Berlin
+
+**[43:59]** the week before it launched, and you know, again, it wasn't some macro strategy for ordinals as
+
+**[44:06]** much as it was just knowing the people behind it who I trusted. I do know that there are a lot of
+
+**[44:14]** Bitcoin holders that don't want anything to do with Ethereum, and they want to stay in that
+
+**[44:20]** ecosystem, and I think ordinals response to that to a certain extent. So I think there is a
+
+**[44:28]** fair amount of liquidity in the Bitcoin ecosystem looking for art within the Bitcoin ecosystem.
+
+**[44:36]** I don't think the art is nearly as interesting in the ordinal space as it is on Ethereum. I don't
+
+**[44:43]** think you have the kind of programmability and interesting use of smart contracts the way you see
+
+**[44:49]** with DEFB for example, or Mitchell Chan, or some of these artists that do amazing things with
+
+**[44:56]** poetry of smart contracts. I don't think we see that ordinals. It seems more too dimensional,
+
+**[45:02]** literally an inscription like a hyroglyph, but it doesn't move me emotionally the way that some of
+
+**[45:10]** these on Shane Ethereum projects do, and that's why I'm just haven't focused on it as much.
+
+**[45:16]** Yeah, no, definitely also for me to a bit of, took me a little bit to understand how it worked,
+
+**[45:22]** Riley, you need another kind of wallet, then it's Bitcoin, right? You need to use
+
+**[45:27]** Bitcoin, and yeah, a lot of everything seems to be a bit more expensive, right? So you have to be
+
+**[45:32]** careful. But yeah, no, same thoughts. I do see some people that really love ordinals, right? They
+
+**[45:40]** are really like maxi, ordinals, maxi. And again, I think it's about exploring, right, having an open
+
+**[45:47]** mind and see how it develops. But I agree that the limitation on smart contracts makes it a
+
+**[45:53]** little bit tricky for it to incorporate mechanics, right, or integrate with platforms.
+
+**[45:59]** Yeah, it will be interesting to see the future of ordinals. And Seth, see you soon. See you soon
+
+**[46:07]** in Venice. I'll see you in a couple of weeks. I'm excited. Yeah, and thanks so much for joining.
+
+**[46:12]** By the way, you are the only person that has been in the podcast for twice two times. So
+
+**[46:19]** I'm afraid to have you again and see you soon. Thank you, Caleb. I'll see you in a couple of weeks.
+
+**[46:27]** Bye bye. Bye bye.

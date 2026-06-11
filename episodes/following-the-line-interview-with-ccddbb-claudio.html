@@ -8,7 +8,6 @@
     :root {
       color-scheme: light dark;
       --bg:#0f1115; --card:#171a21; --text:#e8eaed; --muted:#9aa0a6; --accent:#7aa2ff; --border:#2a2f3a;
-      --wtbs-blue:#2a6da0; --wtbs-teal:#4c9181; --wtbs-pink:#f4b6d1;
     }
     @media (prefers-color-scheme: light) {
       :root { --bg:#f6f7fb; --card:#fff; --text:#1f2328; --muted:#656d76; --accent:#0969da; --border:#d0d7de; }
@@ -16,7 +15,7 @@
     body { margin:0; font-family:"Segoe UI",system-ui,sans-serif; background:var(--bg); color:var(--text); line-height:1.8; }
     .wrap { max-width:820px; margin:0 auto; padding:2rem 1.25rem 4rem; }
     .title-row { display:flex; gap:1rem; align-items:flex-start; margin-bottom:1.5rem; }
-    .show-icon { width:52px; height:52px; border-radius:10px; flex-shrink:0; box-shadow:0 2px 10px rgba(42,109,160,.28); }
+    .show-icon { width:52px; height:52px; border-radius:10px; flex-shrink:0; box-shadow:0 2px 10px rgba(0,0,0,.18); }
     .meta { color:var(--muted); margin:0; }
     .links a { color:var(--accent); margin-right:1rem; }
     article { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:1.5rem; }
@@ -24,7 +23,19 @@
     h2 { margin-top:2rem; font-size:1.2rem; }
     .note { font-size:.9rem; color:var(--muted); border-left:3px solid var(--border); padding-left:.9rem; margin:1rem 0 1.5rem; }
     details { margin-top:2rem; }
-    .page--wtbs .note { border-left-color:var(--wtbs-teal); }
+    
+    .card--wtbs {
+      border-left: 4px solid #4c9181;
+      background: linear-gradient(135deg, color-mix(in srgb, var(--card) 92%, #2a6da0 8%), var(--card));
+    }
+    .page--wtbs .note { border-left-color: #4c9181; }
+    .show-name--wtbs { color: #4c9181; font-weight: 600; }
+    .card--kaloh {
+      border-left: 4px solid #e04545;
+      background: linear-gradient(135deg, color-mix(in srgb, var(--card) 92%, #1a2a4a 8%), var(--card));
+    }
+    .page--kaloh .note { border-left-color: #e04545; }
+    .show-name--kaloh { color: #e04545; font-weight: 600; }
   </style>
 </head>
 <body class="page--wtbs">
@@ -34,7 +45,7 @@
       <img class="show-icon" src="../assets/wtbs-icon.png" alt="Waiting To Be Signed" width="52" height="52" loading="lazy" />
       <div>
         <h1>Following The Line - Interview with CCDDBB (Claudio Dalla Bernardina)</h1>
-        <p class="meta">Waiting To Be Signed · Claudio Dalla Bernardina · 2026-04-03 · 約 69 分鐘</p>
+        <p class="meta"><span class="show-name show-name--wtbs">Waiting To Be Signed</span> · Claudio Dalla Bernardina · 2026-04-03 · 約 69 分鐘</p>
       </div>
     </div>
     <p class="links">

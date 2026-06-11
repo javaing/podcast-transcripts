@@ -13,7 +13,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from build_site import build_episode_page, build_index  # noqa: E402
+from build_site import build_episode_page, build_index, load_shows_config  # noqa: E402
 from fix_episode import main as fix_episode  # noqa: E402
 from resolve_episode import resolve_episode  # noqa: E402
 from transcribe_episode import transcribe_episode  # noqa: E402
@@ -21,7 +21,16 @@ from transcribe_episode import transcribe_episode  # noqa: E402
 
 def download_audio(url: str, dest: Path) -> None:
     print(f"Downloading audio to {dest}...")
-    urllib.request.urlretrieve(url, dest)
+    req = urllib.request.Request(
+        url,
+        headers={"User-Agent": "Mozilla/5.0 (compatible; podcast-transcripts/1.0)"},
+    )
+    with urllib.request.urlopen(req, timeout=120) as resp, dest.open("wb") as out:
+        while True:
+            chunk = resp.read(1024 * 1024)
+            if not chunk:
+                break
+            out.write(chunk)
     print(f"Downloaded {dest.stat().st_size // 1024 // 1024} MB")
 
 
@@ -67,8 +76,9 @@ def process_url(
         transcribe_episode(episode_dir, meta, model_name=model)
 
     fix_episode(episode_dir)
-    build_episode_page(episode_dir, ROOT / "episodes")
-    build_index(ROOT)
+    show_lookup = load_shows_config()
+    build_episode_page(episode_dir, ROOT / "episodes", show_lookup)
+    build_index(ROOT, show_lookup)
 
     if push:
         git_push(

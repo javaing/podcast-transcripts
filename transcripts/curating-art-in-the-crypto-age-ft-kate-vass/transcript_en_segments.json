@@ -1,0 +1,1784 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.4,
+    "text": "to create something that haven't been created before is very difficult.",
+    "speaker": 0
+  },
+  {
+    "start": 4.4,
+    "end": 8.6,
+    "text": "I would say even mostly impossible because the history is long,",
+    "speaker": 0
+  },
+  {
+    "start": 8.6,
+    "end": 13.6,
+    "text": "but still there are some projects that are absolutely amazing",
+    "speaker": 0
+  },
+  {
+    "start": 13.6,
+    "end": 18.6,
+    "text": "and some of the creations that are done, let's say, early.",
+    "speaker": 0
+  },
+  {
+    "start": 18.6,
+    "end": 25.6,
+    "text": "Those are the pioneers of those particular periods.",
+    "speaker": 0
+  },
+  {
+    "start": 25.6,
+    "end": 27.2,
+    "text": "Those are important.",
+    "speaker": 1
+  },
+  {
+    "start": 27.2,
+    "end": 33.0,
+    "text": "Those are interesting because they didn't have anything to look at back at the time.",
+    "speaker": 0
+  },
+  {
+    "start": 33.0,
+    "end": 36.0,
+    "text": "So they were like kind of avant-gardeers.",
+    "speaker": 0
+  },
+  {
+    "start": 52.4,
+    "end": 55.2,
+    "text": "Hello friends, welcome to another episode.",
+    "speaker": 1
+  },
+  {
+    "start": 55.2,
+    "end": 59.800000000000004,
+    "text": "Today's guest is Kate Bass, who is the founder of Kate Bass Gallery,",
+    "speaker": 1
+  },
+  {
+    "start": 59.800000000000004,
+    "end": 63.400000000000006,
+    "text": "a digital and physical gallery based in Switzerland.",
+    "speaker": 1
+  },
+  {
+    "start": 63.400000000000006,
+    "end": 66.60000000000001,
+    "text": "We had a fantastic conversation about Kate's journey,",
+    "speaker": 1
+  },
+  {
+    "start": 66.60000000000001,
+    "end": 71.6,
+    "text": "starting from her beginning in the art world, her experience in finance",
+    "speaker": 1
+  },
+  {
+    "start": 71.6,
+    "end": 76.60000000000001,
+    "text": "and her experience creating, collecting and promoting digital art.",
+    "speaker": 1
+  },
+  {
+    "start": 76.60000000000001,
+    "end": 78.2,
+    "text": "Thanks again for joining.",
+    "speaker": 0
+  },
+  {
+    "start": 78.2,
+    "end": 81.2,
+    "text": "Don't forget to subscribe and share if you enjoy the episode.",
+    "speaker": 1
+  },
+  {
+    "start": 81.2,
+    "end": 83.60000000000001,
+    "text": "So good to have you in the show. How are you?",
+    "speaker": 1
+  },
+  {
+    "start": 83.6,
+    "end": 87.0,
+    "text": "Thank you for inviting me and very well. Thank you.",
+    "speaker": 0
+  },
+  {
+    "start": 87.0,
+    "end": 91.39999999999999,
+    "text": "And I think we've postponed this interview for, I don't know how many times.",
+    "speaker": 0
+  },
+  {
+    "start": 91.39999999999999,
+    "end": 94.19999999999999,
+    "text": "I think the schedule went like in June.",
+    "speaker": 0
+  },
+  {
+    "start": 94.19999999999999,
+    "end": 97.0,
+    "text": "And finally, end of October, we are making it.",
+    "speaker": 0
+  },
+  {
+    "start": 97.0,
+    "end": 102.19999999999999,
+    "text": "Yeah, yeah, we are making it happen now, which is I'm very, very excited",
+    "speaker": 0
+  },
+  {
+    "start": 102.19999999999999,
+    "end": 107.0,
+    "text": "because I've been following your journey, I think, for the last two years.",
+    "speaker": 0
+  },
+  {
+    "start": 107.0,
+    "end": 112.0,
+    "text": "You have been preparing so many shows, have been creating art,",
+    "speaker": 0
+  },
+  {
+    "start": 112.0,
+    "end": 113.4,
+    "text": "amazing artist.",
+    "speaker": 0
+  },
+  {
+    "start": 113.4,
+    "end": 116.4,
+    "text": "And yeah, I just wanted to ask you a bunch of questions.",
+    "speaker": 0
+  },
+  {
+    "start": 116.4,
+    "end": 121.4,
+    "text": "I'm very curious how is it like to run gallery like yours,",
+    "speaker": 0
+  },
+  {
+    "start": 121.4,
+    "end": 125.4,
+    "text": "doing shows around the world and working with some of the best artists",
+    "speaker": 0
+  },
+  {
+    "start": 125.4,
+    "end": 127.4,
+    "text": "in the digital art space.",
+    "speaker": 1
+  },
+  {
+    "start": 127.4,
+    "end": 131.8,
+    "text": "You could say contemporary artists, but also artists that have been creating art",
+    "speaker": 0
+  },
+  {
+    "start": 131.8,
+    "end": 132.8,
+    "text": "for over 50 years, right?",
+    "speaker": 1
+  },
+  {
+    "start": 132.8,
+    "end": 137.4,
+    "text": "So maybe a good point, a good place to start, Kate, is how did you get in both",
+    "speaker": 0
+  },
+  {
+    "start": 137.4,
+    "end": 138.4,
+    "text": "in the art world?",
+    "speaker": 1
+  },
+  {
+    "start": 138.4,
+    "end": 141.8,
+    "text": "Is this something you have been doing since you were John or when did you start?",
+    "speaker": 0
+  },
+  {
+    "start": 142.4,
+    "end": 146.20000000000002,
+    "text": "I haven't been a stranger to the art world since childhood because I have a",
+    "speaker": 0
+  },
+  {
+    "start": 146.20000000000002,
+    "end": 149.8,
+    "text": "initial musical, actual education.",
+    "speaker": 1
+  },
+  {
+    "start": 149.8,
+    "end": 156.20000000000002,
+    "text": "And I used to play piano a lot and play in theatres and my mom",
+    "speaker": 1
+  },
+  {
+    "start": 156.20000000000002,
+    "end": 157.8,
+    "text": "she's a painter and designer.",
+    "speaker": 0
+  },
+  {
+    "start": 157.8,
+    "end": 160.8,
+    "text": "So I think it was always within the family.",
+    "speaker": 1
+  },
+  {
+    "start": 160.8,
+    "end": 164.8,
+    "text": "So in certain, you know, for me, artists more general, it can be music,",
+    "speaker": 1
+  },
+  {
+    "start": 164.8,
+    "end": 167.4,
+    "text": "it can be theater, it can be architecture.",
+    "speaker": 1
+  },
+  {
+    "start": 168.4,
+    "end": 173.4,
+    "text": "It can be, of course, you know, the artists as we see it, you know, traditional art.",
+    "speaker": 0
+  },
+  {
+    "start": 174.20000000000002,
+    "end": 176.0,
+    "text": "So it's a little bit wider.",
+    "speaker": 0
+  },
+  {
+    "start": 177.0,
+    "end": 183.0,
+    "text": "My education initially, when I was a child, I studied all of it.",
+    "speaker": 0
+  },
+  {
+    "start": 183.0,
+    "end": 187.6,
+    "text": "So let's say from ancient history towards contemporary.",
+    "speaker": 0
+  },
+  {
+    "start": 187.6,
+    "end": 192.0,
+    "text": "And when you learn music and when you study history of music,",
+    "speaker": 0
+  },
+  {
+    "start": 192.0,
+    "end": 196.8,
+    "text": "it's fascinating because you actually, some obtainestly learn a lot of",
+    "speaker": 0
+  },
+  {
+    "start": 196.8,
+    "end": 203.60000000000002,
+    "text": "what was happening at the same era with traditional art and with politics and",
+    "speaker": 0
+  },
+  {
+    "start": 203.60000000000002,
+    "end": 208.20000000000002,
+    "text": "with innovations because if you look at the music history, it's also very",
+    "speaker": 0
+  },
+  {
+    "start": 208.20000000000002,
+    "end": 210.0,
+    "text": "interesting how it evolved.",
+    "speaker": 0
+  },
+  {
+    "start": 210.0,
+    "end": 215.20000000000002,
+    "text": "If we compare with Renaissance and nowadays, it's, yeah, very contemporary.",
+    "speaker": 0
+  },
+  {
+    "start": 216.0,
+    "end": 216.4,
+    "text": "Yeah.",
+    "speaker": 1
+  },
+  {
+    "start": 216.4,
+    "end": 220.4,
+    "text": "And as you said, art is, it takes many forms and shapes.",
+    "speaker": 0
+  },
+  {
+    "start": 220.4,
+    "end": 224.60000000000002,
+    "text": "And why did you decide to specialize in these?",
+    "speaker": 0
+  },
+  {
+    "start": 224.6,
+    "end": 225.79999999999998,
+    "text": "Because it's a niche, right?",
+    "speaker": 1
+  },
+  {
+    "start": 225.79999999999998,
+    "end": 230.79999999999998,
+    "text": "Digital art is a very specific kind of segment in the art space.",
+    "speaker": 0
+  },
+  {
+    "start": 231.2,
+    "end": 235.6,
+    "text": "Well, to be honest, we've kind of led me to this direction, the history,",
+    "speaker": 0
+  },
+  {
+    "start": 235.6,
+    "end": 242.79999999999998,
+    "text": "the life path of myself and the curiosity probably also by looking for like some answers to my questions.",
+    "speaker": 0
+  },
+  {
+    "start": 244.79999999999998,
+    "end": 249.79999999999998,
+    "text": "To be more precise, probably I was in in different fields.",
+    "speaker": 0
+  },
+  {
+    "start": 249.8,
+    "end": 254.60000000000002,
+    "text": "I have various educations and one of them is also finance and banking.",
+    "speaker": 0
+  },
+  {
+    "start": 254.60000000000002,
+    "end": 261.6,
+    "text": "And I was consulting a lot and I was also like taking our vases and I was collecting",
+    "speaker": 0
+  },
+  {
+    "start": 261.6,
+    "end": 267.0,
+    "text": "and I was working with wealthy individuals who have big collections as well back at the time.",
+    "speaker": 0
+  },
+  {
+    "start": 268.0,
+    "end": 272.0,
+    "text": "And you know, when you have to do collection management or you have to do them,",
+    "speaker": 0
+  },
+  {
+    "start": 272.2,
+    "end": 274.8,
+    "text": "let's say lumber longed in a game, the piece of work art,",
+    "speaker": 1
+  },
+  {
+    "start": 275.6,
+    "end": 278.5,
+    "text": "you have to look at the whole history, prominent, you know,",
+    "speaker": 1
+  },
+  {
+    "start": 278.5,
+    "end": 280.3,
+    "text": "so you will simultaneously learn a lot.",
+    "speaker": 1
+  },
+  {
+    "start": 280.9,
+    "end": 285.6,
+    "text": "And and and one of the things that crossed my mind is that if I was,",
+    "speaker": 0
+  },
+  {
+    "start": 286.1,
+    "end": 290.1,
+    "text": "let's say a wealthy individual as my clients are,",
+    "speaker": 0
+  },
+  {
+    "start": 290.9,
+    "end": 294.1,
+    "text": "could I possibly build a museum quality collection back at the time?",
+    "speaker": 0
+  },
+  {
+    "start": 294.7,
+    "end": 296.5,
+    "text": "And I'm talking now like back 20 years.",
+    "speaker": 0
+  },
+  {
+    "start": 296.5,
+    "end": 300.7,
+    "text": "I'm not talking about last five years and talking about like 20 years ago.",
+    "speaker": 1
+  },
+  {
+    "start": 301.4,
+    "end": 306.2,
+    "text": "And that's probably would be a mission impossible even 20 years ago.",
+    "speaker": 1
+  },
+  {
+    "start": 306.2,
+    "end": 311.2,
+    "text": "Because if you look at the contemporary art traditional contemporary art back at the time,",
+    "speaker": 1
+  },
+  {
+    "start": 311.8,
+    "end": 318.4,
+    "text": "most of the works were already in the hands of either institutions or private individuals with private museums.",
+    "speaker": 1
+  },
+  {
+    "start": 318.9,
+    "end": 324.2,
+    "text": "And they're waiting list to get one or good two, three like works of top artist.",
+    "speaker": 1
+  },
+  {
+    "start": 324.2,
+    "end": 326.4,
+    "text": "It would be no waiting line forever.",
+    "speaker": 1
+  },
+  {
+    "start": 326.7,
+    "end": 331.7,
+    "text": "Like you sometimes you have to wait for like 10 years just to know for for this one.",
+    "speaker": 0
+  },
+  {
+    "start": 331.7,
+    "end": 339.2,
+    "text": "That's it piece of art to come out on the market so you can actually maybe you have a chance if you have enough finances to acquire it to your collection.",
+    "speaker": 0
+  },
+  {
+    "start": 339.7,
+    "end": 346.2,
+    "text": "So for me, it was already kind of late, you know, in terms of like looking from this perspective,",
+    "speaker": 0
+  },
+  {
+    "start": 346.2,
+    "end": 351.2,
+    "text": "if I want to build something which is a substantial, which has a quality.",
+    "speaker": 0
+  },
+  {
+    "start": 351.2,
+    "end": 354.0,
+    "text": "And with the means that I had, I'm not really on there.",
+    "speaker": 1
+  },
+  {
+    "start": 354.0,
+    "end": 358.7,
+    "text": "So I was like looking around and analyzing what's going on and what's happening.",
+    "speaker": 1
+  },
+  {
+    "start": 358.7,
+    "end": 360.7,
+    "text": "It fascinated me how the art market works.",
+    "speaker": 1
+  },
+  {
+    "start": 360.7,
+    "end": 365.7,
+    "text": "So I got myself involved in a static collection photography because that was my passion.",
+    "speaker": 1
+  },
+  {
+    "start": 366.2,
+    "end": 369.2,
+    "text": "And somehow always innovation fascinated me in a sense.",
+    "speaker": 1
+  },
+  {
+    "start": 369.7,
+    "end": 376.7,
+    "text": "And I really liked the fact that you know, photography was also back at the time was not accepted by traditional art world.",
+    "speaker": 1
+  },
+  {
+    "start": 376.7,
+    "end": 386.7,
+    "text": "So, you know, sort of refuse the factor, how it found a way to become a fine art with the ecosystem that we have now.",
+    "speaker": 1
+  },
+  {
+    "start": 386.7,
+    "end": 392.2,
+    "text": "And back at the time again, I'm talking about let's say, 20 to 15 years ago,",
+    "speaker": 1
+  },
+  {
+    "start": 392.2,
+    "end": 404.2,
+    "text": "there was still a possibility to collect and to build a very substantial collection of photography with different focus because photography is also very, very diverse.",
+    "speaker": 1
+  },
+  {
+    "start": 404.2,
+    "end": 413.2,
+    "text": "So I was specializing more in the vintage photography where again, you can like read and look into the story, you can look how artists can be chemists from time to time.",
+    "speaker": 1
+  },
+  {
+    "start": 413.2,
+    "end": 420.7,
+    "text": "You know, it's not necessarily about the composition and they've been experimenting a lot with the camera, not only about the camera that was evolving over time,",
+    "speaker": 1
+  },
+  {
+    "start": 420.7,
+    "end": 425.7,
+    "text": "but also about the vision of artists that they had back at the time in the 20th century.",
+    "speaker": 1
+  },
+  {
+    "start": 425.7,
+    "end": 431.7,
+    "text": "So black and white photography and that was literally the focus of my collection.",
+    "speaker": 1
+  },
+  {
+    "start": 431.7,
+    "end": 439.2,
+    "text": "And by building the collection, of course, you do engage yourself with galleries and curators and exhibitions.",
+    "speaker": 1
+  },
+  {
+    "start": 439.2,
+    "end": 449.7,
+    "text": "And I think I attended most of the traditional art fairs worldwide over the years to understand how the system works, how the valuation works.",
+    "speaker": 1
+  },
+  {
+    "start": 449.7,
+    "end": 452.7,
+    "text": "Why do they show this and why don't we show that?",
+    "speaker": 0
+  },
+  {
+    "start": 452.7,
+    "end": 459.2,
+    "text": "And of course, there are many, many, many nice and interesting stories about four juries and you know, like transparency is always a question.",
+    "speaker": 0
+  },
+  {
+    "start": 459.2,
+    "end": 465.7,
+    "text": "You know, then you have to have an expertise of another expert, you know, just to qualify.",
+    "speaker": 0
+  },
+  {
+    "start": 465.7,
+    "end": 472.7,
+    "text": "Is it really like a particular era of this paper and if we're not talking about digital photography?",
+    "speaker": 0
+  },
+  {
+    "start": 472.7,
+    "end": 478.7,
+    "text": "So it's an interesting market and captured my attention.",
+    "speaker": 0
+  },
+  {
+    "start": 478.7,
+    "end": 493.2,
+    "text": "And in 2016, I opened up my advisory firm, he and Switzerland, specialized in certain areas, particularly, you know, collection building and collection management and also.",
+    "speaker": 0
+  },
+  {
+    "start": 493.2,
+    "end": 501.2,
+    "text": "You know, from the perspective of finding the right works, you know, if you're building already have built a collection.",
+    "speaker": 0
+  },
+  {
+    "start": 501.7,
+    "end": 511.7,
+    "text": "And the gallery kind of idea came slightly later because of my reaction to what I learned, I would say.",
+    "speaker": 0
+  },
+  {
+    "start": 511.7,
+    "end": 517.7,
+    "text": "Yeah, makes a lot of sense because there are so many parallels to what you described with photography, right?",
+    "speaker": 1
+  },
+  {
+    "start": 517.7,
+    "end": 518.7,
+    "text": "It wasn't accepted.",
+    "speaker": 0
+  },
+  {
+    "start": 521.7,
+    "end": 528.7,
+    "text": "Hello guys, I just wanted to take some time to remind you about my NFT subscription via hypersupp.",
+    "speaker": 1
+  },
+  {
+    "start": 529.2,
+    "end": 537.7,
+    "text": "All subscribers get access to my token gated newsletter articles. You also get the podcast episodes air drop into your crypto wallet.",
+    "speaker": 1
+  },
+  {
+    "start": 537.7,
+    "end": 542.2,
+    "text": "8% of the revenue is shared across all subscribers.",
+    "speaker": 1
+  },
+  {
+    "start": 542.2,
+    "end": 549.2,
+    "text": "You also get access to my discord server and participate in monthly either ways and allow list opportunities.",
+    "speaker": 1
+  },
+  {
+    "start": 549.2,
+    "end": 552.7,
+    "text": "You can cancel at any time and also you can control the length.",
+    "speaker": 0
+  },
+  {
+    "start": 552.7,
+    "end": 556.7,
+    "text": "And go on a month to month basis or you can get a whole year at once.",
+    "speaker": 1
+  },
+  {
+    "start": 556.7,
+    "end": 562.2,
+    "text": "This is also how I can keep going with the newsletter and podcast and your support really install a lot.",
+    "speaker": 1
+  },
+  {
+    "start": 562.2,
+    "end": 564.7,
+    "text": "Final link in the show notes below.",
+    "speaker": 0
+  },
+  {
+    "start": 564.7,
+    "end": 569.7,
+    "text": "And you can always DM me through my social networks if you have any questions. Thanks for your support.",
+    "speaker": 1
+  },
+  {
+    "start": 572.7,
+    "end": 581.7,
+    "text": "Most of it it was used to document things very similar to what we see with blockchain, for example, you know, like when it was invented, you know, to register certain things that.",
+    "speaker": 0
+  },
+  {
+    "start": 581.7,
+    "end": 585.7,
+    "text": "You know, to keep documenting on the blocks, right, whatever we are.",
+    "speaker": 0
+  },
+  {
+    "start": 585.7,
+    "end": 598.7,
+    "text": "Insecting and building and in some parallel, you can you can say that, you know, photography also went through this stage of being seen as a documenting certain things.",
+    "speaker": 0
+  },
+  {
+    "start": 598.7,
+    "end": 602.7,
+    "text": "Portraitures in traditional art. I see some parallels and it's interesting.",
+    "speaker": 0
+  },
+  {
+    "start": 602.7,
+    "end": 611.7,
+    "text": "And I just had a panel discussion and would have purchased for 130 years or dedicated to Andre Cartesh, one of the iconic figures in actually history of photography.",
+    "speaker": 0
+  },
+  {
+    "start": 611.7,
+    "end": 616.7,
+    "text": "I'm a Gary and artist who lived also abroad in the US.",
+    "speaker": 0
+  },
+  {
+    "start": 616.7,
+    "end": 630.7,
+    "text": "To, you know, it was a discussion about AI and photography. And of course, we had also certain people on the panel saying like, we will never do anything with with AI or generative AI to.",
+    "speaker": 0
+  },
+  {
+    "start": 630.7,
+    "end": 641.7,
+    "text": "We are the reason for photography and we completely reject what is new. It's total bullshit. I can even just, you know, say, you know, the person for what's saying that.",
+    "speaker": 0
+  },
+  {
+    "start": 641.7,
+    "end": 643.7,
+    "text": "And yeah.",
+    "speaker": 1
+  },
+  {
+    "start": 643.7,
+    "end": 648.7,
+    "text": "And for me was like, you know, first of all, I think if you're an intelligent person, you kind of.",
+    "speaker": 0
+  },
+  {
+    "start": 648.7,
+    "end": 654.7,
+    "text": "You have to allow certain opinions, right? And yes, to make up your opinion and.",
+    "speaker": 1
+  },
+  {
+    "start": 654.7,
+    "end": 665.7,
+    "text": "And then you listen to others people and then if you are an intelligent person, you probably say, OK, this is an interesting perspective. Why don't I take that perspective and try to hear them out.",
+    "speaker": 1
+  },
+  {
+    "start": 665.7,
+    "end": 671.7,
+    "text": "Maybe there is something that I don't see through my knowledge and experience, but I'm lacking maybe.",
+    "speaker": 1
+  },
+  {
+    "start": 671.7,
+    "end": 680.7,
+    "text": "So I always try to take that path of just opening up my mind and saying, OK, maybe maybe maybe something, you know, we're always learning.",
+    "speaker": 1
+  },
+  {
+    "start": 680.7,
+    "end": 688.7,
+    "text": "We are in a moment in time with the evolution of technology that many aspects, especially with AI event crypto and blockchain.",
+    "speaker": 1
+  },
+  {
+    "start": 688.7,
+    "end": 695.7,
+    "text": "So many people have a strong opinions, right? It could be in the art world, but it could be another, another places. And yeah, it's, it's kind of.",
+    "speaker": 1
+  },
+  {
+    "start": 695.7,
+    "end": 703.7,
+    "text": "So many, so many polarize opinions, right? And I think AI not only in art, but different, different aspects of our life.",
+    "speaker": 1
+  },
+  {
+    "start": 703.7,
+    "end": 713.7,
+    "text": "People have very, very strong opinions against it, right? And it's clear in AI art is very, very, you can see that everywhere when we when I go a little bit out of our, let's say, bubble.",
+    "speaker": 1
+  },
+  {
+    "start": 713.7,
+    "end": 724.7,
+    "text": "Besides this panel is that something that you that happens to you often, Kate, when you go travel around with you go to different conferences are events when it comes to AI art.",
+    "speaker": 1
+  },
+  {
+    "start": 724.7,
+    "end": 731.7,
+    "text": "Is this something that you see often people not really into it and having a strong opinions against it?",
+    "speaker": 1
+  },
+  {
+    "start": 731.7,
+    "end": 744.7,
+    "text": "Of course, but you know, for me, it's nothing, nothing new because I'm here for a very long time. I mean, in our sense of timing and web free, I think I'm a dinosaur, you know, people don't think they're so long in the web free space.",
+    "speaker": 1
+  },
+  {
+    "start": 744.7,
+    "end": 756.7,
+    "text": "So I've seen it all. I remember like when we just started in 2018, 2017, 2019, and there was this, we didn't call it NFTs. So now it's a high-per-round AI just don't say a question.",
+    "speaker": 1
+  },
+  {
+    "start": 756.7,
+    "end": 768.7,
+    "text": "But actually it just evolved through the trends and different years. So 2000, it was a crypto art. So it was a crypto art. Okay. And so you're just dealing with this crypto art, right?",
+    "speaker": 1
+  },
+  {
+    "start": 768.7,
+    "end": 779.7,
+    "text": "Nobody nobody used the term NFT. Of course, there was also no term AI art or something like that. So everything was like purely crypto art or blockchain art.",
+    "speaker": 1
+  },
+  {
+    "start": 779.7,
+    "end": 791.7,
+    "text": "And that is fine. I mean, this is a normal people's reaction when something new is coming out on the market or they don't understand most of the things usually.",
+    "speaker": 1
+  },
+  {
+    "start": 791.7,
+    "end": 805.7,
+    "text": "Let's assume it's a normal human reaction. I think to be scared of something that you don't understand about the change, which is again not everybody by human nature can accept or like, you know, people like to be in a comfort zone.",
+    "speaker": 1
+  },
+  {
+    "start": 805.7,
+    "end": 814.7,
+    "text": "People like to be let's say they spent last 40 years learning and building let's say the things that they they know.",
+    "speaker": 1
+  },
+  {
+    "start": 814.7,
+    "end": 822.7,
+    "text": "And then something else is coming out and everybody is like celebrating it in a sense saying, oh my god, it costs so much money. And then the media doesn't really help as well.",
+    "speaker": 1
+  },
+  {
+    "start": 822.7,
+    "end": 832.7,
+    "text": "It's very one side promotion, I would say like NFT and 69 million sale with people. So everyone is confused. And then after crypto art, the term NFT comes.",
+    "speaker": 1
+  },
+  {
+    "start": 832.7,
+    "end": 846.7,
+    "text": "And then everyone is like WTF NFT, you know, and then OK, with two years of a game media leaves very well, you know, celebrating and mixing it up on rotation about NFTs and ups and downs, it's speculation.",
+    "speaker": 1
+  },
+  {
+    "start": 846.7,
+    "end": 858.7,
+    "text": "And again, creating additional fear, which is not helping. Instead of educating the audience, we create fear because probably it sells better. I have no idea.",
+    "speaker": 1
+  },
+  {
+    "start": 858.7,
+    "end": 869.7,
+    "text": "But yeah, I think you know, this reactions usually from what I see they come from lack of understanding, maybe lack of interest to even bother to learn.",
+    "speaker": 1
+  },
+  {
+    "start": 869.7,
+    "end": 881.7,
+    "text": "And because it's always easy to just criticize and reject. And sometimes it's just also like people don't have time for that, you know, they're busy with their business and it works. So why bother.",
+    "speaker": 1
+  },
+  {
+    "start": 881.7,
+    "end": 898.7,
+    "text": "Yeah, I think you know, natively, let's say natively tax saving people, of course, you know, or let's say people from financial systems, because there are any way exposed to some certain degree to this kind of innovations of decentralization that took place with Bitcoin.",
+    "speaker": 1
+  },
+  {
+    "start": 898.7,
+    "end": 913.7,
+    "text": "I think you know, it was more natural, you know, involvement for those groups of people to feel then interested and fascinated or rejecting and learning about the space around and for majority.",
+    "speaker": 1
+  },
+  {
+    "start": 913.7,
+    "end": 916.7,
+    "text": "Why wouldn't they get involved?",
+    "speaker": 0
+  },
+  {
+    "start": 916.7,
+    "end": 925.7,
+    "text": "Yeah, exactly. It all happened so fast, right? I think that's the main thing. It happens in a spot because you have been around as you said 2017, 2018.",
+    "speaker": 1
+  },
+  {
+    "start": 925.7,
+    "end": 938.7,
+    "text": "But I think it really started appearing in the media constantly around 2021 and it really exploded in a span of months or maybe a year, right? So it was just too quick.",
+    "speaker": 1
+  },
+  {
+    "start": 938.7,
+    "end": 954.7,
+    "text": "And yeah, as you said, the way how the media portrayed it and kind of the slogans of the space, where in the right ones. And I wonder, Kate, you mentioned you work with wealthy individuals that are collectors, right? They want to collect. They want to build, as you mentioned,",
+    "speaker": 1
+  },
+  {
+    "start": 954.7,
+    "end": 967.7,
+    "text": "and then you have a lot of aggressive collections. So how is the working with these traditional collectors that are interested in the digital, in the digital arts, paid in crypto art in generative art?",
+    "speaker": 1
+  },
+  {
+    "start": 967.7,
+    "end": 977.7,
+    "text": "Do you think it's way more challenging that operating a traditional gallery? Any stories you can tell us from working with traditional art collectors?",
+    "speaker": 1
+  },
+  {
+    "start": 977.7,
+    "end": 981.7,
+    "text": "What kind of story do you want to hear?",
+    "speaker": 1
+  },
+  {
+    "start": 981.7,
+    "end": 983.7,
+    "text": "I think it's interesting ones.",
+    "speaker": 1
+  },
+  {
+    "start": 983.7,
+    "end": 988.7,
+    "text": "Like, you know, because you incorporated a couple of questions within your sentence.",
+    "speaker": 1
+  },
+  {
+    "start": 988.7,
+    "end": 996.7,
+    "text": "Let's say they are both, right? They are traditional art collectors and they are, let's say, crypto collectors. This is how we call them now.",
+    "speaker": 1
+  },
+  {
+    "start": 996.7,
+    "end": 1006.7,
+    "text": "Natively digital art collectors. And I think this space has changed also over years because you know, you see also the evolution of a collector.",
+    "speaker": 1
+  },
+  {
+    "start": 1006.7,
+    "end": 1016.7,
+    "text": "Let's go back to, like, let's say, 80 years ago. And that's when the Ethereum just was born, right? 2017.",
+    "speaker": 1
+  },
+  {
+    "start": 1016.7,
+    "end": 1025.7,
+    "text": "And with the first exhibition, it was on photography, the gallery, physical exhibition. I remember myself.",
+    "speaker": 1
+  },
+  {
+    "start": 1025.7,
+    "end": 1035.7,
+    "text": "It was still a living artist. He died, unfortunately, a couple of years ago. He was already at the age where I really wanted to still give him like recognition and solar show.",
+    "speaker": 1
+  },
+  {
+    "start": 1035.7,
+    "end": 1042.7,
+    "text": "Because he lived through this, let's say, evolution of camera.",
+    "speaker": 1
+  },
+  {
+    "start": 1042.7,
+    "end": 1053.7,
+    "text": "So he was a film camera and he created the later works with digital camera. And you can also see, you know, the evolution of his career through development and innovation.",
+    "speaker": 1
+  },
+  {
+    "start": 1053.7,
+    "end": 1070.7,
+    "text": "And I asked him because photography market is also very particular one. They, they like to take the work and make it as an edition, three or five or ten and then price it from, let's say, just a simple example, let's say we take additional free.",
+    "speaker": 1
+  },
+  {
+    "start": 1070.7,
+    "end": 1078.7,
+    "text": "And the first edition will be like 1000 second edition, one and half thousand and third edition, which is the last edition will be let's say 2000.",
+    "speaker": 1
+  },
+  {
+    "start": 1078.7,
+    "end": 1089.7,
+    "text": "So the prices, the prices increasing by the edition. And that's very interesting because for web, webreads, not the typical choice, right?",
+    "speaker": 1
+  },
+  {
+    "start": 1089.7,
+    "end": 1101.7,
+    "text": "And those are prints. Even if you, even if we talk about contemporary digital photography, this is how the system sort of works.",
+    "speaker": 1
+  },
+  {
+    "start": 1101.7,
+    "end": 1114.7,
+    "text": "So the digital file usually is never for sale. Nobody even thought about it. So I remember 2017 and I'm doing the show and I'm talking to various artists, particularly the ones who are more contemporary, I would say using already the digital camera.",
+    "speaker": 0
+  },
+  {
+    "start": 1114.7,
+    "end": 1123.7,
+    "text": "And I was like, you know, guys, I'm not really interested in showing the prints and edition of prints. Honestly, like for me as a collector, that's not what I care about.",
+    "speaker": 0
+  },
+  {
+    "start": 1123.7,
+    "end": 1134.7,
+    "text": "As a photographic collector, when I see that the digital photography, I care about the digital file, can you sell me the digital file? And everybody was like, what, like what are you talking about?",
+    "speaker": 0
+  },
+  {
+    "start": 1134.7,
+    "end": 1148.7,
+    "text": "You must be mad like why would no, no, no, no, no, we are not going to sell the digital file. How do we sell it and then we started considering so if we are to decide to sell the digital file because for me, it's a core, it's a heart over the work.",
+    "speaker": 0
+  },
+  {
+    "start": 1148.7,
+    "end": 1161.7,
+    "text": "If it's natively digital, like I want to have a possession of that file and then if I want to do a edition of prints, I'm going to do a edition of prints, you know, please don't scream it for the photography.",
+    "speaker": 0
+  },
+  {
+    "start": 1161.7,
+    "end": 1171.7,
+    "text": "I'm not joking, but yes, I mean, this is exactly the question I had in 2017, like the question of valuation, if we talk about contemporary photography.",
+    "speaker": 0
+  },
+  {
+    "start": 1171.7,
+    "end": 1185.7,
+    "text": "And I mean, I'm not questioning how the system works, it works and I'm happy for that, but I want to look at it from a different perspective, from my perspective as a collector, I invest money, I want my money to be safe.",
+    "speaker": 0
+  },
+  {
+    "start": 1185.7,
+    "end": 1198.7,
+    "text": "The edition of prints is not going to help me, sorry, you know, to preserve the value of the work. That's how I see it, maybe because I have financial background and I look at this also as an asset in some certain way, but it has to have a certain logic.",
+    "speaker": 0
+  },
+  {
+    "start": 1198.7,
+    "end": 1201.7,
+    "text": "And I said, okay, can we do something about it?",
+    "speaker": 1
+  },
+  {
+    "start": 1201.7,
+    "end": 1208.7,
+    "text": "And a couple of photographers were open to this idea and we started investigation them, okay, how can we do that?",
+    "speaker": 1
+  },
+  {
+    "start": 1208.7,
+    "end": 1221.7,
+    "text": "So if we do transact and sell the digital file, most of the times it was not a new market already, there were some video works which was collected by museums, for example.",
+    "speaker": 1
+  },
+  {
+    "start": 1221.7,
+    "end": 1234.7,
+    "text": "But most of the things were like USB or USB stick and then you create an artifact around the USB stick and then you produce a collector and then the collector is supposed to save the USB stick.",
+    "speaker": 1
+  },
+  {
+    "start": 1234.7,
+    "end": 1247.7,
+    "text": "Imagine if in 20 years the USB stick is not longer applicable and imagine within a new device, you know, what you do with that, then you have to of course, anyway digitize the whole thing and preserve it usually.",
+    "speaker": 1
+  },
+  {
+    "start": 1247.7,
+    "end": 1263.7,
+    "text": "So this is where the questions back at the time for me and we spent quite a lot of time also I did a lot of events, educational events, I was invited some copyright legal guys, you know, to discuss the copyright issues, digital, physical, you know, these kind of things.",
+    "speaker": 1
+  },
+  {
+    "start": 1263.7,
+    "end": 1288.7,
+    "text": "When you deal with native digital photography and that time and then also how can we transact, you know, without leaving traces, dropbox, hay or Google drive or whatever, you know, we transfer back at the time, you know, now we have more disabilities, but still, you know, it's still, you know, every like once you put it there, it's there somewhere.",
+    "speaker": 1
+  },
+  {
+    "start": 1288.7,
+    "end": 1294.7,
+    "text": "There was no possibility to actually, you know, to prove this thing, yeah, to prove the transaction right.",
+    "speaker": 1
+  },
+  {
+    "start": 1294.7,
+    "end": 1303.7,
+    "text": "And then the serial, the serial happens and imagine my, my happiness back at the time like, oh my god, but that's the solution.",
+    "speaker": 1
+  },
+  {
+    "start": 1303.7,
+    "end": 1317.7,
+    "text": "And then you know, the whole kind of puzzle clicked for me and like, okay, and that was already 2018 when we could like begin of 2018 when I, I learned that actually, the theorem is just around the corner.",
+    "speaker": 1
+  },
+  {
+    "start": 1317.7,
+    "end": 1328.7,
+    "text": "So it's also possible to do something with this non-fungible tokens and we can prove this transactions and, you know, transparency and everything.",
+    "speaker": 1
+  },
+  {
+    "start": 1328.7,
+    "end": 1337.7,
+    "text": "All the questions were answered in one solution couldn't believe myself and I was like, oh my god, you know, how can I buy a theorem and Bitcoin now.",
+    "speaker": 1
+  },
+  {
+    "start": 1337.7,
+    "end": 1345.7,
+    "text": "You were early and you went all in you, you saw the problem, you had the problem and this was the solution for your particular particular problem.",
+    "speaker": 1
+  },
+  {
+    "start": 1345.7,
+    "end": 1349.7,
+    "text": "Did you thought that it was going to take off the way it did.",
+    "speaker": 1
+  },
+  {
+    "start": 1349.7,
+    "end": 1362.7,
+    "text": "But trust me, the artists were far away, I mean, the photography artists were far away from even accepting that, putting something on what blockchain, what Bitcoin, I think, you know, so it was extremely difficult.",
+    "speaker": 0
+  },
+  {
+    "start": 1362.7,
+    "end": 1370.7,
+    "text": "So even you may notice that photography came very late in the blockchain.",
+    "speaker": 0
+  },
+  {
+    "start": 1370.7,
+    "end": 1381.7,
+    "text": "We had only one platform 2020 was called FIMera, which was actually focusing on photography, the first blockchain platform, FIMera.com.",
+    "speaker": 0
+  },
+  {
+    "start": 1381.7,
+    "end": 1385.7,
+    "text": "And I think it still exists, but they are not very active.",
+    "speaker": 0
+  },
+  {
+    "start": 1385.7,
+    "end": 1390.7,
+    "text": "Because for photography, I explained to you how the things work, right?",
+    "speaker": 0
+  },
+  {
+    "start": 1390.7,
+    "end": 1405.7,
+    "text": "So that kind of came quite late and then now fellowship is doing a good job also starting with photography, creating a classical photography and then AI and post photography, let's say synthetic photography.",
+    "speaker": 0
+  },
+  {
+    "start": 1405.7,
+    "end": 1408.7,
+    "text": "Yeah, like only one 2023, right?",
+    "speaker": 1
+  },
+  {
+    "start": 1408.7,
+    "end": 1409.7,
+    "text": "Right.",
+    "speaker": 0
+  },
+  {
+    "start": 1409.7,
+    "end": 1428.7,
+    "text": "Yeah, hoping 2017 2018, it was for sure mission impossible, but that was a tool. I mean, that was a tool and that's when I also learned that there were artists nothing to do with photography, but they were artists that actually create where conceptual works with blockchain.",
+    "speaker": 1
+  },
+  {
+    "start": 1428.7,
+    "end": 1438.7,
+    "text": "Real miles, macoes, Kevin Abouche, and I was like, oh my god, that's the art I want to show because that literally reflects the zeitgeist.",
+    "speaker": 1
+  },
+  {
+    "start": 1438.7,
+    "end": 1451.7,
+    "text": "And this is what I want to focus on and to bring this sort of medium through the conversation through art to the wider audience to be accepted because that's that's the revolution for me.",
+    "speaker": 1
+  },
+  {
+    "start": 1451.7,
+    "end": 1457.7,
+    "text": "I was pretty sure that traditional model will not work in finance and will not work in art.",
+    "speaker": 1
+  },
+  {
+    "start": 1457.7,
+    "end": 1462.7,
+    "text": "But that's the reason I left finance and that's the reason I did the gallery the way I did it.",
+    "speaker": 1
+  },
+  {
+    "start": 1462.7,
+    "end": 1469.7,
+    "text": "No, that makes the way how you tell it is a whole story, right? And then how everything clicked. That's that's exciting.",
+    "speaker": 0
+  },
+  {
+    "start": 1469.7,
+    "end": 1478.7,
+    "text": "And I wonder, Kate, you mentioned a couple of artists there, the macoes, which were on the podcast, Kevin Abouche, real Myers.",
+    "speaker": 0
+  },
+  {
+    "start": 1478.7,
+    "end": 1490.7,
+    "text": "And I wonder when you curate now these days, and maybe over the past two years, when you put a show together, when you are ideating what you are going to do next, what are you looking for?",
+    "speaker": 0
+  },
+  {
+    "start": 1490.7,
+    "end": 1497.7,
+    "text": "So can you describe what you are looking for in digital art, in general, the art, any kind of medium?",
+    "speaker": 0
+  },
+  {
+    "start": 1497.7,
+    "end": 1500.7,
+    "text": "It's a very good question.",
+    "speaker": 1
+  },
+  {
+    "start": 1500.7,
+    "end": 1521.7,
+    "text": "It's a very simple answer, whatever fascinates me, whatever brings emotion in me, I would say novelty of either technology or novelty of, let's say, a project or both or anything that I haven't seen before.",
+    "speaker": 1
+  },
+  {
+    "start": 1521.7,
+    "end": 1539.7,
+    "text": "That is very difficult because I've seen many, many things in various sectors. And from the design to, let's say, architecture and then back to traditional art and music and here and there are like, you know, to be innovative or let's say to be",
+    "speaker": 1
+  },
+  {
+    "start": 1539.7,
+    "end": 1558.7,
+    "text": "to create something that haven't been created before is very difficult. I would say even most of them possible because the history is long, but still there are some projects that are absolutely amazing and some of the creations that are done, let's say, early.",
+    "speaker": 1
+  },
+  {
+    "start": 1559.7,
+    "end": 1573.7,
+    "text": "Those are the pioneers of those particular periods and those are important and those are interesting because they didn't have anything to look at back at the time.",
+    "speaker": 1
+  },
+  {
+    "start": 1573.7,
+    "end": 1595.7,
+    "text": "So they were like, kind of, oven garters of our blockchain kind of system, you know, so they took it and then created something, even if it's with AI algorithms or building these new systems or experimenting with neural networks or if it's like art blocks, you know, what they did, fantastic.",
+    "speaker": 1
+  },
+  {
+    "start": 1595.7,
+    "end": 1606.7,
+    "text": "Like nobody did that before, right? The technology was there, but only then placed it together. And then all the others who came after that's also fantastic, but that was after.",
+    "speaker": 1
+  },
+  {
+    "start": 1606.7,
+    "end": 1619.7,
+    "text": "So this kind of first is sort of important. But I mean, now it's a bit difficult to impress with being first and it's not become less and less relevant when it comes to creating shows nowadays.",
+    "speaker": 1
+  },
+  {
+    "start": 1620.7,
+    "end": 1635.7,
+    "text": "So I think it's about the quality of work and I look at the digital art as more like a conceptual art and it comes from the idea. So if I dear is novel and the idea reflects something that is very burning issue, like let's say, topical.",
+    "speaker": 1
+  },
+  {
+    "start": 1635.7,
+    "end": 1641.7,
+    "text": "And the implementation and execution is excellent. Of course, why not?",
+    "speaker": 1
+  },
+  {
+    "start": 1642.7,
+    "end": 1662.7,
+    "text": "Certainly, if you to certain, let's say mission, I try to do have physical shows which have a certain mission, that little mission that I wish to achieve. Like, for example, last year, art salon in Paris, because everything was so digital and 2022, 2022,",
+    "speaker": 1
+  },
+  {
+    "start": 1662.7,
+    "end": 1677.7,
+    "text": "and it was kind of sad situation to be able to remember in the market and they were mostly digital art was exhibited on a screen and sometimes not in a very nice form.",
+    "speaker": 1
+  },
+  {
+    "start": 1677.7,
+    "end": 1683.7,
+    "text": "And it's kind of devalue in many, many works that shouldn't be placed in of misplaced like that.",
+    "speaker": 1
+  },
+  {
+    "start": 1683.7,
+    "end": 1691.7,
+    "text": "And we all know that, you know, screens is a big topic and the quality is still not there, you know, how to exhibit digital art.",
+    "speaker": 1
+  },
+  {
+    "start": 1691.7,
+    "end": 1702.7,
+    "text": "So I thought like, okay, you know what? Forget about the screens, let's go physical because actually we want to communicate to the traditional art collectors that natively digital art is beautiful.",
+    "speaker": 1
+  },
+  {
+    "start": 1702.7,
+    "end": 1716.7,
+    "text": "You can live around the digital art and you can fall in love with the physical object as well as far as I, you know, not necessarily only with a video or animated thing or just purely a token on the chain.",
+    "speaker": 1
+  },
+  {
+    "start": 1716.7,
+    "end": 1731.7,
+    "text": "And some of them artists create absolutely outstanding works that deserve to be presented physically as a fine art print or performance or plot or drawings or paintings even.",
+    "speaker": 1
+  },
+  {
+    "start": 1731.7,
+    "end": 1741.7,
+    "text": "So that was exhibition that when I wanted to communicate to traditional artists and I think we collaborated with DD with L'Om2D.",
+    "speaker": 1
+  },
+  {
+    "start": 1741.7,
+    "end": 1749.7,
+    "text": "And I think he also had the same message because he collects both from contemporary art and of course also generative art.",
+    "speaker": 1
+  },
+  {
+    "start": 1749.7,
+    "end": 1761.7,
+    "text": "And that was the mission of it, the exhibition to just things that is easy to digest for the audience.",
+    "speaker": 1
+  },
+  {
+    "start": 1761.7,
+    "end": 1769.7,
+    "text": "Yeah, that makes a lot of sense. I've seen, I mean, there are so many amazing prints also the, the, the plotting, right, the plots.",
+    "speaker": 1
+  },
+  {
+    "start": 1769.7,
+    "end": 1774.7,
+    "text": "I've seen some plots and they look amazing right when don't, when don't correctly high quality.",
+    "speaker": 1
+  },
+  {
+    "start": 1774.7,
+    "end": 1786.7,
+    "text": "They are beautiful and it's something that I think people aren't still used to it, right, because this is a machine that translate code into art, but you can see it physically and you can see the whole process, right, and it takes.",
+    "speaker": 1
+  },
+  {
+    "start": 1786.7,
+    "end": 1801.7,
+    "text": "It's challenging for the artist, right, because they need to code it in a specific way and it's so many things that involve a plotting, right, and creating, I think the translation from the needle to physical is very challenging to do it properly.",
+    "speaker": 1
+  },
+  {
+    "start": 1801.7,
+    "end": 1804.7,
+    "text": "So that was a great, great.",
+    "speaker": 0
+  },
+  {
+    "start": 1804.7,
+    "end": 1814.7,
+    "text": "Some of the works don't need physical presentation, like if it's purely a blockchain art or on chain and it's a concept that is actually the idea is living within the blockchain.",
+    "speaker": 1
+  },
+  {
+    "start": 1814.7,
+    "end": 1821.7,
+    "text": "Then of course, why would you care to do something physical out of it? So it has to make sense, but it has to make sense.",
+    "speaker": 1
+  },
+  {
+    "start": 1821.7,
+    "end": 1826.7,
+    "text": "Yeah, if it doesn't make sense, I would never vouch for let's create NFT to the physical painting. Why?",
+    "speaker": 1
+  },
+  {
+    "start": 1826.7,
+    "end": 1832.7,
+    "text": "Like digitize and spend money to create the NFT and you know, don't care about anything.",
+    "speaker": 1
+  },
+  {
+    "start": 1832.7,
+    "end": 1840.7,
+    "text": "Yeah, it has to be logical sense and it has to add some sort of value to one way or another either analog or digital.",
+    "speaker": 1
+  },
+  {
+    "start": 1840.7,
+    "end": 1852.7,
+    "text": "Kate, you mentioned novelty. You mentioned that you're looking for novelty for something that you haven't seen before, but it's getting more challenging these days, right, because the over the past years we have seen a lot of things.",
+    "speaker": 1
+  },
+  {
+    "start": 1852.7,
+    "end": 1857.7,
+    "text": "There have been amazing artists working in different ways, different different platforms, different mediums.",
+    "speaker": 1
+  },
+  {
+    "start": 1857.7,
+    "end": 1866.7,
+    "text": "So today, what are you looking for? So what are you excited about these days when it comes to digital art? I know it's an ambiguous, it's very open question.",
+    "speaker": 1
+  },
+  {
+    "start": 1866.7,
+    "end": 1874.7,
+    "text": "But I think it's hard for me to keep track of everything what is happening in web free.",
+    "speaker": 1
+  },
+  {
+    "start": 1874.7,
+    "end": 1893.7,
+    "text": "Like only say that innovation, like the tools, layer tools or zero knowledge proofs or like rodeo, what has been built, you know, now recently, you know, as a platform and they built in now social media, purely on shape, those kind of projects they really really fascinating.",
+    "speaker": 1
+  },
+  {
+    "start": 1893.7,
+    "end": 1913.7,
+    "text": "So, you see how many user friendly, let's say tools are available now for the artists to be independent, to create their own smart contracts, to tailor make something, you know, to build something on chain, which was not possible before.",
+    "speaker": 1
+  },
+  {
+    "start": 1913.7,
+    "end": 1925.7,
+    "text": "You know, we were struggling, you know, how can we make sure that the provenance is there that it's an artist, you know, who is kind of minting on chain and then, you know, we build on that, you know, through the years on one contract, everything is there.",
+    "speaker": 1
+  },
+  {
+    "start": 1925.7,
+    "end": 1931.7,
+    "text": "And now it's, you know, thanks to builders, literally, you know, like developers.",
+    "speaker": 1
+  },
+  {
+    "start": 1931.7,
+    "end": 1940.7,
+    "text": "So I keep track on that because this is important to the gallery to stay up to date of all what is happening within this kind of certain niche.",
+    "speaker": 1
+  },
+  {
+    "start": 1940.7,
+    "end": 1951.7,
+    "text": "To make sure that we have good provenance when it comes to blockchain art and when artists are minting on usually on their own smart contracts.",
+    "speaker": 1
+  },
+  {
+    "start": 1951.7,
+    "end": 1957.7,
+    "text": "And when it comes to know what's usually if I create an exhibition, I know exactly what I want to see.",
+    "speaker": 1
+  },
+  {
+    "start": 1957.7,
+    "end": 1970.7,
+    "text": "So I like, you know, if we talk about interfinking, for example, which opened last Thursday in Budapest, it was a show which we planned, let's say, since March.",
+    "speaker": 1
+  },
+  {
+    "start": 1970.7,
+    "end": 1976.7,
+    "text": "So that's to the next question that you also emailed me how long does it take to build the show to build it?",
+    "speaker": 1
+  },
+  {
+    "start": 1976.7,
+    "end": 1981.7,
+    "text": "Yeah, it's a minimum six months. You have to spend it after.",
+    "speaker": 1
+  },
+  {
+    "start": 1981.7,
+    "end": 1988.7,
+    "text": "I mean, everything what we exhibit usually it's never been shown before. It's an exclusive work.",
+    "speaker": 1
+  },
+  {
+    "start": 1988.7,
+    "end": 2001.7,
+    "text": "So it takes time and quality takes time to actually create work. So to sleep on it, then think, okay, can the artist can actually be interested or does he is inspired by the project?",
+    "speaker": 1
+  },
+  {
+    "start": 2001.7,
+    "end": 2007.7,
+    "text": "Does he want to be involved in the show? Then another month, okay, we start building and then start the discussion.",
+    "speaker": 1
+  },
+  {
+    "start": 2007.7,
+    "end": 2022.7,
+    "text": "Okay, what other concepts, how can we build on this concept? What would be most interesting angle to capture? For example, in this case, it was an intergeneration of dialogue between the fathers of, I think, pioneers,",
+    "speaker": 1
+  },
+  {
+    "start": 2022.7,
+    "end": 2041.7,
+    "text": "I'm hearing pioneers that are very dear to everyone's heart like Mahoy Nato, they're a Mona, Vasarelli, Nicholas Scherfer, the father of cybernetics, I mean, all of them inspired millions of artists actually through the last let's say decades, not even our generative artist.",
+    "speaker": 1
+  },
+  {
+    "start": 2041.7,
+    "end": 2058.7,
+    "text": "So, you know, here it was like, okay, how can we capture that? What is an inspiration and what kind of artist I immediately connected in my head? Okay, I think about Mahoy Nato, I'm like, Marcel Rodriguez would be amazing because even subconsciously he doesn't know that, but he has.",
+    "speaker": 1
+  },
+  {
+    "start": 2058.7,
+    "end": 2059.7,
+    "text": "Do you see a relation?",
+    "speaker": 0
+  },
+  {
+    "start": 2059.7,
+    "end": 2067.7,
+    "text": "I see the relation. So I contact Marcel as a Marcelo. I see the relation. Do you feel the same way I feel like, like, wow, thank you for asking.",
+    "speaker": 1
+  },
+  {
+    "start": 2067.7,
+    "end": 2080.7,
+    "text": "And then I think about, uh, Kepish, Kepish, and then I think because we are in a close, let's say communication with Kevin Abosha, I was like, you did something with shadows.",
+    "speaker": 1
+  },
+  {
+    "start": 2080.7,
+    "end": 2086.7,
+    "text": "Do you remember? He's like, yeah, totally. I was like, well, Kepish, you know, yes, totally, yes, that would work fantastic.",
+    "speaker": 1
+  },
+  {
+    "start": 2086.7,
+    "end": 2103.7,
+    "text": "And then we, and then I go, okay, distortions is one of the works that I always dream to actually adapt to my photography collection by Andre Cartache and distortions, they are very expensive, they are unique and they were only 250 ever produced.",
+    "speaker": 1
+  },
+  {
+    "start": 2103.7,
+    "end": 2114.7,
+    "text": "So they are mostly in a private collections and quite pricey and I'm like, if I feel think about the distortions and again, knowing the story of how Cartache was using the camera and what was the message back at the time.",
+    "speaker": 1
+  },
+  {
+    "start": 2114.7,
+    "end": 2124.7,
+    "text": "I'm like, Mario Clemen, definitely my thing. And then I talk to Mario, Mario, I'm sorry, do you know Cartache, you know, like maybe here, she's like, yeah, definitely, yeah, yeah, I know where you come from.",
+    "speaker": 1
+  },
+  {
+    "start": 2124.7,
+    "end": 2130.7,
+    "text": "I totally get what you are, what they're talking about. And then it clicks, you know, and how, and this is how you actually act.",
+    "speaker": 1
+  },
+  {
+    "start": 2130.7,
+    "end": 2142.7,
+    "text": "So I was like, okay, I have an idea. And then I know this with the, there is some energy between one and another. You can't explain it, but then there is out is absolutely great.",
+    "speaker": 1
+  },
+  {
+    "start": 2142.7,
+    "end": 2149.7,
+    "text": "And this is literally when we talk about this show. That's exciting. It's, you said it went live, it's open now, right? And until when?",
+    "speaker": 1
+  },
+  {
+    "start": 2149.7,
+    "end": 2153.7,
+    "text": "And it will be till let's say, just weeks of January.",
+    "speaker": 0
+  },
+  {
+    "start": 2153.7,
+    "end": 2155.7,
+    "text": "Okay, so there's still a couple of months.",
+    "speaker": 1
+  },
+  {
+    "start": 2155.7,
+    "end": 2162.7,
+    "text": "Three months for sure. Yeah. I mean, it's a big show. Some works are super heavy. They are like museum quality.",
+    "speaker": 0
+  },
+  {
+    "start": 2162.7,
+    "end": 2171.7,
+    "text": "Yeah. Yeah. If you have a chance, please. Yeah, Kenny, after this show, okay, anything else, are you working already on a new show or you want, or you usually take a break for some time.",
+    "speaker": 1
+  },
+  {
+    "start": 2171.7,
+    "end": 2173.7,
+    "text": "Before starting a new one.",
+    "speaker": 0
+  },
+  {
+    "start": 2173.7,
+    "end": 2176.7,
+    "text": "To be honest with you, it's.",
+    "speaker": 1
+  },
+  {
+    "start": 2176.7,
+    "end": 2183.7,
+    "text": "I tell you, like, if you want to have a program, you have to already plan everything back on February, March and April.",
+    "speaker": 0
+  },
+  {
+    "start": 2183.7,
+    "end": 2187.7,
+    "text": "In not to succeed in October, November, December.",
+    "speaker": 0
+  },
+  {
+    "start": 2187.7,
+    "end": 2193.7,
+    "text": "So I think in April, I was feeling very ambitious. I don't know why. And I said, you know what?",
+    "speaker": 0
+  },
+  {
+    "start": 2193.7,
+    "end": 2199.7,
+    "text": "Why don't we do one show in the late September? And then we do, we open the best show in October.",
+    "speaker": 0
+  },
+  {
+    "start": 2199.7,
+    "end": 2205.7,
+    "text": "In November, we are going to do just, you know, like, little workshops, interviews, conversations here and so on.",
+    "speaker": 0
+  },
+  {
+    "start": 2205.7,
+    "end": 2208.7,
+    "text": "And then in December, we go and exhibit in Miami. And.",
+    "speaker": 0
+  },
+  {
+    "start": 2208.7,
+    "end": 2211.7,
+    "text": "Or our puzzle. Yes. And.",
+    "speaker": 0
+  },
+  {
+    "start": 2211.7,
+    "end": 2219.7,
+    "text": "And this was the plan. And now I'm like, oh my god, it's difficult to to catch up with the rhythm that I set for myself. But.",
+    "speaker": 1
+  },
+  {
+    "start": 2219.7,
+    "end": 2226.7,
+    "text": "I already, you know, like. I really applied on all of them, except it. I have to show. So now I have to build some busy.",
+    "speaker": 1
+  },
+  {
+    "start": 2226.7,
+    "end": 2230.7,
+    "text": "I'm busy building the program for Miami. Untitled.",
+    "speaker": 0
+  },
+  {
+    "start": 2230.7,
+    "end": 2235.7,
+    "text": "Okay. Okay. When do you think it will be announced anytime soon?",
+    "speaker": 1
+  },
+  {
+    "start": 2235.7,
+    "end": 2241.7,
+    "text": "For Miami. Miami is going to take place during our puzzle from four to eight of December.",
+    "speaker": 1
+  },
+  {
+    "start": 2241.7,
+    "end": 2247.7,
+    "text": "It's a beautiful location on the beach. So everybody, you know, can commute and just cross there.",
+    "speaker": 1
+  },
+  {
+    "start": 2247.7,
+    "end": 2251.7,
+    "text": "And then they're all too, too, too, too, to this.",
+    "speaker": 1
+  },
+  {
+    "start": 2251.7,
+    "end": 2255.7,
+    "text": "And it will be.",
+    "speaker": 1
+  },
+  {
+    "start": 2255.7,
+    "end": 2260.7,
+    "text": "Many artists, I would say, yeah, it's going to be, it's going to be small, but fine.",
+    "speaker": 0
+  },
+  {
+    "start": 2260.7,
+    "end": 2264.7,
+    "text": "Nice. Yeah, I hope I can, I can make it. I was there.",
+    "speaker": 1
+  },
+  {
+    "start": 2264.7,
+    "end": 2272.7,
+    "text": "I think that you will be some works that again, now, when I'm exhibited before. And some of them will be really, really beautiful.",
+    "speaker": 0
+  },
+  {
+    "start": 2272.7,
+    "end": 2280.7,
+    "text": "In person. Awesome. Yeah. I'll be looking for that. And Kate, it's been, it's been a pleasure. Thanks so much for sharing sharing your journey.",
+    "speaker": 0
+  },
+  {
+    "start": 2280.7,
+    "end": 2287.7,
+    "text": "I, I, I hope we can do this in the future. And yeah, thanks so much for, for sharing, sharing your time, Kate.",
+    "speaker": 0
+  },
+  {
+    "start": 2287.7,
+    "end": 2293.7,
+    "text": "Thank you for inviting me. And you know, finally meeting after so many. Yeah.",
+    "speaker": 0
+  },
+  {
+    "start": 2293.7,
+    "end": 2299.7,
+    "text": "Hope I can see you in one of your shows soon. Have a great day, Kate. Thank you. Thank you. Bye.",
+    "speaker": 0
+  },
+  {
+    "start": 2302.7,
+    "end": 2305.7,
+    "text": "Thank you.",
+    "speaker": 1
+  }
+]

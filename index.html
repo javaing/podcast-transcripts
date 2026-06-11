@@ -13,9 +13,6 @@
       --muted: #9aa0a6;
       --accent: #7aa2ff;
       --border: #2a2f3a;
-      --wtbs-blue: #2a6da0;
-      --wtbs-teal: #4c9181;
-      --wtbs-pink: #f4b6d1;
     }
     @media (prefers-color-scheme: light) {
       :root {
@@ -41,12 +38,14 @@
       gap: 1rem;
       align-items: center;
       margin-bottom: 0.5rem;
+      flex-wrap: wrap;
     }
+    .hero-icons { display: flex; gap: 0.5rem; align-items: center; }
     .hero-icon {
-      width: 56px;
-      height: 56px;
+      width: 48px;
+      height: 48px;
       border-radius: 12px;
-      box-shadow: 0 4px 16px rgba(42, 109, 160, 0.25);
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
     }
     h1 { font-size: 1.8rem; margin: 0; }
     .subtitle { color: var(--muted); margin-bottom: 2rem; }
@@ -56,10 +55,6 @@
       border-radius: 12px;
       padding: 1.25rem 1.5rem;
       margin-bottom: 1rem;
-    }
-    .card--wtbs {
-      border-left: 4px solid var(--wtbs-teal);
-      background: linear-gradient(135deg, color-mix(in srgb, var(--card) 92%, var(--wtbs-blue) 8%), var(--card));
     }
     .card-head {
       display: flex;
@@ -72,22 +67,36 @@
       height: 48px;
       border-radius: 10px;
       flex-shrink: 0;
-      box-shadow: 0 2px 10px rgba(42, 109, 160, 0.22);
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.18);
     }
     .card h2 { margin: 0 0 0.35rem; font-size: 1.15rem; line-height: 1.35; }
     .meta { color: var(--muted); font-size: 0.92rem; margin: 0 0 0.75rem; }
-    .show-name { color: var(--wtbs-teal); font-weight: 600; }
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
     .links { display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.95rem; }
     footer { margin-top: 2rem; color: var(--muted); font-size: 0.85rem; }
 
+    .card--wtbs {
+      border-left: 4px solid #4c9181;
+      background: linear-gradient(135deg, color-mix(in srgb, var(--card) 92%, #2a6da0 8%), var(--card));
+    }
+    .page--wtbs .note { border-left-color: #4c9181; }
+    .show-name--wtbs { color: #4c9181; font-weight: 600; }
+    .card--kaloh {
+      border-left: 4px solid #e04545;
+      background: linear-gradient(135deg, color-mix(in srgb, var(--card) 92%, #1a2a4a 8%), var(--card));
+    }
+    .page--kaloh .note { border-left-color: #e04545; }
+    .show-name--kaloh { color: #e04545; font-weight: 600; }
   </style>
 </head>
 <body>
   <div class="wrap">
     <div class="hero">
-      <img class="hero-icon" src="assets/wtbs-icon.png" alt="Waiting To Be Signed" width="56" height="56" />
+      <div class="hero-icons">
+      <img class="hero-icon" src="assets/wtbs-icon.png" alt="Waiting To Be Signed" width="48" height="48" />
+      <img class="hero-icon" src="assets/kaloh-icon.png" alt="Kaloh&#x27;s Podcast" width="48" height="48" />
+      </div>
       <h1>Podcast 中文逐字稿</h1>
     </div>
     <p class="subtitle">英文 podcast 轉錄與翻譯，保留原始連結。節目名、平台名、人名等專有名詞不翻譯。</p>
@@ -97,7 +106,7 @@
         <img class="show-icon" src="assets/wtbs-icon.png" alt="Waiting To Be Signed" width="52" height="52" loading="lazy" />
         <div>
           <h2>Turning Pokemon Cards into fx(hash) Grails - Interview with McLlama</h2>
-          <p class="meta"><span class="show-name">Waiting To Be Signed</span> · McLlama (@PompousLL) · 2026-06-09 · 約 58 分鐘</p>
+          <p class="meta"><span class="show-name show-name--wtbs">Waiting To Be Signed</span> · McLlama (@PompousLL) · 2026-06-09 · 約 58 分鐘</p>
         </div>
       </div>
       <div class="links">
@@ -111,13 +120,69 @@
         <img class="show-icon" src="assets/wtbs-icon.png" alt="Waiting To Be Signed" width="52" height="52" loading="lazy" />
         <div>
           <h2>Following The Line - Interview with CCDDBB (Claudio Dalla Bernardina)</h2>
-          <p class="meta"><span class="show-name">Waiting To Be Signed</span> · Claudio Dalla Bernardina · 2026-04-03 · 約 69 分鐘</p>
+          <p class="meta"><span class="show-name show-name--wtbs">Waiting To Be Signed</span> · Claudio Dalla Bernardina · 2026-04-03 · 約 69 分鐘</p>
         </div>
       </div>
       <div class="links">
         <a href="episodes/following-the-line-interview-with-ccddbb-claudio.html">閱讀中文逐字稿</a>
         <a href="https://creators.spotify.com/pod/profile/waitingtobesigned/episodes/Following-The-Line---Interview-with-CCDDBB-Claudio-Dalla-Bernardina-e3hciir/a-acioluj" target="_blank" rel="noopener">Spotify 原始連結</a>
         <a href="https://podcasters.spotify.com/pod/show/waitingtobesigned/episodes/Following-The-Line---Interview-with-CCDDBB-Claudio-Dalla-Bernardina-e3hciir" target="_blank" rel="noopener">節目頁</a>
+      </div>
+    </article>
+    <article class="card card--kaloh">
+      <div class="card-head">
+        <img class="show-icon" src="assets/kaloh-icon.png" alt="Kaloh&#x27;s Podcast" width="52" height="52" loading="lazy" />
+        <div>
+          <h2>Curating Art in the Crypto Age ft. Kate Vass</h2>
+          <p class="meta"><span class="show-name show-name--kaloh">Kaloh&#x27;s Podcast</span> · Curating Art in the Crypto Age ft. Kate Vass · 2024-11-14 · 約 38 分鐘</p>
+        </div>
+      </div>
+      <div class="links">
+        <a href="episodes/curating-art-in-the-crypto-age-ft-kate-vass.html">閱讀中文逐字稿</a>
+        <a href="https://open.spotify.com/episode/13wBpwWj0HoHjf5l8WcLbT" target="_blank" rel="noopener">Spotify 原始連結</a>
+        <a href="https://www.kaloh.xyz/p/curating-art-in-the-crypto-age-ft-kate-vass" target="_blank" rel="noopener">節目頁</a>
+      </div>
+    </article>
+    <article class="card card--kaloh">
+      <div class="card-head">
+        <img class="show-icon" src="assets/kaloh-icon.png" alt="Kaloh&#x27;s Podcast" width="52" height="52" loading="lazy" />
+        <div>
+          <h2>Bright Moments Venice: The Finale ft Seth Goldstein</h2>
+          <p class="meta"><span class="show-name show-name--kaloh">Kaloh&#x27;s Podcast</span> · Bright Moments Venice: The Finale ft Seth Goldstein · 2024-04-18 · 約 46 分鐘</p>
+        </div>
+      </div>
+      <div class="links">
+        <a href="episodes/bright-moments-venice-the-finale-ft-seth-goldste.html">閱讀中文逐字稿</a>
+        <a href="https://open.spotify.com/episode/5dYU0Izvvq2MtuTY0g61fF" target="_blank" rel="noopener">Spotify 原始連結</a>
+        <a href="https://www.kaloh.xyz/p/bright-moments-venice-the-finale" target="_blank" rel="noopener">節目頁</a>
+      </div>
+    </article>
+    <article class="card card--kaloh">
+      <div class="card-head">
+        <img class="show-icon" src="assets/kaloh-icon.png" alt="Kaloh&#x27;s Podcast" width="52" height="52" loading="lazy" />
+        <div>
+          <h2>The Architect&#x27;s Journey into Generative Art ft. Jacek Markusiewicz</h2>
+          <p class="meta"><span class="show-name show-name--kaloh">Kaloh&#x27;s Podcast</span> · The Architect&#x27;s Journey into Generative Art ft. Jacek Markusiewicz · 2024-02-01 · 約 48 分鐘</p>
+        </div>
+      </div>
+      <div class="links">
+        <a href="episodes/the-architect-s-journey-into-generative-art-ft-j.html">閱讀中文逐字稿</a>
+        <a href="https://open.spotify.com/episode/52nHtphyFD6Y6XCn340WhR" target="_blank" rel="noopener">Spotify 原始連結</a>
+        <a href="https://www.kaloh.xyz/p/architects-generative-art-jacek-markusiewicz" target="_blank" rel="noopener">節目頁</a>
+      </div>
+    </article>
+    <article class="card card--kaloh">
+      <div class="card-head">
+        <img class="show-icon" src="assets/kaloh-icon.png" alt="Kaloh&#x27;s Podcast" width="52" height="52" loading="lazy" />
+        <div>
+          <h2>A Generative Artist Journey ft. Ryan Bell</h2>
+          <p class="meta"><span class="show-name show-name--kaloh">Kaloh&#x27;s Podcast</span> · A Generative Artist Journey ft. Ryan Bell · 2023-11-10 · 約 55 分鐘</p>
+        </div>
+      </div>
+      <div class="links">
+        <a href="episodes/a-generative-artist-journey-ft-ryan-bell.html">閱讀中文逐字稿</a>
+        <a href="https://open.spotify.com/episode/1RKOvvlsIkasU7hNLqZO1P" target="_blank" rel="noopener">Spotify 原始連結</a>
+        <a href="https://www.kaloh.xyz/p/the-state-of-generative-and-ai-art-ryan-bell" target="_blank" rel="noopener">節目頁</a>
       </div>
     </article>
 

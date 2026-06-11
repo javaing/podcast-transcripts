@@ -15,6 +15,12 @@ ITUNES_NS = {"itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"}
 
 SHOW_FEEDS = {
     "waitingtobesigned": "https://anchor.fm/s/7c35eb94/podcast/rss",
+    "kaloh": "https://api.substack.com/feed/podcast/357385/s/72330.rss",
+}
+
+SHOW_HOSTS = {
+    "waitingtobesigned": "Will & Trinity",
+    "kaloh": "Kaloh",
 }
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -46,7 +52,8 @@ def extract_show_key(url: str) -> str | None:
 
 
 def fetch_rss_items(feed_url: str) -> tuple[str, list[dict]]:
-    with urllib.request.urlopen(feed_url, timeout=30) as resp:
+    req = urllib.request.Request(feed_url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=30) as resp:
         root = ET.fromstring(resp.read())
     channel = root.find("channel")
     show = channel.findtext("title", "Unknown Show") if channel is not None else "Unknown Show"
@@ -113,26 +120,103 @@ def spotify_oembed(url: str) -> str | None:
     return None
 
 
-def resolve_episode(url: str) -> dict:
-    episode_key = extract_episode_key(url)
-    show_key = extract_show_key(url)
-    if not show_key:
-        raise ValueError(f"Cannot detect show from URL: {url}")
-    feed_url = SHOW_FEEDS.get(show_key)
-    if not feed_url:
-        raise ValueError(
-            f"No RSS feed configured for show '{show_key}'. Add it to SHOW_FEEDS."
-        )
+def _normalize_title(title: str) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()
 
-    show_name, items = fetch_rss_items(feed_url)
-    match = None
+
+def _title_match_score(hint: str, title: str) -> int:
+    hint_n = _normalize_title(hint)
+    title_n = _normalize_title(title)
+    if hint_n == title_n:
+        return 10_000
+    if hint_n in title_n or title_n in hint_n:
+        return 5_000 + min(len(hint_n), len(title_n))
+    hint_words = {w for w in hint_n.split() if len(w) > 3}
+    title_words = set(title_n.split())
+    return len(hint_words & title_words)
+
+
+def _match_rss_item(items: list[dict], episode_key: str | None, title_hint: str | None) -> dict | None:
     if episode_key:
         for item in items:
             if episode_key in item["link"]:
-                match = item
-                break
-    if match is None:
-        raise ValueError(f"Episode not found in RSS for key: {episode_key}")
+                return item
+    if not title_hint:
+        return None
+
+    best_score = 0
+    best_item: dict | None = None
+    for item in items:
+        score = _title_match_score(title_hint, item["title"])
+        if score > best_score:
+            best_score = score
+            best_item = item
+
+    if best_item is None:
+        return None
+    hint_words = {w for w in _normalize_title(title_hint).split() if len(w) > 3}
+    min_overlap = max(4, len(hint_words) * 2 // 3)
+    if best_score >= 5_000 or best_score >= min_overlap:
+        return best_item
+    return None
+
+
+def _resolve_from_feeds(
+    episode_key: str | None,
+    title_hint: str | None,
+    preferred_show_key: str | None = None,
+) -> tuple[str, str, list[dict], dict]:
+    feed_order = list(SHOW_FEEDS.items())
+    if preferred_show_key:
+        feed_order.sort(key=lambda kv: 0 if kv[0] == preferred_show_key else 1)
+
+    best: tuple[int, str, str, list[dict], dict] | None = None
+    for key, rss in feed_order:
+        candidate_show, candidate_items = fetch_rss_items(rss)
+        match = _match_rss_item(candidate_items, episode_key, title_hint)
+        if not match:
+            continue
+        score = _title_match_score(title_hint or "", match["title"]) if title_hint else 1
+        if episode_key and episode_key in match["link"]:
+            score += 20_000
+        if best is None or score > best[0]:
+            best = (score, key, candidate_show, candidate_items, match)
+
+    if best is None:
+        raise ValueError(
+            f"Episode not found in RSS for key: {episode_key or title_hint}"
+        )
+    _, show_key, show_name, items, match = best
+    return show_key, show_name, items, match
+
+
+def resolve_episode(url: str) -> dict:
+    episode_key = extract_episode_key(url)
+    show_key = extract_show_key(url)
+
+    title_hint = None
+    if not show_key and "open.spotify.com/episode/" in url:
+        try:
+            oembed = (
+                "https://open.spotify.com/oembed?url="
+                + urllib.parse.quote(url, safe="")
+            )
+            with urllib.request.urlopen(oembed, timeout=15) as resp:
+                title_hint = json.loads(resp.read().decode()).get("title")
+        except Exception:
+            title_hint = None
+
+    if show_key and show_key in SHOW_FEEDS:
+        show_name, items = fetch_rss_items(SHOW_FEEDS[show_key])
+        match = _match_rss_item(items, episode_key, title_hint)
+        if match is None:
+            show_key, show_name, items, match = _resolve_from_feeds(
+                episode_key, title_hint, preferred_show_key=show_key
+            )
+    elif title_hint or episode_key:
+        show_key, show_name, items, match = _resolve_from_feeds(episode_key, title_hint)
+    else:
+        raise ValueError(f"Cannot detect show from URL: {url}")
 
     title = match["title"]
     guest = parse_guest(title)
@@ -144,7 +228,7 @@ def resolve_episode(url: str) -> dict:
         "slug": slug,
         "title_en": title,
         "show": show_name,
-        "hosts": "Will & Trinity",
+        "hosts": SHOW_HOSTS.get(show_key or "", "Unknown"),
         "guest": guest or title,
         "spotify_url": spotify_url,
         "source_url": source_url,

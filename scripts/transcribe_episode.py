@@ -55,7 +55,7 @@ def _translate_chunk(translator: GoogleTranslator, text: str) -> str:
     if not text:
         return ""
 
-    for attempt in range(3):
+    for attempt in range(8):
         try:
             return translator.translate(text)
         except TranslationNotFound:
@@ -68,24 +68,34 @@ def _translate_chunk(translator: GoogleTranslator, text: str) -> str:
                 right = _translate_chunk(translator, text[split_at:].strip())
                 return f"{left} {right}".strip()
             return text
-        except Exception:
-            if attempt == 2:
+        except Exception as exc:
+            if attempt == 7:
                 raise
-            print(f"    retry after error ({type(translator).__name__})", flush=True)
-            time.sleep(2 * (attempt + 1))
+            wait = min(60, 3 * (2**attempt))
+            print(f"    retry {attempt + 1}/8 after {type(exc).__name__}, wait {wait}s", flush=True)
+            time.sleep(wait)
     return text
 
 
-def translate_to_zh_tw(text: str) -> str:
+def translate_to_zh_tw(text: str, output_path: Path | None = None) -> str:
     glossary = load_glossary()
     paragraphs = [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
     if not paragraphs:
         return ""
 
-    translator = GoogleTranslator(source="en", target="zh-TW")
     translated_paragraphs: list[str] = []
+    if output_path and output_path.exists():
+        existing = [p.strip() for p in output_path.read_text(encoding="utf-8").split("\n\n") if p.strip()]
+        if existing:
+            translated_paragraphs = existing[: len(paragraphs)]
+            print(f"  resuming translation from paragraph {len(translated_paragraphs) + 1}/{len(paragraphs)}", flush=True)
+
+    if len(translated_paragraphs) >= len(paragraphs):
+        return "\n\n".join(translated_paragraphs)
+
+    translator = GoogleTranslator(source="en", target="zh-TW")
     total_chunks = 0
-    for i, para in enumerate(paragraphs, 1):
+    for i, para in enumerate(paragraphs[len(translated_paragraphs) :], len(translated_paragraphs) + 1):
         if i == 1 or i % 25 == 0 or i == len(paragraphs):
             print(f"  translating paragraph {i}/{len(paragraphs)}", flush=True)
         protected, mapping = protect_terms(para, glossary["protected_terms"])
@@ -94,10 +104,12 @@ def translate_to_zh_tw(text: str) -> str:
         translated_parts: list[str] = []
         for part in parts:
             translated_parts.append(_translate_chunk(translator, part))
-            time.sleep(0.15)
+            time.sleep(0.3)
         zh_para = restore_terms(" ".join(translated_parts), mapping)
         zh_para = fix_leaked_placeholders(zh_para, glossary["protected_terms"])
         translated_paragraphs.append(apply_corrections(zh_para, glossary["corrections"]))
+        if output_path:
+            output_path.write_text("\n\n".join(translated_paragraphs), encoding="utf-8")
 
     print(f"  translated {len(paragraphs)} paragraphs ({total_chunks} API chunks)", flush=True)
     return "\n\n".join(translated_paragraphs)
@@ -142,39 +154,60 @@ def transcribe_episode(episode_dir: Path, meta: dict, model_name: str = "base") 
     if not audio.exists():
         raise FileNotFoundError(f"Missing audio file: {audio}")
 
-    print(f"Loading Whisper model ({model_name})...")
-    model = whisper.load_model(model_name)
+    en_path = episode_dir / "transcript_en.txt"
+    turns_path = episode_dir / "transcript_en_turns.json"
+    segments_path = episode_dir / "transcript_en_segments.json"
 
-    print("Transcribing...")
-    result = model.transcribe(
-        str(audio),
-        language="en",
-        task="transcribe",
-        verbose=False,
-        fp16=False,
-    )
+    if en_path.exists() and turns_path.exists() and segments_path.exists():
+        print("Reusing existing English transcript...")
+        full_en = en_path.read_text(encoding="utf-8")
+        turns = json.loads(turns_path.read_text(encoding="utf-8"))
+        labeled_segments = json.loads(segments_path.read_text(encoding="utf-8"))
+        print(f"English transcript: {len(full_en)} chars, {len(turns)} dialogue turns")
+    else:
+        print(f"Loading Whisper model ({model_name})...")
+        model = whisper.load_model(model_name)
 
-    segments = [
-        {"start": s["start"], "end": s["end"], "text": s["text"].strip()}
-        for s in result.get("segments", [])
-        if s.get("text", "").strip()
-    ]
-    labeled_segments = assign_speakers(audio, segments)
-    turns = group_turns(labeled_segments)
-    full_en = format_turns_text(turns)
+        print("Transcribing...")
+        result = model.transcribe(
+            str(audio),
+            language="en",
+            task="transcribe",
+            verbose=False,
+            fp16=False,
+        )
 
-    (episode_dir / "transcript_en.txt").write_text(full_en, encoding="utf-8")
-    (episode_dir / "transcript_en_segments.json").write_text(
-        json.dumps(labeled_segments, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
-    (episode_dir / "transcript_en_turns.json").write_text(
-        json.dumps(turns, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
-    print(f"English transcript: {len(full_en)} chars, {len(turns)} dialogue turns")
+        segments = [
+            {"start": s["start"], "end": s["end"], "text": s["text"].strip()}
+            for s in result.get("segments", [])
+            if s.get("text", "").strip()
+        ]
+        labeled_segments = assign_speakers(audio, segments)
+        turns = group_turns(labeled_segments)
+        full_en = format_turns_text(turns)
 
-    print("Translating to Traditional Chinese...")
-    full_zh = translate_to_zh_tw(full_en)
-    (episode_dir / "transcript_zh-TW.txt").write_text(full_zh, encoding="utf-8")
+        en_path.write_text(full_en, encoding="utf-8")
+        segments_path.write_text(
+            json.dumps(labeled_segments, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+        turns_path.write_text(
+            json.dumps(turns, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+        print(f"English transcript: {len(full_en)} chars, {len(turns)} dialogue turns")
+
+    zh_path = episode_dir / "transcript_zh-TW.txt"
+    if zh_path.exists():
+        en_paras = [p.strip() for p in re.split(r"\n\s*\n", full_en) if p.strip()]
+        zh_paras = [p.strip() for p in zh_path.read_text(encoding="utf-8").split("\n\n") if p.strip()]
+        if len(zh_paras) >= len(en_paras):
+            print("Reusing existing Chinese transcript...")
+            full_zh = zh_path.read_text(encoding="utf-8")
+        else:
+            print("Translating to Traditional Chinese...")
+            full_zh = translate_to_zh_tw(full_en, output_path=zh_path)
+    else:
+        print("Translating to Traditional Chinese...")
+        full_zh = translate_to_zh_tw(full_en, output_path=zh_path)
     en_with_ts = format_turns_markdown(turns)
     (episode_dir / "transcript_zh-TW.md").write_text(
         build_markdown(meta, full_zh, turns, en_with_ts), encoding="utf-8"
