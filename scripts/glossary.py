@@ -66,7 +66,17 @@ def apply_corrections(text: str, corrections: dict[str, str]) -> str:
     return fixed
 
 
+def to_traditional(text: str) -> str:
+    try:
+        import opencc
+
+        return opencc.OpenCC("s2t").convert(text)
+    except ImportError:
+        return text
+
+
 def normalize_transcript(text: str) -> str:
     glossary = load_glossary()
     text = fix_leaked_placeholders(text, glossary["protected_terms"])
-    return apply_corrections(text, glossary["corrections"])
+    text = apply_corrections(text, glossary["corrections"])
+    return to_traditional(text)

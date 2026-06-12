@@ -19,6 +19,7 @@ from glossary import (
     load_glossary,
     protect_terms,
     restore_terms,
+    to_traditional,
 )
 
 
@@ -107,12 +108,14 @@ def translate_to_zh_tw(text: str, output_path: Path | None = None) -> str:
             time.sleep(0.3)
         zh_para = restore_terms(" ".join(translated_parts), mapping)
         zh_para = fix_leaked_placeholders(zh_para, glossary["protected_terms"])
-        translated_paragraphs.append(apply_corrections(zh_para, glossary["corrections"]))
+        translated_paragraphs.append(
+            to_traditional(apply_corrections(zh_para, glossary["corrections"]))
+        )
         if output_path:
             output_path.write_text("\n\n".join(translated_paragraphs), encoding="utf-8")
 
     print(f"  translated {len(paragraphs)} paragraphs ({total_chunks} API chunks)", flush=True)
-    return "\n\n".join(translated_paragraphs)
+    return to_traditional("\n\n".join(translated_paragraphs))
 
 
 def build_markdown(meta: dict, zh: str, turns: list[dict], en_with_ts: str) -> str:
